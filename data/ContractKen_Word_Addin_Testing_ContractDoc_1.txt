@@ -1,0 +1,76 @@
+﻿
+Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
+
+
+Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/
+
+
+Exhibit 10.2
+
+
+
+
+THIRD AMENDED AND RESTATED 
+
+SHAREHOLDERS’ AGREEMENT
+
+between
+
+**************************NORTHSHORE HOLDINGS LIMITED
+
+and
+
+THE SHAREHOLDERS NAMED HEREIN
+
+dated as of
+
+January 1, 2021
+
+Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/
+
+
+
+Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/
+
+
+
+
+TABLE OF CONTENTS
+
+Article 1 Definitions1Article 2 Management and Operation of the Company5Section 2.01Board of Directors5Section 2.02Voting Arrangements7Article 3 Transfer of Interests7Section 3.01General Restrictions on Transfer7Section 3.02Right of First Offer9Section 3.03Drag-along Rights10Section 3.04Tag-along Rights11Article 4 Pre-Emptive Rights and Other Agreements13Section 4.01Pre-emptive Rights13Section 4.02Corporate Opportunities15Section 4.03Confidentiality15Section 4.04Registration Rights16Section 4.05Indemnification; Insurance16Section 4.06Distribution of Proceeds Upon Sale of All or Substantially All Assets16Section 4.07“Market Stand-off” Agreement16Article 5 Information Rights17Section 5.01Financial Statements and Reports17Section 5.02Inspection Rights17Article 6 Cessation of Employment18Section 6.01Leavers18Article 7 Representations and Warranties18Section 7.01Representations and Warranties18Article 8 Term and Termination19Section 8.01Termination19Section 8.02Effect of Termination19Article 9 Miscellaneous19Section 9.01Expenses19Section 9.02Release of Liability19Section 9.03Notices19Section 9.04Interpretation20Section 9.05Headings20Section 9.06Severability20Section 9.07Entire Agreement20Section 9.08Successors and Assigns20Section 9.09No Third-Party Beneficiaries20Section 9.10Amendment and Modification; Waiver21Section 9.11Governing Law21Section 9.12Submission to Jurisdiction; Waiver of Jury Trial21Section 9.13Equitable Remedies21Section 9.14Counterparts21
+
+Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/
+
+
+
+Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/
+
+i
+
+
+THIRD AMENDED AND RESTATED SHAREHOLDERS’ AGREEMENT
+This Third Amended and Restated Shareholders’ Agreement (this “Agreement”), dated as of January 1, 2021 (“Effective Date”), is entered into among Northshore Holdings Limited, a Bermuda exempted company (the “Company”), Trident V, L.P., Trident V Parallel Fund, L.P. and Trident V Professionals Fund, L.P. (collectively, the “Trident Shareholders” and each, a “Trident Shareholder”), Kenmare Holdings Ltd. (the “Enstar Shareholder” and together with the Trident Shareholders, the “Initial Shareholders”), Dowling Capital Partners I, L.P. and Capital City Partners LLC (collectively, the “Dowling Shareholders” and each, a “Dowling Shareholder”), Atrium Nominees Limited (the “Atrium Nominee”), and each other Person who after the date hereof acquires Common Shares of the Company and becomes a party to this Agreement by executing a Joinder Agreement (such Persons, collectively with the Initial Shareholders, the Dowling Shareholders and the Atrium Nominee, the “Shareholders”).
+RECITALS
+WHEREAS, pursuant to the transactions contemplated by the Recapitalization Agreement, dated as of August 13, 2020 (the “Recapitalization Agreement”), by and among the Trident Shareholders, the Enstar Shareholder, the Dowling Shareholders and North Bay Holdings Limited, a Bermuda exempted company (“North Bay”), among other things, North Bay dissolved and distributed all of the shares of the Company held by North Bay to its shareholders, such that immediately following such distribution, each of the Trident Shareholders, the Enstar Shareholder and the Dowling Shareholders became direct shareholders of the Company owning the number of Common Shares set forth opposite such Person’s name on Schedule I attached hereto;
+WHEREAS, the Shareholders deem it in their best interests and in the best interests of the Company to amend and restate that certain Second Amended and Restated Shareholders’ Agreement of the Company, dated as of December 23, 2015, in its entirety and to set forth in this Agreement their respective rights and obligations in connection with their shareholdings in the Company.
+NOW, THEREFORE, in consideration of the mutual covenants and agreements hereinafter set forth and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
+
+Article 1 
+Definitions
+Capitalized terms used herein and not otherwise defined shall have the meanings set forth in this Article 1:
+“Affiliate” means with respect to any Person, any other Person who, directly or indirectly (including through one or more intermediaries), controls, is controlled by, or is under common control with, such Person. For purposes of this definition, “control,” when used with respect to any specified Person, shall mean the power, direct or indirect, to direct or cause the direction of the management and policies of such Person, whether through ownership of voting securities or partnership or other ownership interests, by contract or otherwise; and the terms “controlling” and “controlled” shall have correlative meanings.
+“Agreement” has the meaning set forth in the preamble.
+“Applicable Law” means all applicable provisions of (a) constitutions, treaties, statutes, laws (including the common law), rules, regulations, decrees, ordinances, codes, proclamations, declarations or orders of any Governmental Authority, (b) any consents or approvals of any Governmental Authority and (c) any orders, decisions, advisory or interpretative opinions, injunctions, judgments, awards, decrees of, or agreements with, any Governmental Authority.
+“Arden Re” means Arden Reinsurance Company Ltd.
+1
+
+
+“Atrium” means Atrium Underwriting Group Limited (a company incorporated in England and Wales under registered number 02860390 and whose registered office is at Room 790, Lime Street, London EC3M 7DQ).
+“Atrium Group” means Atrium and any Subsidiary of Atrium from time to time and references to “member of the Atrium Group” shall be construed accordingly.
+“Atrium Nominee” has the meaning set forth in the preamble.
+“Atrium Nominee Tag Notice” has the meaning set forth in Section 3.04(c). 
+“Beneficial Owner” means any current or former employee or officer of a member of the Atrium Group (or their successor) who acquires any beneficial interest in Common Shares (or other shares of the Company which are issued pursuant to a scheme approved by the Board for the return of income or capital to shareholders) or who may become entitled to acquire a beneficial interest in Common Shares (or other shares of the Company which are issued pursuant to a scheme approved by the Board for the return of income or capital to shareholders) as a result of the operation of a Plan.
+“Board” has the meaning set forth in Section 2.0l(a).
+“Business Day” means a day other than a Saturday, Sunday or other day on which commercial banks in Bermuda are authorized or required to close.
+This document was truncated here because it was created in the Evaluation Mode.
+Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/
