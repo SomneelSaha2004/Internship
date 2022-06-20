@@ -1,32 +1,202 @@
 ﻿
 Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
-CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT THAT IS MARKED BY [***] HAS BEEN OMITTED BECAUSE IT (I) IS NOT MATERIAL AND (II) WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF PUBLICLY DISCLOSED. 
-Exhibit 4.11 
-EXECUTION VERSION 
+
+Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
+CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT THAT IS MARKED BY [***] HAS BEEN OMITTED BECAUSE IT (I) IS NOT MATERIAL AND (II) WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF PUBLICLY DISCLOSED.
+Exhibit 4.11
+EXECUTION VERSION
  
  
  
-REVOLVING CREDIT AGREEMENT 
-(2020-1B) 
-Dated as of July 2, 2020 
-between 
-U.S. BANK TRUST NATIONAL ASSOCIATION, 
-as Subordination Agent, 
-U.S. BANK TRUST NATIONAL ASSOCIATION, 
-as agent and trustee for the trustee of 
-Alaska Air Pass Through Trust 2020-1B, 
-as Borrower 
-and 
-CRÉDIT AGRICOLE CORPORATE AND INVESTMENT BANK, 
-ACTING THROUGH ITS NEW YORK BRANCH, 
-as Liquidity Provider 
-Alaska Air Pass Through Trust 2020-1B 
-Alaska Air Pass Through Certificates, Series 2020-1B 
+REVOLVING CREDIT AGREEMENT
+(2020-1B)
+Dated as of July 2, 2020
+between
+U.S. BANK TRUST NATIONAL ASSOCIATION,
+as Subordination Agent,
+U.S. BANK TRUST NATIONAL ASSOCIATION,
+as agent and trustee for the trustee of
+Alaska Air Pass Through Trust 2020-1B,
+as Borrower
+and
+CRÉDIT AGRICOLE CORPORATE AND INVESTMENT BANK,
+ACTING THROUGH ITS NEW YORK BRANCH,
+as Liquidity Provider
+Alaska Air Pass Through Trust 2020-1B
+Alaska Air Pass Through Certificates, Series 2020-1B
  
  
  
 
-Table of Contents 
+Table of Contents
  
-      Page ARTICLE I DEFINITIONS   1 Section 1.01  Definitions   1 ARTICLE II AMOUNT AND TERMS OF THE COMMITMENT   10 Section 2.01  The Advances   10 Section 2.02  Making of Advances   11 Section 2.03  Fees   13 Section 2.04  Reduction or Termination of the Maximum Commitment   13 Section 2.05  Repayments of Interest Advances, the Special Termination Advance or the Final Advance   13 Section 2.06  Repayments of Provider Advances   14 Section 2.07  Payments to the Liquidity Provider Under the Intercreditor Agreement   15 Section 2.08  Book Entries   16 Section 2.09  Payments from Available Funds Only   16 Section 2.10  Extension of the Expiry Date; Non-Extension Advance   16 ARTICLE III OBLIGATIONS OF THE BORROWER   16 Section 3.01  Increased Costs   16 Section 3.02  Reserved   18 Section 3.03  Withholding Taxes   This document was truncated here because it was created in the Evaluation Mode.
+
+
+
+
+
+
+
+ 
+  
+ 
+  
+Page
+ 
+ARTICLE I DEFINITIONS
+  
+ 
+1
+ 
+
+
+
+Section 1.01
+  
+Definitions
+  
+ 
+1
+ 
+
+
+ARTICLE II AMOUNT AND TERMS OF THE COMMITMENT
+  
+ 
+10
+ 
+
+
+
+Section 2.01
+  
+The Advances
+  
+ 
+10
+ 
+
+
+
+Section 2.02
+  
+Making of Advances
+  
+ 
+11
+ 
+
+
+
+Section 2.03
+  
+Fees
+  
+ 
+13
+ 
+
+
+
+Section 2.04
+  
+Reduction or Termination of the Maximum Commitment
+  
+ 
+13
+ 
+
+
+
+Section 2.05
+  
+Repayments of Interest Advances, the Special Termination Advance or the Final Advance
+  
+ 
+13
+ 
+
+
+
+Section 2.06
+  
+Repayments of Provider Advances
+  
+ 
+14
+ 
+
+
+
+Section 2.07
+  
+Payments to the Liquidity Provider Under the Intercreditor Agreement
+  
+ 
+15
+ 
+
+
+
+Section 2.08
+  
+Book Entries
+  
+ 
+16
+ 
+
+
+
+Section 2.09
+  
+Payments from Available Funds Only
+  
+ 
+16
+ 
+
+
+
+Section 2.10
+  
+Extension of the Expiry Date; Non-Extension Advance
+  
+ 
+16
+ 
+
+
+ARTICLE III OBLIGATIONS OF THE BORROWER
+  
+ 
+16
+ 
+
+
+
+Section 3.01
+  
+Increased Costs
+  
+ 
+16
+ 
+
+
+
+Section 3.02
+  
+Reserved
+  
+ 
+18
+ 
+
+
+
+Section 3.03
+  
+Withholding Taxes
+This document was truncated here because it was created in the Evaluation Mode.
 Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/
