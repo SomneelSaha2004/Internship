@@ -1,134 +1,399 @@
-﻿
-Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
 Exhibit 10.9 
+
 DATED December 19, 2019 
+
 Maoyan Entertainment 
+
 and 
+
 AMTD Digital Inc. 
+
  
- 
-SHARE PURCHASE AGREEMENT 
- 
- 
+
  
 
 SHARE PURCHASE AGREEMENT 
+
+ 
+
+ 
+
+ 
+
+
+
+
+SHARE PURCHASE AGREEMENT 
+
 This SHARE PURCHASE AGREEMENT (the “Agreement”) is made and entered into as of December 19, 2019, by and among: 
+
  
- 1.Maoyan Entertainment, an exempted company with limited liability duly established and validly existing under the laws of Cayman Islands (the “Investor”); and  
- 2.AMTD Digital Inc., an exempted company with limited liability duly established and validly existing under the laws of the Cayman Islands (the “Company”). The Company and the Investor are each referred to herein as a “Party,” and collectively as the “Parties.” 
+
+ 
+
+1.
+
+Maoyan Entertainment, an exempted company with limited liability duly established and validly existing under the laws of Cayman Islands (the “Investor”); and 
+
+ 
+
+ 
+
+2.
+
+AMTD Digital Inc., an exempted company with limited liability duly established and validly existing under the laws of the Cayman Islands (the “Company”). 
+
+The Company and the Investor are each referred to herein as a “Party,” and collectively as the “Parties.” 
+
 RECITALS 
+
 The Company desires to issue and sell to the Investor, and the Investor desires to purchase from the Company certain number of class A ordinary shares, par value US$0.0001 per share, of the Company (the “A Shares”) on the terms and conditions set forth in this Agreement. 
+
 NOW, THEREFORE, in consideration of the foregoing recitals, the mutual promises hereinafter set forth, and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties hereby agree as follows: 
+
  
-1.ISSUANCE, SALE, AND PURCHASE OF PURCHASED SHARES. 1.1 Issuance, Sale, and Purchase of Purchased Shares. Subject to the terms and conditions hereof, at the Closing (as defined below) the Company shall issue and sell to the Investor, and the Investor shall purchase from the Company, certain number of A Shares which shall represent a shareholding of 0.8086% in the Company immediately after Closing, the exact number of A Shares to be determined after restructuring of the Company’s shares (the “Purchased Shares”) for an aggregate purchase price of US$3,000,000 (the “Purchase Price”). The pre-money valuation of the Company for this financing round on or about December 2, 2019 shall be US$368,000,000. 
+
+1.
+
+ISSUANCE, SALE, AND PURCHASE OF PURCHASED SHARES. 
+
+1.1 Issuance, Sale, and Purchase of Purchased Shares. Subject to the terms and conditions hereof, at the Closing (as defined below) the Company shall issue and sell to the Investor, and the Investor shall purchase from the Company, certain number of A Shares which shall represent a shareholding of 0.8086% in the Company immediately after Closing, the exact number of A Shares to be determined after restructuring of the Company’s shares (the “Purchased Shares”) for an aggregate purchase price of US$3,000,000 (the “Purchase Price”). The pre-money valuation of the Company for this financing round on or about December 2, 2019 shall be US$368,000,000. 
+
 The Purchased Shares shall have the rights, privileges, and restrictions as set forth in the Amended and Restated Memorandum and Articles of Association of the Company (the “MAA”). 
+
 1.2 Transfer of Funds. The Investor shall pay the Purchase Price by wire transfer of United States dollars in immediately available funds to a designated account of the Company, provided that the Company shall deliver wire transfer instructions to the Investor on or before the date of this Agreement. 
+
  
-2.CLOSINGS; DELIVERY. 2.1 Closing. The allotment and sale of the Purchased Shares shall be held within ten Business Days (“Business Day,” defined as any day other than a Saturday or Sunday on which banks are ordinarily open for business in Hong Kong) after the fulfillment or waiver of the conditions to closing as set forth in Section 6 and Section 7 or at such other time as the Company and the Investor may mutually agree (the “Closing”). 
+
+2.
+
+CLOSINGS; DELIVERY. 
+
+2.1 Closing. The allotment and sale of the Purchased Shares shall be held within ten Business Days (“Business Day,” defined as any day other than a Saturday or Sunday on which banks are ordinarily open for business in Hong Kong) after the fulfillment or waiver of the conditions to closing as set forth in Section 6 and Section 7 or at such other time as the Company and the Investor may mutually agree (the “Closing”). 
+
  
+
 1 
 
+
+
+
 2.2 Delivery. 
+
 Within 2 days upon receipt of the share certificate(s) and register of members from the registered agent of the Company, the Company shall deliver to the Investor (x) the scanned copy of duly issued share certificate(s) issued in favor of such Investor representing the Purchased Shares purchased by such Investor, duly signed for and on behalf of the Company, (y) the scanned copy of the register of members of the Company reflecting the Investor’s ownership of the Purchased Shares and (z) the scanned copy of the board resolutions approving the issuance of the Purchased Shares to the Investor. 
+
  
-3.REPRESENTATIONS AND WARRANTIES OF THE COMPANY. The Company hereby represents and warrants to the Investor as follows: 
+
+3.
+
+REPRESENTATIONS AND WARRANTIES OF THE COMPANY. 
+
+The Company hereby represents and warrants to the Investor as follows: 
+
 3.1 Organization, Standing, and Qualification. Each of the Company and its subsidiaries (the “Group Companies”) is duly established, validly existing, and in good standing (or equivalent status in the relevant jurisdiction) under the laws of the place of its establishment and has all requisite power and authority to own its properties and assets and to carry on its business as now conducted, where failure to be so qualified would have a Material Adverse Effect. “Material Adverse Effect” means a material adverse effect on the business (as presently conducted and presently contemplated to be conducted), condition (financial or otherwise), affairs, properties, liabilities, assets, or results of operation of the Group Companies taken as whole. 
+
 3.2 Capitalization. 
+
 (a) Ordinary Shares. Immediately prior to the Closing, the Company is authorized to issue (i) 8,000,000,000 A Shares, of which zero A Share is issued and outstanding, and (ii) 2,000,000,000 Class B ordinary shares, par value US$0.0001 per share (the “B Shares”), of which AMTD Group Company Limited is the only holder of B Shares. 
+
 (b) Options, Warrants, Reserved Shares. Except for (i) any Shares (and options and warrants therefor) reserved for issuance to the employees, directors, and consultants of the Group Companies pursuant to any equity incentive plan that may be adopted from time to time by the Company, (ii) as provided in the MAA, and (iii) any Shares to be issued to certain potential investors, including the transactions contemplated herein, there are no options, warrants, conversion privileges, agreements, or rights of any kind with respect to the issuance or purchase of the Purchased Shares or any other securities of the Company. Apart from any exceptions noted in the MAA, no outstanding shares (including the Purchased Shares), or shares issuable upon exercise or exchange of any outstanding options, warrants, or other shares issuable by the Company, are subject to any preemptive rights, rights of first refusal, or other rights of any kind to purchase such shares (whether in favor of the Company or any other person). 
+
  
+
 2 
 
+
+
+
 3.3 Due Authorization; Valid Agreement. All corporate actions on the part of the Company necessary for the authorization, execution, and delivery of, and the performance of the obligations of the Company under this Agreement have been taken or will be taken prior to the Closing. This Agreement constitutes a valid and binding obligation of the Company, enforceable in accordance with its terms, except (i) as limited by applicable bankruptcy, insolvency, reorganization, moratorium, and other laws of general application affecting enforcement of creditors’ rights generally, and (ii) as limited by laws relating to the availability of specific performance, injunctive relief, or other equitable remedies. 
+
 3.4 Valid Issuance of Purchased Shares. The Purchased Shares, when issued, sold, delivered, and paid for by the Investor in accordance with the terms of this Agreement, will be duly and validly issued, fully paid, and non-assessable 
+
 3.5 Compliance with Laws; Consents and Permits. Neither the execution and the delivery of this Agreement nor the consummation of the transactions contemplated hereby, will (i) violate any provision of the organizational documents of the Company or violate any constitution, statute, regulation, or rule of any government authority to which the Company is subject, or (ii) conflict with, result in a breach of, constitute a default under, any agreement to which the Company is a party. Each Group Company has all material Permits, licenses, and any similar authority necessary for the conduct of its business as currently conducted and the ownership of its properties and assets. 
+
 3.6 Exempt Offering. The offer and sale of the Purchased Shares under this Agreement are or shall be exempt from the registration requirements and prospectus delivery requirements of the U.S. Securities Act of 1933, as amended (the “Act”), and from the registration or qualification requirements of any other applicable securities laws and regulations. None of the Company, its affiliates, or any person acting on its behalf, has engaged in any directed selling efforts (within the meaning of Regulation S under the Act) in the United States in connection with the transactions contemplated in this Agreement. 
+
 3.7 Insolvency and Winding Up3.8 . No order or petition has been presented or resolution passed for the administration, winding-up, dissolution, or liquidation of any Group Company and no administrator, receiver, or manager has been appointed in respect thereof. None of the Group Companies has commenced any other proceeding under any bankruptcy, reorganization, composition, arrangement, adjustment of debt, release of debtors, dissolution, insolvency, liquidation, or similar Law of any jurisdiction and no such proceedings have been commenced against any Group Company. 
+
  
-4.REPRESENTATIONS AND WARRANTIES OF THE INVESTOR. The Investor represents and warrants to the Company as follows: 
+
+4.
+
+REPRESENTATIONS AND WARRANTIES OF THE INVESTOR. 
+
+The Investor represents and warrants to the Company as follows: 
+
 4.1 Authorization. The Investor has all requisite power, authority, and capacity to enter into this Agreement and to perform its obligations under this Agreement. This Agreement has been duly authorized, executed, and delivered by the Investor. This Agreement, when executed and delivered by the Investor, will constitute valid and legally binding obligations of such Investor enforceable in accordance with its terms, subject, as to enforcement of remedies, to applicable bankruptcy, insolvency, moratorium, reorganization, and similar laws affecting creditors’ rights generally and to general equitable principles. 
+
  
+
 3 
 
+
+
+
 4.2 Purchase for Own Account. The Purchased Shares will be acquired for the Investor’s own account, not as a nominee or agent, and not with a view to or in connection with the sale or distribution of any part thereof. By executing this Agreement, the Investor further represents that it does not have any contract with any person to sell, transfer, or grant participations to any person, with respect to any of the Purchased Shares. 
+
 4.3 Organization, Good Standing, and Qualification. The Investor is duly established, validly existing, and in good standing under the laws of the jurisdiction of its formation. 
+
 4.4 Investment Experience. The Investor acknowledges that it is able to fend for itself, can bear the economic risks of its investment, and has such knowledge and experience in financial or business matters that it is capable of evaluating the merits and risks of the investment in the Purchased Shares. 
+
 4.5 Status of Investor. The Investor is (i) not a U.S. person within the meaning of Rule 902 of Regulation S under the Act, or (ii) purchasing the Purchased Shares outside the United States in compliance with Regulation S under the Act and in accordance with any applicable securities laws of any state of the United States or any other jurisdiction. 
+
 4.6 Restricted Securities. Investor understands that the Purchased Shares it is purchasing are characterized as “restricted securities” under U.S. federal securities laws inasmuch as they are being acquired from the Company in a transaction not involving a public offering and that under such laws and applicable regulations such securities may be resold without registration under the Act only in certain limited circumstances. 
+
 4.7 Legends. It is understood that the certificates evidencing the Purchased Shares shall bear the following legend: 
+
 “THESE SECURITIES HAVE NOT BEEN REGISTERED UNDER THE SECURITIES ACT OF 1933, AS AMENDED. THEY MAY NOT BE SOLD, OFFERED FOR SALE, PLEDGED, OR HYPOTHECATED IN THE ABSENCE OF A REGISTRATION STATEMENT IN EFFECT WITH RESPECT TO THE SECURITIES UNDER SUCH ACT OR A VALID EXEMPTION THEREFROM.” 
+
  
-5.COVENANTS. 5.1 Distribution Compliance Period. The Investor agrees not to resell or transfer any Purchased Shares within the United States or to any U.S. person, as each of those terms is defined in Regulation S under the Act, during the forty (40) days following the Closing Date. 
+
+5.
+
+COVENANTS. 
+
+5.1 Distribution Compliance Period. The Investor agrees not to resell or transfer any Purchased Shares within the United States or to any U.S. person, as each of those terms is defined in Regulation S under the Act, during the forty (40) days following the Closing Date. 
+
 5.2 Lock-Up. In connection with any initial public offering of the Shares, the Investor hereby irrevocably agrees to enter into a lock-up agreement with the underwriters and other relevant parties and be subject to a lock-up period of at least 180 days. 
+
  
+
 4 
 
+
+
+
 5.3 Non-Disclosure. The Investor shall, and shall cause its affiliates to: (i) treat and hold as strictly confidential (and not disclose or provide access to any person or entity to) all confidential or proprietary information relating to the transactions contemplated hereby, including without limitation the existence and content of this Agreement (collectively, “Confidential Information”), (ii) in the event that the Investor or any of its affiliates becomes legally compelled to disclose any such information, provide the Company with prompt written notice of such requirement so that the Company may seek a protective order or other remedy or waive compliance with this Section 5.2, and (iii) in the event that such protective order or other remedy is not obtained, or the Company chooses to waive compliance with this Section 5.2, furnish only that portion of such confidential information that is legally required to be provided and exercise its reasonable endeavors to obtain assurances that confidential treatment will be accorded such information. 
+
 5.4 Additional Investment. The Investor indicated an intention to invest in additional Shares or American depositary shares representing Shares if and when the Company conducts an IPO, of an amount of no less than US$100,000. The Company and the lead underwriters shall have the right to accept or not accept such investment and, if so accepted, to determine whether to accept the investment as part of the IPO or as a private placement. Neither the Company nor any underwriter for the Company’s IPO is under any obligation or commitment to issue any shares to the Investor in the IPO. Any such issuance will be decided by the Company and the lead underwriters for the IPO and must be in compliance with all applicable laws, regulations and rules. 
+
  
-6.CONDITIONS TO THE INVESTOR’S OBLIGATIONS AT THE CLOSING. 6.1 The obligation of the Investor to purchase the Purchased Shares at the Closing is subject to the fulfillment, to the satisfaction of such Investor (or waiver thereof) on or prior to the date of the Closing (the “Closing Date”), of the following conditions: 
+
+6.
+
+CONDITIONS TO THE INVESTOR’S OBLIGATIONS AT THE CLOSING. 
+
+6.1 The obligation of the Investor to purchase the Purchased Shares at the Closing is subject to the fulfillment, to the satisfaction of such Investor (or waiver thereof) on or prior to the date of the Closing (the “Closing Date”), of the following conditions: 
+
 (a) Representations and Warranties True and Correct. The representations and warranties made by the Company in Section 3 hereof shall be true and correct as of the Closing Date (except to the extent such representations and warranties expressly speak of a specified date, in which case such representations and warranties shall be true and correct as of such specified date). 
+
 (b) Proceedings and Documents. The resolutions of the board of directors of the Company in connection with the transactions contemplated hereby shall have been duly passed. 
+
 6.2 The Investor may at any time waive in writing any of the conditions above, on such terms as it may decide. 
+
  
-7.CONDITIONS TO THE COMPANY’S OBLIGATIONS AT THE CLOSING. 7.1 Closing. The obligations of the Company under this Agreement with respect to the Investor are subject to the fulfillment, on or prior to the Closing Date of the following conditions: 
+
+7.
+
+CONDITIONS TO THE COMPANY’S OBLIGATIONS AT THE CLOSING. 
+
+7.1 Closing. The obligations of the Company under this Agreement with respect to the Investor are subject to the fulfillment, on or prior to the Closing Date of the following conditions: 
+
 (a) Representations and Warranties. The representations and warranties of the Investor contained in Section 4 hereof shall be true and correct as of the Closing Date (except to the extent such representations and warranties expressly speak of a specified date, in which case such representations and warranties shall be true and correct as of such specified date). 
+
  
+
 5 
 
+
+
+
 (b) Payment of the Purchase Price. The Investor shall have delivered to the Company the Purchase Price in accordance with Section 1.2. 
+
  
-8.MISCELLANEOUS. 8.1 Indemnity. 
+
+8.
+
+MISCELLANEOUS. 
+
+8.1 Indemnity. 
+
 (a) Each Party (an “Indemnifying Party”) shall indemnify the other Party and its directors, officers, employees, and agents (each, an “Indemnitee”) against any losses, liabilities, damages, liens, penalties, diminution in value, costs, and expenses, including reasonable advisor’s fees and other reasonable expenses of investigation and defense of any of the foregoing, incurred by such Indemnitee (the “Indemnifiable Loss”) as a result of (i) any breach or violation of any representation or warranty made by the Indemnifying Party, or (ii) any breach by the Indemnifying Party of any covenant or agreement contained herein. 
+
 (b) If an Indemnitee believes that it has a claim that may give rise to an indemnity obligation hereunder, it shall promptly notify the Indemnifying Party stating specifically the basis on which such claim is being made, the material facts related thereto, and (if ascertainable or quantifiable) the amount of the claim asserted. In the event of a third-party claim against an Indemnitee for which such Indemnitee seeks indemnification from the Indemnifying Party, no settlement shall be deemed conclusive with respect whether there was an Indemnifiable Loss or the amount of such Indemnifiable Loss unless such settlement is consented to by the Indemnifying Party. Any dispute related to this Section 8.1(b) shall be resolved pursuant to Section 8.14 hereof. 
+
 (c) (i) The Indemnifying Party shall not have any liability under this Agreement until the aggregate amount of Indemnifiable Loss incurred by an Indemnitee exceeds an amount equal to US$1,000,000, in which case such Indemnitee shall be entitled to indemnification of the entire amount of the Indemnifiable Loss; and (ii) the amount of Indemnifiable Loss for which the Indemnitee may be indemnified by the Indemnifying Party under this Agreement shall be limited to the Purchase Price actually paid by the Investor. 
+
 (d) Notwithstanding any other provision contained herein, this Section 8.1 shall be the sole and exclusive monetary remedy of each Party for any claim arising out of or resulting from this Agreement and the transactions contemplated hereby, except that no limitation or exceptions with respect to the obligations or liabilities on any Party provided in the foregoing sub-sections under this Section 8.1 shall apply to an Indemnifiable Loss arising due to the fraud or willful misconduct of such Party. 
+
 8.2 Governing Law. This Agreement shall be governed by and construed in accordance with the law of Hong Kong as to matters within the scope thereof, without regard to its principles of conflicts of laws. 
+
 8.3 Survival. The representations, warranties, covenants, and agreements made herein shall survive for two (2) years after the Closing. 
+
  
+
 6 
 
+
+
+
 8.4 Successors and Assigns. Except as otherwise expressly provided herein, the provisions hereof shall inure to the benefit of, and be binding upon, the successors, assigns, heirs, executors, and administrators of the Parties. This Agreement and the rights and obligations therein may not be assigned by a Party without the written consent of the other Party. 
+
 8.5 Entire Agreement. This Agreement and the schedules and exhibits hereto constitute the entire understanding and agreement between the Parties with regard to the subjects hereof and thereof; provided, however, that nothing in this Agreement shall be deemed to terminate or supersede the provisions of any applicable confidentiality and non-disclosure agreements executed by the Parties prior to the date hereof, which agreements shall continue in full force and effect until terminated in accordance with their respective terms. 
+
 8.6 Notices. Except as may be otherwise provided herein, all notices, requests, waivers, and other communications made pursuant to this Agreement shall be in writing and shall be conclusively deemed to have been duly given (i) when hand delivered to a Party, upon delivery; (ii) when sent by facsimile at the number set forth in Exhibit A hereto, upon receipt of confirmation of error-free transmission; (iii) seven (7) Business Days after deposit in the mail as air mail or certified mail, receipt requested, postage prepaid, and addressed to the relevant Party or Parties as set forth in Exhibit A; or (iv) three (3) Business Days after deposit with an overnight delivery service, postage prepaid, addressed to the relevant Parties as set forth in Exhibit A with next business day delivery guaranteed, provided that the sending Party receives a confirmation of delivery from the delivery service provider. 
+
 Each person making a communication hereunder by facsimile shall promptly confirm by telephone to the person to whom such communication was addressed each communication made by it by facsimile pursuant hereto, but the absence of such confirmation shall not affect the validity of any such communication. A Party may change or supplement the addresses given above, or designate additional addresses, for purposes of this Section 8.6, by giving the other parties written notice of the new address in the manner set forth above. 
+
 8.7 Amendments. Any term of this Agreement may be amended only with the written consent of the Company and the Investor. 
+
 8.8 Delays or Omissions. No delay or omission to exercise any right, power, or remedy accruing to any Party, upon any breach or default of any other Party under this Agreement, shall impair any such right, power, or remedy of such Party, nor shall it be construed to be a waiver of any such breach or default, or an acquiescence therein, or of any similar breach of default thereafter occurring; nor shall any waiver of any other breach or default theretofore or thereafter occurring. Any waiver, permit, consent, or approval of any kind or character of any breach or default under this Agreement or any waiver thereof, must be in writing and shall be effective only to the extent specifically set forth in such writing. All remedies, either under this Agreement, or by law or otherwise afforded to the Parties shall be cumulative and not alternative. 
+
 8.9 Finder’s Fees. Each Party represents and warrants to the other Party that it has retained no finder or broker in connection with the transactions contemplated by this Agreement. 
+
  
+
 7 
 
+
+
+
 8.10 Interpretation; Titles and Subtitles. This Agreement shall be construed according to its fair language. The rule of construction to the effect that ambiguities are to be resolved against the drafting party shall not be employed in interpreting this Agreement. The titles of the sections and subsections of this Agreement are for convenience of reference only and are not to be considered in construing this Agreement. Unless otherwise expressly provided herein, all references to Sections and Exhibits herein are to Sections and Exhibits of this Agreement. As used in this Agreement, the words “include” and “including,” and variations thereof, shall not be deemed to be terms of limitation, but rather shall be deemed to be followed by the words “without limitation.” 
+
 8.11 Counterparts. This Agreement may be executed (including facsimile signature) in any number of counterparts, each of which shall be an original, but all of which together shall constitute one instrument. 
+
 8.12 Severability. If any provision of this Agreement is found to be invalid or unenforceable, then such provision shall be construed, to the extent feasible, so as to render the provision enforceable and to provide for the consummation of the transactions contemplated hereby on substantially the same terms as originally set forth herein, and if no feasible interpretation would save such provision, it shall be severed from the remainder of this Agreement, which shall remain in full force and effect unless the severed provision is essential to the rights or benefits intended by the parties. In such event, the parties shall use best efforts to negotiate, in good faith, a substitute, valid and enforceable provision or agreement which most nearly effects the parties’ intent in entering into this Agreement. 
+
 8.13 Further Assurances. Each Party shall from time to time and at all times hereafter make, do, execute, or cause or procure to be made, done, and executed such further acts, deeds, conveyances, consents, and assurances without further consideration, which may reasonably be required to effect the transactions contemplated by this Agreement. 
+
 8.14 Dispute Resolution. 
+
 (a) Consultation Between Parties. Any dispute, controversy or, claim or difference of any kind whatsoever arising out of, relating to, or in connection with this Agreement, or the breach, termination, or invalidity hereof (including the validity, scope, and enforceability of this arbitration provision) (the “Dispute”) shall first be attempted to be resolved through consultation between the Parties in good faith for a period of thirty (30) days after written notice has been sent by registered mail by any Party to the other Party (the “Consultation Period”). 
+
 (b) Arbitration. If the Dispute remains unresolved upon expiration of the Consultation Period, any Party may in its sole discretion elect to submit the matter to arbitration with notice to any other Party or Parties. The arbitration shall be conducted in Hong Kong and shall be administered by the Hong Kong International Arbitration Centre (“HKIAC”) in accordance with the HKIAC Administered Arbitration Rules in force at the time of the commencement of the arbitration. The arbitration tribunal shall consist of three arbitrators. The language of the arbitration shall be English. The decision of the arbitrators (by rule of majority) shall be final and binding on the parties (including any decision on their fees) and their fees shall be borne and paid by the parties in such proportions as the arbitrators shall determine. 
+
  
+
 8 
 
+
+
+
 8.15 Expenses. The Investor and the Company shall bear their own cost and expense for consummation of the transaction contemplated hereunder. 
+
 [The Remainder of this page has been intentionally left blank] 
+
  
+
 9 
 
+
+
+
 IN WITNESS WHEREOF, the parties hereto have caused their respective duly authorized representatives to execute this Agreement as of the date and year first above written. 
+
  
-THE COMPANY:AMTD DIGITAL INC.By: /s/ Marcellus Wong Name: Marcellus Wong Title: Executive Vice Chairman of AMTD Group
+
+
+
+
+
+
+
+THE COMPANY:
+
+
+
+AMTD DIGITAL INC.
+
+
+
+
+
+By:
+
+ 
+
+/s/ Marcellus Wong
+
+
+
+ 
+
+Name: Marcellus Wong
+
+
+
+ 
+
+Title: Executive Vice Chairman of AMTD Group
+
+
+
+
 IN WITNESS WHEREOF, the parties hereto have caused their respective duly authorized representatives to execute this Agreement as of the date and year first above written. 
+
  
-THE INVESTOR:MAOYAN ENTERTAINMENTBy: /s/ Authorized Signatory Name: Title:
+
+
+
+
+
+
+
+THE INVESTOR:
+
+
+
+MAOYAN ENTERTAINMENT
+
+
+
+
+
+By:
+
+ 
+
+/s/ Authorized Signatory
+
+
+
+ 
+
+Name:
+
+
+
+ 
+
+Title:
+
+
+
+
 EXHIBIT A 
+
 Notices 
+
 To the Company 
+
  
-Address:23/F-25/F, Nexxus Building, 41 Connaught Road Central, Hong Kong  
-Facsimile:*********************  
-Attention:********************* To the Investor 
+
+Address:
+
+23/F-25/F, Nexxus Building, 41 Connaught Road Central, Hong Kong 
+
+ 
+
+Facsimile:
+
+********************* 
+
+ 
+
+Attention:
+
+********************* 
+
+To the Investor 
+
 Address: 1st floor, Building 3, Zhongguancun Yonghe Hangxing Science Park, No. 11 Hepingli East Street, Dongcheng District, Beijing, PRC 
+
 Facsimile: 
+
  
-Attention:********************* 
-Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/
+
+Attention:
+
+*********************

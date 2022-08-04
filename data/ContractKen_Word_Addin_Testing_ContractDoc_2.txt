@@ -1,202 +1,2653 @@
-﻿
-Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
+CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT THAT IS MARKED BY [***] HAS BEEN OMITTED BECAUSE IT (I) IS NOT MATERIAL AND (II) WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF PUBLICLY DISCLOSED. 
 
-Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
-CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT THAT IS MARKED BY [***] HAS BEEN OMITTED BECAUSE IT (I) IS NOT MATERIAL AND (II) WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF PUBLICLY DISCLOSED.
-Exhibit 4.11
-EXECUTION VERSION
- 
- 
- 
-REVOLVING CREDIT AGREEMENT
-(2020-1B)
-Dated as of July 2, 2020
-between
-U.S. BANK TRUST NATIONAL ASSOCIATION,
-as Subordination Agent,
-U.S. BANK TRUST NATIONAL ASSOCIATION,
-as agent and trustee for the trustee of
-Alaska Air Pass Through Trust 2020-1B,
-as Borrower
-and
-CRÉDIT AGRICOLE CORPORATE AND INVESTMENT BANK,
-ACTING THROUGH ITS NEW YORK BRANCH,
-as Liquidity Provider
-Alaska Air Pass Through Trust 2020-1B
-Alaska Air Pass Through Certificates, Series 2020-1B
- 
- 
- 
+Exhibit 4.11 
 
-Table of Contents
- 
-
-
-
-
-
-
+EXECUTION VERSION 
 
  
+
+ 
+
+ 
+
+REVOLVING CREDIT AGREEMENT 
+
+(2020-1B) 
+
+Dated as of July 2, 2020 
+
+between 
+
+U.S. BANK TRUST NATIONAL ASSOCIATION, 
+
+as Subordination Agent, 
+
+U.S. BANK TRUST NATIONAL ASSOCIATION, 
+
+as agent and trustee for the trustee of 
+
+Alaska Air Pass Through Trust 2020-1B, 
+
+as Borrower 
+
+and 
+
+CRÉDIT AGRICOLE CORPORATE AND INVESTMENT BANK, 
+
+ACTING THROUGH ITS NEW YORK BRANCH, 
+
+as Liquidity Provider 
+
+Alaska Air Pass Through Trust 2020-1B 
+
+Alaska Air Pass Through Certificates, Series 2020-1B 
+
+ 
+
+ 
+
+ 
+
+
+
+
+Table of Contents 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
   
+
  
+
   
+
 Page
+
  
+
 ARTICLE I DEFINITIONS
+
   
+
  
+
 1
+
  
+
+
+
+
 
 
 
 Section 1.01
+
   
+
 Definitions
+
   
+
  
+
 1
+
  
+
+
+
 
 
 ARTICLE II AMOUNT AND TERMS OF THE COMMITMENT
+
   
+
  
+
 10
+
  
+
+
+
+
 
 
 
 Section 2.01
+
   
+
 The Advances
+
   
+
  
+
 10
+
  
+
+
+
+
 
 
 
 Section 2.02
+
   
+
 Making of Advances
+
   
+
  
+
 11
+
  
+
+
+
+
 
 
 
 Section 2.03
+
   
+
 Fees
+
   
+
  
+
 13
+
  
+
+
+
+
 
 
 
 Section 2.04
+
   
+
 Reduction or Termination of the Maximum Commitment
+
   
+
  
+
 13
+
  
+
+
+
+
 
 
 
 Section 2.05
+
   
+
 Repayments of Interest Advances, the Special Termination Advance or the Final Advance
+
   
+
  
+
 13
+
  
+
+
+
+
 
 
 
 Section 2.06
+
   
+
 Repayments of Provider Advances
+
   
+
  
+
 14
+
  
+
+
+
+
 
 
 
 Section 2.07
+
   
+
 Payments to the Liquidity Provider Under the Intercreditor Agreement
+
   
+
  
+
 15
+
  
+
+
+
+
 
 
 
 Section 2.08
+
   
+
 Book Entries
+
   
+
  
+
 16
+
  
+
+
+
+
 
 
 
 Section 2.09
+
   
+
 Payments from Available Funds Only
+
   
+
  
+
 16
+
  
+
+
+
+
 
 
 
 Section 2.10
+
   
+
 Extension of the Expiry Date; Non-Extension Advance
+
   
+
  
+
 16
+
  
+
+
+
 
 
 ARTICLE III OBLIGATIONS OF THE BORROWER
+
   
+
  
+
 16
+
  
+
+
+
+
 
 
 
 Section 3.01
+
   
+
 Increased Costs
+
   
+
  
+
 16
+
  
+
+
+
+
 
 
 
 Section 3.02
+
   
+
 Reserved
+
   
+
  
+
 18
+
  
+
+
+
+
 
 
 
 Section 3.03
+
   
+
 Withholding Taxes
-This document was truncated here because it was created in the Evaluation Mode.
-Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/
+
+  
+
+ 
+
+18
+
+ 
+
+
+
+
+
+
+
+Section 3.04
+
+  
+
+Payments
+
+  
+
+ 
+
+20
+
+ 
+
+
+
+
+
+
+
+Section 3.05
+
+  
+
+Computations
+
+  
+
+ 
+
+20
+
+ 
+
+
+
+
+
+
+
+Section 3.06
+
+  
+
+Payment on Non-Business Days
+
+  
+
+ 
+
+20
+
+ 
+
+
+
+
+
+
+
+Section 3.07
+
+  
+
+Interest
+
+  
+
+ 
+
+21
+
+ 
+
+
+
+
+
+
+
+Section 3.08
+
+  
+
+Replacement of Borrower
+
+  
+
+ 
+
+22
+
+ 
+
+
+
+
+
+
+
+Section 3.09
+
+  
+
+Funding Loss Indemnification
+
+  
+
+ 
+
+22
+
+ 
+
+
+
+
+
+
+
+Section 3.10
+
+  
+
+Illegality
+
+  
+
+ 
+
+23
+
+ 
+
+
+
+
+
+ARTICLE IV CONDITIONS PRECEDENT
+
+  
+
+ 
+
+23
+
+ 
+
+
+
+
+
+
+
+Section 4.01
+
+  
+
+Conditions Precedent to Effectiveness of Section 2.01
+
+  
+
+ 
+
+23
+
+ 
+
+
+
+
+
+
+
+Section 4.02
+
+  
+
+Conditions Precedent to Borrowing
+
+  
+
+ 
+
+25
+
+ 
+
+ 
+
+i 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Section 4.03
+
+  
+
+Representations and Warranties
+
+  
+
+ 
+
+25
+
+ 
+
+
+
+
+
+ARTICLE V COVENANTS
+
+  
+
+ 
+
+25
+
+ 
+
+
+
+
+
+
+
+Section 5.01
+
+  
+
+Affirmative Covenants of the Borrower
+
+  
+
+ 
+
+25
+
+ 
+
+
+
+
+
+
+
+Section 5.02
+
+  
+
+Negative Covenants of the Borrower
+
+  
+
+ 
+
+26
+
+ 
+
+
+
+
+
+ARTICLE VI LIQUIDITY EVENTS OF DEFAULT AND SPECIAL TERMINATION
+
+  
+
+ 
+
+26
+
+ 
+
+
+
+
+
+
+
+Section 6.01
+
+  
+
+Liquidity Events of Default
+
+  
+
+ 
+
+26
+
+ 
+
+
+
+
+
+ARTICLE VII MISCELLANEOUS
+
+  
+
+ 
+
+27
+
+ 
+
+
+
+
+
+
+
+Section 7.01
+
+  
+
+No Oral Modifications or Continuing Waivers
+
+  
+
+ 
+
+27
+
+ 
+
+
+
+
+
+
+
+Section 7.02
+
+  
+
+Notices
+
+  
+
+ 
+
+27
+
+ 
+
+
+
+
+
+
+
+Section 7.03
+
+  
+
+No Waiver; Remedies
+
+  
+
+ 
+
+28
+
+ 
+
+
+
+
+
+
+
+Section 7.04
+
+  
+
+Further Assurances
+
+  
+
+ 
+
+28
+
+ 
+
+
+
+
+
+
+
+Section 7.05
+
+  
+
+Indemnification; Survival of Certain Provisions
+
+  
+
+ 
+
+28
+
+ 
+
+
+
+
+
+
+
+Section 7.06
+
+  
+
+Liability of the Liquidity Provider
+
+  
+
+ 
+
+28
+
+ 
+
+
+
+
+
+
+
+Section 7.07
+
+  
+
+Certain Costs and Expenses
+
+  
+
+ 
+
+29
+
+ 
+
+
+
+
+
+
+
+Section 7.08
+
+  
+
+Binding Effect; Participations
+
+  
+
+ 
+
+30
+
+ 
+
+
+
+
+
+
+
+Section 7.09
+
+  
+
+Severability
+
+  
+
+ 
+
+31
+
+ 
+
+
+
+
+
+
+
+Section 7.10
+
+  
+
+Governing Law
+
+  
+
+ 
+
+31
+
+ 
+
+
+
+
+
+
+
+Section 7.11
+
+  
+
+Submission to Jurisdiction; Waiver of Jury Trial; Waiver of Immunity
+
+  
+
+ 
+
+32
+
+ 
+
+
+
+
+
+
+
+Section 7.12
+
+  
+
+Counterparts
+
+  
+
+ 
+
+32
+
+ 
+
+
+
+
+
+
+
+Section 7.13
+
+  
+
+Entirety
+
+  
+
+ 
+
+33
+
+ 
+
+
+
+
+
+
+
+Section 7.14
+
+  
+
+Headings
+
+  
+
+ 
+
+33
+
+ 
+
+
+
+
+
+
+
+Section 7.15
+
+  
+
+Liquidity Provider’s Obligation to Make Advances
+
+  
+
+ 
+
+33
+
+ 
+
+
+
+
+
+
+
+Section 7.16
+
+  
+
+Patriot Act
+
+  
+
+ 
+
+33
+
+ 
+
+
+
+
+
+
+
+Section 7.17
+
+  
+
+Acknowledgment and Consent to Bail-In of EEA Financial Institutions
+
+  
+
+ 
+
+33
+
+ 
+
+
+
+
+
+
+
+Section 7.18
+
+  
+
+Head Office Obligations
+
+  
+
+ 
+
+34
+
+ 
+
+ 
+
+ii 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Annex I
+
+  
+
+-
+
+ 
+
+Form of Interest Advance Notice of Borrowing
+
+Annex II
+
+  
+
+-
+
+ 
+
+Form of Non-Extension Advance Notice of Borrowing
+
+Annex III
+
+  
+
+-
+
+ 
+
+Form of Downgrade Advance Notice of Borrowing
+
+Annex IV
+
+  
+
+-
+
+ 
+
+Form of Final Advance Notice of Borrowing
+
+Annex V
+
+  
+
+-
+
+ 
+
+Form of Special Termination Advance Notice of Borrowing
+
+Annex VI
+
+  
+
+-
+
+ 
+
+Form of Notice of Termination
+
+Annex VII
+
+  
+
+-
+
+ 
+
+Form of Notice of Special Termination
+
+Annex VIII
+
+  
+
+-
+
+ 
+
+Form of Notice of Replacement Subordination Agent
+
+ 
+
+iii 
+
+
+
+
+REVOLVING CREDIT AGREEMENT 
+
+(2020-1B) 
+
+This REVOLVING CREDIT AGREEMENT (2020-1B), dated as of July 2, 2020, is made by and between U.S. BANK TRUST NATIONAL ASSOCIATION, a national association organized under the laws of the United States, not in its individual capacity but solely as Subordination Agent (such term and other capitalized terms used herein without definition being defined as provided in Article I) under the Intercreditor Agreement (as defined below) and as agent and trustee for the Class B Trustee (in such capacity, together with its successors in such capacity, the “Borrower”), and CRÉDIT AGRICOLE CORPORATE AND INVESTMENT BANK, ACTING THROUGH ITS NEW YORK BRANCH, a société anonyme organized under the laws of France, acting through its New York Branch (the “Liquidity Provider”). 
+
+W I T N E S S E T H: 
+
+WHEREAS, pursuant to the Class B Trust Agreement, the Class B Trust is issuing the Class B Certificates; and 
+
+WHEREAS, the Borrower, in order to support the timely payment of a portion of the interest on the Class B Certificates in accordance with their terms, has requested the Liquidity Provider to enter into this Agreement, providing in part for the Borrower to request in specified circumstances that Advances be made hereunder. 
+
+NOW, THEREFORE, in consideration of the mutual agreements herein contained, and of other good and valuable consideration the receipt and adequacy of which are hereby acknowledged, the parties hereto agree as follows: 
+
+ARTICLE I 
+
+DEFINITIONS 
+
+Section 1.01    Definitions. (a) The definitions stated herein apply equally to both the singular and the plural forms of the terms defined. 
+
+(a)    All references in this Agreement to designated “Articles”, “Sections”, “Annexes” and other subdivisions are to the designated Article, Section, Annex or other subdivision of this Agreement, unless otherwise specifically stated. 
+
+(b)    The words “herein”, “hereof” and “hereunder” and other words of similar import refer to this Agreement as a whole and not to any particular Article, Section, Annex or other subdivision. 
+
+(c)    Unless the context otherwise requires, whenever the words “including”, “include” or “includes” are used herein, it shall be deemed to be followed by the phrase “without limitation”. 
+
+
+
+
+(d)    All references in this Agreement to a Person shall include successors and permitted assigns of such Person. 
+
+(e)    For the purposes of this Agreement, unless the context otherwise requires, the following capitalized terms shall have the following meanings: 
+
+“Advance” means an Interest Advance, a Final Advance, a Provider Advance, an Unapplied Provider Advance, an Applied Provider Advance, a Special Termination Advance, an Unapplied Special Termination Advance, an Applied Special Termination Advance or an Unpaid Advance, as the case may be. 
+
+“Agreement” means this Agreement, as the same may be amended, supplemented or otherwise modified from time to time in accordance with its terms. 
+
+“Applicable Liquidity Rate” has the meaning specified in Section 3.07(h). 
+
+“Applicable Margin” means (a) with respect to any Interest Advance, Final Advance, Applied Provider Advance or Applied Special Termination Advance, 3.75% per annum, (b) with respect to any Unapplied Provider Advance, the rate per annum specified in the Fee Letter or (c) with respect to any Unapplied Special Termination Advance, Manual Edit the rate per annum specified in the Fee Letter. 
+
+“Applied Downgrade Advance” has the meaning specified in Section 2.06(a). 
+
+“Applied Non-Extension Advance” has the meaning specified in Section 2.06(a). 
+
+“Applied Provider Advance” means an Applied Downgrade Advance or an Applied Non-Extension Advance. 
+
+“Applied Special Termination Advance” has the meaning specified in Section 2.05. 
+
+“Bail-In Action” means the exercise of any Write-Down and Conversion Powers by the applicable EEA Resolution Authority in respect of any liability of an EEA Financial Institution. 
+
+“Bail-In Legislation” means, with respect to any EEA Member Country implementing Article 55 of Directive 2014/59/EU of the European Parliament and of the Council of the European Union, the implementing law for such EEA Member Country from time to time which is described in the EU Bail-In Legislation Schedule. 
+
+“Base Rate” means a fluctuating interest rate per annum in effect from time to time, which rate per annum shall at all times be equal to the sum of (a) the weighted average of the rates on overnight Federal funds transactions with members of the Federal Reserve System arranged by Federal funds brokers, as published for each day in the period for which the Base Rate is to be determined (or, if such day is not a Business Day, for the preceding Business Day) by the Federal Reserve Bank of New York, or if such rate is not so published for any day that is a Business Day, the average of the quotations for such day for such transactions received by the Liquidity Provider from three Federal funds brokers of recognized standing selected by it (and reasonably satisfactory to the Airlines) plus (b) one-quarter of one percent (0.25%). 
+
+ 
+
+2 
+
+
+
+
+“Base Rate Advance” means an Advance that bears interest at a rate based upon the Base Rate. 
+
+“Benchmark Replacement Event” means, in respect of the London Interbank Offered Rate or any successor Benchmark Replacement Rate, an event where the applicable administrator (or other applicable source) for such rate permanently or indefinitely ceases to provide such rate, without any successor administrator (or other applicable source) continuing to provide such rate. 
+
+“Benchmark Replacement Rate” means, following the occurrence of a Benchmark Replacement Event (with respect to the London Interbank Offered Rate or any then applicable successor Benchmark Replacement Rate (the “Terminating Rate”)), or at the request of the Airlines or the Liquidity Provider in anticipation thereof following any applicable public statement from the administrator or regulatory supervisor (or other applicable authority or source) identifying a specific date for occurrence of such Benchmark Replacement Event, an applicable alternate rate of interest (including any relevant adjusting spread) to such Terminating Rate that gives due consideration to (i) the then prevailing market convention for determining a rate of interest for U.S. dollar-denominated credit facilities at such time (as the applicable market replacement for such Terminating Rate) and (ii) the requirements under proposed U.S. Treasury regulations section 1.1001-6 and any successor regulations or guidance relating thereto, to the extent applicable, for the replacement of such Terminating Rate with such alternate rate of interest and any associated alteration not to be treated as a taxable exchange for U.S. federal income tax purposes, as determined pursuant to mutual written agreement of the Airlines and the Liquidity Provider, each acting reasonably. 
+
+“Borrower” has the meaning specified in the introductory paragraph to this Agreement. 
+
+“Borrowing” means the making of Advances requested by delivery of a Notice of Borrowing. 
+
+“Business Day” means any day other than a Saturday, a Sunday or a day on which commercial banks are required or authorized to close in New York, New York, Wilmington, Delaware, or, so long as any Class B Certificate is outstanding, the city and state in which the Class B Trustee, the Borrower or any related Loan Trustee maintains its Corporate Trust Office or receives or disburses funds, and, if the applicable Business Day relates to any Advance or other amount bearing interest based on the LIBOR Rate, on which dealings are carried on in the London interbank market. 
+
+“Code” means the United States Internal Revenue Code of 1986, as amended. 
+
+“Covered Taxes” means any Taxes imposed by the United States, or any political subdivision or taxing authority thereof or therein, that are required by law to be deducted or withheld from any amounts payable to the Liquidity Provider under this Agreement other than (i) any such Tax on, based on or measured by net income, franchises or conduct of business, 
+
+ 
+
+3 
+
+
+
+
+(ii) any such Tax imposed, levied, withheld or assessed as a result of any connection between the Liquidity Provider and the United States or such political subdivision or taxing authority, other than a connection arising solely from the Liquidity Provider’s having executed, delivered, performed its obligations or received a payment under, or enforced, any Operative Agreement, (iii) any such Tax attributable to the inaccuracy in or breach by the Liquidity Provider of any of its representations, warranties or covenants contained in any Operative Agreement to which it is a party or the inaccuracy of any form, certificate or document furnished pursuant thereto, (iv) any such withholding Taxes imposed by the United States except to the extent such withholding Taxes would not have been required to be deducted or withheld from payments hereunder but for a change after the date hereof in the Code or the Treasury Regulations thereunder that affects the exemption for income that is effectively connected with the conduct of a trade or business within the United States, (v) any withholding Taxes imposed by the United States which are imposed or increased as a result of the Liquidity Provider failing to deliver to the Borrower any form, certificate or document (which form, certificate or document, in the good faith judgment of the Liquidity Provider, it is legally entitled to provide) which is reasonably requested by the Borrower to establish that payments under this Agreement are exempt from (or entitled to a reduced rate of) withholding Tax, (vi) any such Taxes that would not have been imposed but for any change in the Lending Office without the prior written consent of the Airlines (such consent not to be unreasonably withheld), or (vii) any Taxes imposed under FATCA. 
+
+“Downgrade Advance” means an Advance made pursuant to Section 2.02(b)(ii). 
+
+“Downgrade Event” means any downgrading of, or any suspension or withdrawal of any applicable rating of, the Liquidity Provider by any Rating Agency such that after such downgrading, suspension or withdrawal the Liquidity Provider does not have the minimum Long-Term Rating specified for such Rating Agency in the definition of “Threshold Rating”. The occurrence of a Downgrade Event shall be determined separately for each Rating Agency. For the avoidance of doubt, a Downgrade Event shall not occur with respect to a Rating Agency so long as the Liquidity Provider has either of the applicable Threshold Ratings specified for such Rating Agency. 
+
+“EEA Financial Institution” means (a) any credit institution or investment firm established in any EEA Member Country that is subject to the supervision of an EEA Resolution Authority, (b) any entity established in an EEA Member Country that is a parent of an institution described in clause (a) of this definition, or (c) any financial institution established in an EEA Member Country that is a subsidiary of an institution described in clauses (a) or (b) of this definition and is subject to consolidated supervision with its parent. 
+
+“EEA Member Country” means any of the member states of the European Union, Iceland, Liechtenstein, and Norway. 
+
+“EEA Resolution Authority” means any public administrative authority or any person entrusted with public administrative authority of any EEA Member Country (including any delegee) having responsibility for the resolution of any EEA Financial Institution. 
+
+ 
+
+4 
+
+
+
+
+“Effective Date” has the meaning specified in Section 4.01. The delivery of the certificate of the Liquidity Provider contemplated by Section 4.01(e) shall be conclusive evidence that the Effective Date has occurred. 
+
+“EU Bail-In Legislation Schedule” means the EU Bail-In Legislation Schedule published by the Loan Market Association (or any successor person), as in effect from time to time. 
+
+“Excluded Taxes” means (a) Taxes imposed on the overall net income of the Liquidity Provider, (b) Taxes imposed on the “effectively connected income” of its Lending Office, (c) Covered Taxes that are indemnified pursuant to Section 3.03 hereof, and (d) Taxes described in clauses (i) through (vii) in the definition of “Covered Taxes”. 
+
+“Expenses” means liabilities, losses, damages, costs and expenses (including, without limitation, reasonable fees and disbursements of legal counsel), provided that Expenses shall not include any Taxes other than sales, use and V.A.T. taxes imposed on fees and expenses payable pursuant to Section 7.07. 
+
+“Expiry Date” means the earlier of (a) the anniversary date of the Closing Date immediately following the date on which the Liquidity Provider has provided a Non-Extension Notice to the Borrower pursuant to Section 2.10 and (b) the 15th day after the Final Legal Distribution Date of the Class B Certificates. 
+
+“FATCA” means Sections 1471 through 1474 of the Code as of the date of this Agreement (or any amended or successor provisions that are substantively comparable and not materially more onerous to comply with); any current or future regulations or official interpretations thereof; any agreements entered into pursuant to Section 1471(b)(1) of the Code; any intergovernmental agreement entered into in connection with any of the foregoing; and any fiscal or regulatory legislation, rules or practices adopted pursuant to any such intergovernmental agreement. 
+
+“Final Advance” means an Advance made pursuant to Section 2.02(c). 
+
+“Head Office” has the meaning specified in Section 7.18. 
+
+“Increased Cost” has the meaning specified in Section 3.01. 
+
+“Intercreditor Agreement” means the Intercreditor Agreement, dated as of the date hereof, among the Trustees, the Liquidity Provider, the liquidity provider under each Liquidity Facility (other than this Agreement), and the Subordination Agent, as the same may be amended, supplemented or otherwise modified from time to time in accordance with its terms. 
+
+“Interest Advance” means an Advance made pursuant to Section 2.02(a). 
+
+ 
+
+5 
+
+
+
+
+“Interest Period” means, with respect to any LIBOR Advance, each of the following periods: 
+
+(i)    the period beginning on the third Business Day following either (A) the Liquidity Provider’s receipt of the Notice of Borrowing for such LIBOR Advance or (B) the date of the withdrawal of funds from the Class B Cash Collateral Account for the purpose of paying interest on the Class B Certificates as contemplated by Section 2.06(a) hereof and, in each case, ending on the next succeeding Regular Distribution Date; and 
+
+(ii)    each subsequent period commencing on the last day of the immediately preceding Interest Period and ending on the next succeeding Regular Distribution Date; 
+
+provided, however, that if (x) the Final Advance shall have been made pursuant to Section 2.02(c) or (y) other outstanding Advances shall have been converted into the Final Advance pursuant to Section 6.01(a), then the Interest Periods shall be successive periods of one month beginning on (A) the third Business Day following the Liquidity Provider’s receipt of the Notice of Borrowing for such Final Advance (in the case of clause (x) above) or (B) the Regular Distribution Date following such conversion (in the case of clause (y) above). 
+
+“Lending Office” means the lending office of the Liquidity Provider through which it acts for purposes of this Agreement, which is presently located at 1301 Avenue of the Americas, New York, NY 10019, or such other lending office as the Liquidity Provider from time to time shall notify the Borrower as its lending office hereunder; provided that the Liquidity Provider shall not change its Lending Office without the prior written consent of the Airlines (such consent not to be unreasonably withheld). 
+
+“LIBOR Advance” means an Advance bearing interest at a rate based upon the LIBOR Rate. 
+
+“LIBOR Rate” means, with respect to any Interest Period, (a) the interest rate per annum equal to the London Interbank Offered Rate per annum administered by ICE Benchmark Administration Limited (or any other successor person which takes over administration of that rate) for Dollar deposits, which rate is displayed on the Reuters Screen LIBOR01 (or such other page or screen as may replace such Reuters Screen) at approximately 11:00 a.m. (London time) on the day that is two Business Days prior to the first day of such Interest Period, for a period comparable to such Interest Period, or (b) if no such rate appears on such Reuters Screen (or otherwise as aforesaid), the interest rate per annum equal to the average (rounded up, if necessary, to the nearest 1/100th of 1%) of the rates per annum at which deposits in Dollars are offered by the Reference Banks (or, if fewer than all of the Reference Banks are quoting a rate for deposits in Dollars for the applicable period and amount, such fewer number of Reference Banks) at approximately 11:00 a.m. (London time) on the day that is two Business Days prior to the first day of such Interest Period to prime banks in the London interbank market for a period comparable to such Interest Period and in an amount approximately equal to the principal amount of the LIBOR Advance to be outstanding during such Interest Period, or (c) if none of the Reference Banks is quoting a rate for deposits in Dollars in the London interbank market for such a period and amount, the interest rate per annum equal to the average (rounded up, if necessary, to the nearest 1/100th of 1%) of the rates at which deposits in Dollars are offered by the principal New York offices of the Reference Banks (or, if fewer than all of the Reference Banks are quoting a rate for deposits in Dollars in the New York interbank market for the 
+
+ 
+
+6 
+
+
+
+
+applicable period and amount, such fewer number of Reference Banks) at approximately 11:00 a.m. (New York time) on the day that is two Business Days prior to the first day of such Interest Period to prime banks in the New York interbank market for a period comparable to such Interest Period and in an amount approximately equal to the principal amount of the LIBOR Advance to be outstanding during such Interest Period, or (d) if none of the principal New York offices of the Reference Banks is quoting a rate for deposits in Dollars in the New York interbank market for the applicable period and amount, the Base Rate; provided that, if a Benchmark Replacement Event has occurred (or an applicable Benchmark Replacement Rate has otherwise been established with agreed effectiveness prior to such Benchmark Replacement Event), the LIBOR Rate shall be the lower of (i) the Base Rate and (ii) the Benchmark Replacement Rate (if then established and effective); provider, further, that, if the LIBOR Rate determined as provided above with respect to any LIBOR Advance for any Interest Period would be less than zero, then the LIBOR Rate with respect to such LIBOR Advance shall be deemed to be zero. 
+
+“Liquidity Event of Default” means the occurrence of either (a) the Acceleration of all of the Equipment Notes or (b) an Airline Bankruptcy Event. 
+
+“Liquidity Indemnitee” means the Liquidity Provider, its directors, officers, employees and agents, and its successors and permitted assigns. 
+
+“Liquidity Provider” has the meaning specified in the introductory paragraph to this Agreement. 
+
+“Maximum Available Commitment” means, subject to the proviso contained in the third sentence of Section 2.02(a), at any time of determination, (a) the Maximum Commitment at such time less (b) the aggregate amount of each Interest Advance outstanding at such time; provided that, subject to Section 2.06(d), following a Provider Advance, a Special Termination Advance or a Final Advance, the Maximum Available Commitment shall be zero. 
+
+“Maximum Commitment” means $26,966,600, as the same may be reduced from time to time in accordance with Section 2.04(a). 
+
+“Non-Extension Advance” means an Advance made pursuant to Section 2.02(b)(i). 
+
+“Non-Extension Notice” has the meaning specified in Section 2.10. 
+
+“Notice of Borrowing” has the meaning specified in Section 2.02(e). 
+
+“Notice of Replacement Subordination Agent” has the meaning specified in Section 3.08. 
+
+“Offering Memorandum” means the final Offering Memorandum, dated June 24, 2020, relating to the offering of the Class B Certificates. 
+
+“Participation” has the meaning specified in Section 7.08(b). 
+
+ 
+
+7 
+
+
+
+
+“Performing Note Deficiency” means any time that less than 65% of the then aggregate outstanding principal amount of all Series A Equipment Notes and all Series B Equipment Notes are Performing Equipment Notes. 
+
+“Permitted Transferee” means any Person that: 
+
+(a)    is not a commercial air carrier, the Parent, an Airline or any affiliate of an Airline; and 
+
+(b)    is any one of: 
+
+(1)    a commercial banking institution organized under the laws of the United States or any state thereof or the District of Columbia; 
+
+(2)    a commercial banking institution that (x) is organized under the laws of France, Germany, The Netherlands, Switzerland or the United Kingdom, (y) is entitled on the date it acquires any Participation to a complete exemption from United States federal income taxes for all income derived by it from the transactions contemplated by the Operative Agreements under an income tax treaty, as in effect on such date, between the United States and such jurisdiction of its organization and (z) is engaged in the active conduct of a banking business in such jurisdiction of its organization, holds its Participation in connection with such banking business in such jurisdiction and is regulated as a commercial banking institution by the appropriate regulatory authorities in such jurisdiction; or 
+
+(3)    a commercial banking institution that (x) is organized under the laws of Canada, France, Germany, Ireland, Japan, Luxembourg, The Netherlands, Sweden, Switzerland or the United Kingdom and (y) is entitled on the date it acquires any Participation to a complete exemption from withholding of United States federal income taxes for all income derived by it from the transactions contemplated by the Operative Agreements under laws as in effect on such date by reason of such income being effectively connected with the conduct of a trade or business within the United States. 
+
+“Provider Advance” means a Downgrade Advance or a Non-Extension Advance. 
+
+“Rate Determination Notice” has the meaning specified in Section 3.07(g). 
+
+“Reference Banks” means the principal London offices of: Barclays Bank plc, JP Morgan Chase Bank and Citibank, N.A.; and/or such other or additional banking institutions as may be designated from time to time by mutual agreement of the Airlines and the Liquidity Provider. 
+
+“Regulatory Change” means (x) the enactment, adoption or promulgation, after the date of this Agreement, of any law or regulation by a United States federal or state government or by any government having jurisdiction over the Liquidity Provider, or any change, after the date of this Agreement, in any such law or regulation, or in the interpretation thereof by any governmental authority, central bank or comparable agency of the United States or any 
+
+ 
+
+8 
+
+
+
+
+government having jurisdiction over the Liquidity Provider charged with responsibility for the administration or application thereof, that shall impose, modify or deem applicable, or (y) the compliance by the Liquidity Provider (or its Head Office) with any applicable direction or requirement (whether or not having the force of law) of any central bank or competent governmental or other authority, after the date of this Agreement, with respect to: (a) any reserve, special deposit or similar requirement against extensions of credit or other assets of, or deposits with or other liabilities of, the Liquidity Provider including, or by reason of, the Advances, or (b) any capital adequacy requirement requiring the maintenance by the Liquidity Provider of additional capital in respect of any Advances or the Liquidity Provider’s obligation to make any such Advances, or (c) any requirement to maintain liquidity or liquid assets in respect of the Liquidity Provider’s obligation to make any such Advances, or (d) any Taxes (other than Excluded Taxes) with respect to the amounts payable or paid hereunder to the Liquidity Provider or any change in the basis of taxation of any amounts payable hereunder to the Liquidity Provider (other than in respect of Excluded Taxes). 
+
+“Replenishment Amount” has the meaning specified in Section 2.06(b). 
+
+“Required Amount” means, for any day, the sum of the aggregate amount of interest, calculated at the rate per annum equal to the Stated Interest Rate for the Class B Certificates on the basis of a 360-day year comprised of twelve 30-day months, that would be distributable on the Class B Certificates on each of the three successive semiannual Regular Distribution Dates immediately following such day or, if such day is a Regular Distribution Date, on such day and the succeeding two semiannual Regular Distribution Dates, in each case calculated on the basis of the Pool Balance of the Class B Certificates on such day and without regard to expected future distributions of principal on the Class B Certificates. 
+
+“Special Termination Advance” means an Advance made pursuant to Section 2.02(d). 
+
+“Special Termination Notice” means the Notice of Special Termination substantially in the form of Annex VII to this Agreement. 
+
+“Termination Date” means the earliest to occur of the following: (i) the Expiry Date; (ii) the date on which the Borrower delivers to the Liquidity Provider a certificate, signed by a Responsible Officer of the Borrower, certifying that all of the Class B Certificates have been paid in full (or provision has been made for such payment in accordance with the Intercreditor Agreement and the Class B Trust Agreement) or are otherwise no longer entitled to the benefits of this Agreement; (iii) the date on which the Borrower delivers to the Liquidity Provider a certificate, signed by a Responsible Officer of the Borrower, certifying that a Replacement Liquidity Facility has been substituted for this Agreement in full pursuant to Section 3.05(e) of the Intercreditor Agreement; (iv) the fifth Business Day following the receipt by the Borrower of a Termination Notice or a Special Termination Notice from the Liquidity Provider pursuant to Section 6.01(a) or 6.01(b), as applicable; and (v) the date on which no Advance is or may (including by reason of reinstatement as herein provided) become available for a Borrowing hereunder. 
+
+“Termination Notice” means the Notice of Termination substantially in the form of Annex VI to this Agreement. 
+
+ 
+
+9 
+
+
+
+
+“Unapplied Advance” has the meaning specified in Section 3.07(e). 
+
+“Unapplied Downgrade Advance” means the portion of any Downgrade Advance that is not an Applied Downgrade Advance. 
+
+“Unapplied Non-Extension Advance” means the portion of any Non-Extension Advance that is not an Applied Non-Extension Advance. 
+
+“Unapplied Provider Advance” means the portion of any Provider Advance that is not an Applied Provider Advance. 
+
+“Unapplied Special Termination Advance” means the portion of any Special Termination Advance that is not an Applied Special Termination Advance. 
+
+“Unpaid Advance” has the meaning specified in Section 2.05. 
+
+“Write-Down and Conversion Powers” means, with respect to any EEA Resolution Authority, the write-down and conversion powers of such EEA Resolution Authority from time to time under the Bail-In Legislation for the applicable EEA Member Country, which write-down and conversion powers are described in the EU Bail-In Legislation Schedule. 
+
+For the purposes of this Agreement, the following terms shall have the respective meanings specified in the Intercreditor Agreement: 
+
+“Acceleration”, “Additional Certificates”, “Aircraft”, “Airline”, “Airline Bankruptcy Event”, “Certificate”, “Certificate Purchase Agreement”, “Class A Certificates”, “Class B Cash Collateral Account”, “Class B Certificateholders”, “Class B Certificates”, “Class B Trust”, “Class B Trust Agreement”, “Class B Trustee”, “Closing Date”, “Collection Account”, “Corporate Trust Office”, “Distribution Date”, “Dollars”, “Downgrade Drawing”, “Downgraded Facility”, “Equipment Notes”, “Fee Letter”, “Final Legal Distribution Date”, “Indenture”, “Initial Purchasers”, “Interest Payment Date”, “Investment Earnings”, “Liquidity Facility”, “Loan Trustee”, “Long-Term Rating”, “Non-Extended Facility”, “Operative Agreements”, “Parent”, “Participation Agreements”, “Performing Equipment Note”, “Person”, “Pool Balance”, “Rating Agencies”, “Regular Distribution Date”, “Replacement Liquidity Facility”, “Responsible Officer”, “Scheduled Payment”, “Series A Equipment Notes”, “Series B Equipment Notes”, “Special Payment”, “Stated Interest Rate”, “Subordination Agent”, “Taxes”, “Threshold Rating”, “Treasury Regulations”, “Trust Agreement”, “Trustee”, and “United States”. 
+
+ARTICLE II 
+
+AMOUNT AND TERMS OF THE COMMITMENT 
+
+Section 2.01    The Advances. The Liquidity Provider hereby irrevocably agrees, on the terms and conditions hereinafter set forth, to make Advances to the Borrower from time to time on any Business Day during the period from the Effective Date until 12:00 noon (New York City time) on the Expiry Date (unless the obligations of the Liquidity Provider shall be earlier terminated in accordance with the terms of Section 2.04(b)) in an aggregate amount at any time outstanding not to exceed the Maximum Commitment. 
+
+ 
+
+10 
+
+
+
+
+Section 2.02    Making of Advances. (a) Each Interest Advance shall be made by the Liquidity Provider upon delivery to the Liquidity Provider of a written and completed Notice of Borrowing in substantially the form of Annex I, signed by a Responsible Officer of the Borrower, such Interest Advance to be in an amount not exceeding the Maximum Available Commitment at such time and used solely for the payment when due of interest with respect to the Class B Certificates at the Stated Interest Rate therefor in accordance with Section 3.05(a) and 3.05(b) of the Intercreditor Agreement. Each Interest Advance made hereunder shall automatically reduce the Maximum Available Commitment and the amount available to be borrowed hereunder by subsequent Advances by the amount of such Interest Advance (subject to reinstatement as provided in the next sentence). Upon repayment to the Liquidity Provider in full or in part of the amount of any Interest Advance made pursuant to this Section 2.02(a), together with accrued interest thereon (as provided herein), the Maximum Available Commitment shall be reinstated by an amount equal to the amount of such Interest Advance so repaid, but not to exceed the Maximum Commitment; provided, however, that the Maximum Available Commitment shall not be so reinstated at any time if (x) both a Performing Note Deficiency exists and a Liquidity Event of Default shall have occurred and be continuing or (y) a Final Advance, a Downgrade Advance, a Non-Extension Advance or a Special Termination Advance shall have occurred, except as provided in Section 2.06(d) with respect to a Downgrade Drawing. 
+
+(a)    (i) A Non-Extension Advance shall be made by the Liquidity Provider in a single Borrowing if this Agreement is not extended in accordance with Section 3.05(d) of the Intercreditor Agreement unless a Replacement Liquidity Facility to replace this Agreement shall have been previously delivered to the Borrower in accordance with said Section 3.05(d), upon delivery to the Liquidity Provider of a written and completed Notice of Borrowing in substantially the form of Annex II, signed by a Responsible Officer of the Borrower, in an amount equal to the Maximum Available Commitment at such time, and shall be used to fund the Class B Cash Collateral Account in accordance with Sections 3.05(d) and 3.05(f) of the Intercreditor Agreement. 
+
+(ii)    A Downgrade Advance shall be made by the Liquidity Provider in a single Borrowing upon this Liquidity Facility becoming a Downgraded Facility (as provided for in Section 3.05(c) of the Intercreditor Agreement) unless a Replacement Liquidity Facility to replace this Agreement shall have been previously delivered to the Borrower in accordance with said Section 3.05(c), upon delivery to the Liquidity Provider of a written and completed Notice of Borrowing in substantially the form of Annex III, signed by a Responsible Officer of the Borrower, in an amount equal to the Maximum Available Commitment at such time, and shall be used to fund the Class B Cash Collateral Account in accordance with Sections 3.05(c) and 3.05(f) of the Intercreditor Agreement. 
+
+(b)    A Final Advance shall be made by the Liquidity Provider in a single Borrowing following the receipt by the Borrower of a Termination Notice from the Liquidity Provider pursuant to Section 6.01(a) upon delivery to the Liquidity Provider of a written and 
+
+ 
+
+11 
+
+
+
+
+completed Notice of Borrowing in substantially the form of Annex IV, signed by a Responsible Officer of the Borrower, in an amount equal to the Maximum Available Commitment at such time, and shall be used to fund the Class B Cash Collateral Account in accordance with Sections 3.05(f) and 3.05(i) of the Intercreditor Agreement. 
+
+(c)    A Special Termination Advance shall be made in a single Borrowing upon the receipt by the Borrower of a Special Termination Notice from the Liquidity Provider pursuant to Section 6.01(b), by delivery to the Liquidity Provider of a written and completed Notice of Borrowing in substantially the form of Annex V, signed by a Responsible Officer of the Borrower, in an amount equal to the Maximum Available Commitment at such time, and shall be used to fund the Class B Cash Collateral Account in accordance with Section 3.05(f) and Section 3.05(k) of the Intercreditor Agreement. 
+
+(d)    Each Borrowing shall be made by notice in writing (a “Notice of Borrowing”) in substantially the form required by Section 2.02(a), 2.02(b), 2.02(c) or 2.02(d), as the case may be, given by the Borrower to the Liquidity Provider. If a Notice of Borrowing is delivered by the Borrower in respect of any Borrowing no later than 12:30 p.m. (New York City time) on a Business Day, upon satisfaction of the conditions precedent set forth in Section 4.02 with respect to such requested Borrowing, the Liquidity Provider shall make available to the Borrower, in accordance with its payment instructions, the amount of such Borrowing in Dollars and immediately available funds, before 4:00 p.m. (New York City time) on such Business Day or before 12:30 p.m. (New York City time) on such later Business Day specified in such Notice of Borrowing. If a Notice of Borrowing is delivered by the Borrower in respect of any Borrowing after 12:30 p.m. (New York City time) on a Business Day, upon satisfaction of the conditions precedent set forth in Section 4.02 with respect to such requested Borrowing, the Liquidity Provider shall make available to the Borrower, in accordance with its payment instructions, the amount of such Borrowing in Dollars and immediately available funds, before 1:00 p.m. (New York City time) on the first Business Day next following the day of receipt of such Notice of Borrowing or on such later Business Day specified by the Borrower in such Notice of Borrowing. Payments of proceeds of a Borrowing shall be made by wire transfer of immediately available funds to the Borrower in accordance with such wire transfer instructions as the Borrower shall furnish from time to time to the Liquidity Provider for such purpose. Each Notice of Borrowing shall be irrevocable and binding on the Borrower. Each Notice of Borrowing shall be effective upon delivery of a copy thereof to the Liquidity Provider at the address and in the manner specified in Section 7.02 hereof. 
+
+(e)    Upon the making of any Advance requested pursuant to a Notice of Borrowing in accordance with the Borrower’s payment instructions, the Liquidity Provider shall be fully discharged of its obligation hereunder with respect to such Notice of Borrowing, and the Liquidity Provider shall not thereafter be obligated to make any further Advances hereunder in respect of such Notice of Borrowing to the Borrower or to any other Person (including the Class B Trustee or any Class B Certificateholder). If the Liquidity Provider makes an Advance requested pursuant to a Notice of Borrowing before 12:00 noon (New York City time) on the second Business Day after the date of payment specified in Section 2.02(e), the Liquidity Provider shall have fully discharged its obligations hereunder with respect to such Advance and an event of default shall not have occurred hereunder. Following the making of any Advance 
+
+ 
+
+12 
+
+
+
+
+pursuant to Section 2.02(b), 2.02(c) or 2.02(d) to fund the Class B Cash Collateral Account, the Liquidity Provider shall have no interest in or rights to the Class B Cash Collateral Account, such Advance or any other amounts from time to time on deposit in the Class B Cash Collateral Account; provided that the foregoing shall not affect or impair the obligations of the Subordination Agent to make the distributions contemplated by Section 3.05(c)(v), 3.05(e) or 3.05(f) of the Intercreditor Agreement and provided, further, that the foregoing shall not affect or impair the rights of the Liquidity Provider to provide written instructions with respect to the investment and reinvestment of amounts in the Class B Cash Collateral Account to the extent the Liquidity Provider is entitled to do so pursuant to Section 2.2(b) of the Intercreditor Agreement. By paying to the Borrower proceeds of Advances requested by the Borrower in accordance with the provisions of this Agreement, the Liquidity Provider makes no representation as to, and assumes no responsibility for, the correctness or sufficiency for any purpose of the amount of the Advances so made and requested. 
+
+Section 2.03    Fees. The Borrower agrees to pay to the Liquidity Provider the fees set forth in the Fee Letter. 
+
+Section 2.04    Reduction or Termination of the Maximum Commitment. (a) Automatic Reduction. Promptly following each date on which the Required Amount is reduced as a result of a reduction in the Pool Balance of the Class B Certificates, the Maximum Commitment shall automatically be reduced to an amount equal to such reduced Required Amount (as calculated by the Borrower). The Borrower shall give notice of any such automatic reduction of the Maximum Commitment to the Liquidity Provider and the Airlines within two Business Days thereof. The failure by the Borrower to furnish any such notice shall not affect any such automatic reduction of the Maximum Commitment. 
+
+(a)    Termination. Upon the making of any Provider Advance or Special Termination Advance or the making of or conversion to a Final Advance hereunder or the occurrence of the Termination Date, the obligation of the Liquidity Provider to make further Advances hereunder shall automatically and irrevocably terminate, and the Borrower shall not be entitled to request any further Borrowing hereunder, except in the case of a Downgrade Advance, as provided in Section 2.06(d). 
+
+Section 2.05    Repayments of Interest Advances, the Special Termination Advance or the Final Advance. Subject to Sections 2.06, 2.07 and 2.09 hereof, the Borrower hereby agrees, without notice of an Advance or demand for repayment from the Liquidity Provider (which notice and demand are hereby waived by the Borrower), to pay, or to cause to be paid, to the Liquidity Provider (a) on each date on which the Liquidity Provider shall make an Interest Advance, the Special Termination Advance or the Final Advance, an amount equal to the amount of such Advance (any such Advance, until repaid, is referred to herein as an “Unpaid Advance”), plus (b) interest on the amount of each such Unpaid Advance in the amounts and on the dates determined as provided in Section 3.07; provided that if (i) the Liquidity Provider shall make a Provider Advance at any time after making one or more Interest Advances which shall not have been repaid in accordance with this Section 2.05 or (ii) this Liquidity Facility shall become a Downgraded Facility or Non-Extended Facility at any time when unreimbursed Interest Advances have reduced the Maximum Available Commitment to zero, then such Interest 
+
+ 
+
+13 
+
+
+
+
+Advances shall cease to constitute Unpaid Advances and shall be deemed to have been changed into an Applied Downgrade Advance or an Applied Non-Extension Advance, as the case may be, for all purposes of this Agreement (including, without limitation, for the purpose of determining when such Interest Advance is required to be repaid to the Liquidity Provider in accordance with Section 2.06 and for the purposes of Section 2.06(b)); provided, further, that amounts in respect of a Special Termination Advance withdrawn from the Class B Cash Collateral Account for the purpose of paying interest on the Class B Certificates in accordance with Section 3.05(f) of the Intercreditor Agreement (the portion of the outstanding Special Termination Advance equal to the amount of any such withdrawal, but not in excess of the outstanding Special Termination Advance, being an “Applied Special Termination Advance”) shall thereafter (subject to Section 2.06(b)) be treated as an Interest Advance under this Agreement for purposes of determining the Applicable Liquidity Rate for interest payable thereon; provided, further, that if, following the making of a Special Termination Advance, the Liquidity Provider delivers a Termination Notice to the Borrower pursuant to Section 6.01(a), such Special Termination Advance (including any portion thereof that is an Applied Special Termination Advance) shall thereafter be treated as a Final Advance under this Agreement for purposes of determining the Applicable Liquidity Rate for interest payable thereon; and, provided, further, that if, after making a Provider Advance, the Liquidity Provider delivers a Special Termination Notice to the Borrower pursuant to Section 6.01(b), any Unapplied Provider Advance shall be converted to and treated as a Special Termination Advance under this Agreement for purposes of determining the Applicable Liquidity Rate for interest payable thereon and the obligation for repayment thereof under the Intercreditor Agreement. The Borrower and the Liquidity Provider agree that the repayment in full of each Interest Advance, Special Termination Advance and Final Advance on the date such Advance is made is intended to be a contemporaneous exchange for new value given to the Borrower by the Liquidity Provider. For the avoidance of doubt, interest payable on an Interest Advance, Special Termination Advance or the Final Advance shall not be regarded as overdue unless such interest is not paid when due under Section 3.07. 
+
+Section 2.06    Repayments of Provider Advances. (a) Amounts advanced hereunder in respect of a Provider Advance shall be deposited in the Class B Cash Collateral Account and invested and withdrawn from the Class B Cash Collateral Account as set forth in Sections 3.05(c), 3.05(d), 3.05(e) and 3.05(f) of the Intercreditor Agreement. Subject to Sections 2.07 and 2.09, the Borrower agrees to pay to the Liquidity Provider, on each Regular Distribution Date, commencing on the first Regular Distribution Date after the making of a Provider Advance, interest on the principal amount of any such Provider Advance, in the amounts determined as provided in Section 3.07; provided, however, that amounts in respect of a Provider Advance withdrawn from the Class B Cash Collateral Account for the purpose of paying interest on the Class B Certificates in accordance with Section 3.05(f) of the Intercreditor Agreement (the amount of any such withdrawal being (y), in the case of a Downgrade Advance, an “Applied Downgrade Advance” and (z) in the case of a Non-Extension Advance, an “Applied Non-Extension Advance” and together with an Applied Downgrade Advance, an “Applied Provider Advance”) shall thereafter (subject to Section 2.06(b)) be treated as an Interest Advance under this Agreement for purposes of determining the Applicable Liquidity Rate for interest payable thereon; provided, further, however, that if, following the making of a Provider Advance, the Liquidity Provider delivers a Termination Notice to the Borrower pursuant to Section 6.01(a), such Provider Advance shall thereafter be treated as a Final Advance under this Agreement for 
+
+ 
+
+14 
+
+
+
+
+purposes of determining the Applicable Liquidity Rate for interest payable thereon. Subject to Sections 2.07 and 2.09, immediately upon the withdrawal of any amounts from the Class B Cash Collateral Account on account of a reduction in the Required Amount, the Borrower shall repay to the Liquidity Provider a portion of the Provider Advances in a principal amount equal to such reduction, plus interest on the principal amount so repaid as provided in Section 3.07. 
+
+(a)    At any time when an Applied Provider Advance or Applied Special Termination Advance (or any portion thereof) is outstanding, upon the deposit in the Class B Cash Collateral Account of any amount pursuant to clause “fourth” of Section 3.02 of the Intercreditor Agreement (any such amount being a “Replenishment Amount”) for the purpose of replenishing or increasing the balance thereof up to the Required Amount at such time, (i) the aggregate outstanding principal amount of all Applied Provider Advances and Applied Special Termination Advances (and of Provider Advances and Special Termination Advances treated as Interest Advances for purposes of determining the Applicable Liquidity Rate for interest payable thereon) shall be automatically reduced by the amount of such Replenishment Amount, and (ii) the aggregate outstanding principal amount of all Unapplied Provider Advances shall be automatically increased by the amount of such Replenishment Amount. 
+
+(b)    Upon the provision of a Replacement Liquidity Facility in replacement of this Agreement in accordance with Section 3.05(e) of the Intercreditor Agreement, as provided in Section 3.05(f) of the Intercreditor Agreement, amounts remaining on deposit in the Class B Cash Collateral Account after giving effect to any Applied Provider Advance or Applied Special Termination Advance on the date of such replacement shall be reimbursed to the Liquidity Provider, but only to the extent such amounts are necessary to repay in full to the Liquidity Provider all amounts owing to it hereunder. 
+
+(c)    If, at any time after making a Downgrade Advance, the Liquidity Provider satisfies the Threshold Rating and delivers written notice to that effect to the Borrower and the Airlines, as of the second Business Day following receipt of such notice, (i) this Liquidity Facility shall cease to be a Downgraded Facility, (ii) any Unapplied Downgrade Advance shall be withdrawn from the Class B Cash Collateral Account and reimbursed to the Liquidity Provider, (iii) any Applied Downgrade Advance shall be converted to an Interest Advance, (iv) the Maximum Available Commitment shall be reinstated by an amount equal to the amount of such Unapplied Downgrade Advance so reimbursed, but not to exceed the Maximum Commitment, and the obligation of the Liquidity Provider to make Advances shall be reinstated in an equal amount, (v) the Borrower shall be entitled to request Borrowings and (vi) the proviso in the definition of Maximum Available Commitment and clause (y) of the proviso in the final sentence of Section 2.02(a) shall, in each case, no longer apply to such Downgrade Advance. 
+
+Section 2.07    Payments to the Liquidity Provider Under the Intercreditor Agreement. In order to provide for payment or repayment to the Liquidity Provider of any amounts hereunder, the Intercreditor Agreement provides that amounts available and referred to in Articles II and III of the Intercreditor Agreement, to the extent payable to the Liquidity Provider pursuant to the terms of the Intercreditor Agreement (including, without limitation, Section 3.05(f) of the Intercreditor Agreement), shall be paid to the Liquidity Provider in accordance with the terms thereof (but, for the avoidance of doubt, without duplication of or increase in any amounts 
+
+ 
+
+15 
+
+
+
+
+payable hereunder). Amounts so paid to the Liquidity Provider shall be applied by the Liquidity Provider in the order of priority required by the applicable provisions of Articles II and III of the Intercreditor Agreement and shall discharge in full the corresponding obligations of the Borrower hereunder. 
+
+Section 2.08    Book Entries. The Liquidity Provider shall maintain in accordance with its usual practice an account or accounts evidencing the indebtedness of the Borrower resulting from Advances made from time to time and the amounts of principal and interest payable hereunder and paid from time to time in respect thereof; provided, however, that the failure by the Liquidity Provider to maintain such account or accounts shall not affect the obligations of the Borrower in respect of Advances. 
+
+Section 2.09    Payments from Available Funds Only. All payments to be made by the Borrower under this Agreement shall be made only from the amounts that constitute Scheduled Payments, Special Payments and other payments under the Operative Agreements, including payment under Section 4.02 of the Participation Agreements and payments under Section 2.14 of the Indentures, and only to the extent that the Borrower shall have sufficient income or proceeds therefrom to enable the Borrower to make payments in accordance with the terms hereof after giving effect to the priority of payments provisions set forth in the Intercreditor Agreement. The Liquidity Provider agrees that it will look solely to such amounts to the extent available for distribution to it as provided in the Intercreditor Agreement and this Agreement and that the Borrower, in its individual capacity, is not personally liable to it for any amounts payable or liability under this Agreement except as expressly provided in this Agreement, the Intercreditor Agreement or any Participation Agreement. Amounts on deposit in the Class B Cash Collateral Account shall be available to the Borrower to make payments under this Agreement only to the extent and for the purposes expressly contemplated in Section 3.05(f) of the Intercreditor Agreement. 
+
+Section 2.10    Extension of the Expiry Date; Non-Extension Advance. If the Liquidity Provider notifies the Borrower and the Airlines in writing before the 60th day prior to any anniversary date of the Closing Date that occurs prior to the 15th day after the Final Legal Distribution Date for the Class B Certificates (such notice, a “Non-Extension Notice”) that its obligations to make Advances hereunder shall not be extended beyond the immediately following anniversary date of the Closing Date (and if the Liquidity Provider shall not have been replaced in accordance with Section 3.05(e) of the 
+
+Intercreditor Agreement), the Borrower shall be entitled on and after the 25th day prior to such anniversary date (but prior to such anniversary date and in any event prior to the then applicable Expiry Date) to request a Non-Extension Advance in accordance with Section 2.02(b)(i) hereof and Section 3.05(d) of the Intercreditor Agreement. 
+
+ARTICLE III 
+
+OBLIGATIONS OF THE BORROWER 
+
+Section 3.01    Increased Costs. Without duplication of any rights created by Section 3.03, if as a result of any Regulatory Change there shall be any increase by an amount reasonably 
+
+ 
+
+16 
+
+
+
+
+deemed by the Liquidity Provider to be material in the actual cost to the Liquidity Provider of making, funding or maintaining any Advances or its obligation to make any such Advances or there shall be any reduction by an amount reasonably deemed by the Liquidity Provider to be material in the amount receivable by the Liquidity Provider under this Agreement or the Intercreditor Agreement in respect thereof, and in case of either such an increase or reduction, such event does not arise from the gross negligence or willful misconduct of the Liquidity Provider, from its breach of any of its representations, warranties, covenants or agreements contained herein or in the Intercreditor Agreement or from its failure to comply with any such Regulatory Change (any such increase or reduction being referred to herein as an “Increased Cost”), then, subject to Sections 2.07 and 2.09, the Borrower shall from time to time pay to the Liquidity Provider an amount equal to such Increased Cost within 10 Business Days after delivery to the Borrower and the Airlines of a certificate of an officer of the Liquidity Provider describing in reasonable detail the event by reason of which it claims such Increased Cost and the basis for the determination of the amount of such Increased Cost; provided that the Borrower shall be obligated to pay amounts only with respect to any Increased Costs accruing from the date 120 days prior to the date of delivery of such certificate. Such certificate, in the absence of manifest error, shall be considered prima facie evidence of the amount of the Increased Costs for purposes of this Agreement; provided that any determinations and allocations by the Liquidity Provider of the effect of any Regulatory Change on the costs of maintaining the Advances or the obligation to make Advances are made on a reasonable basis. For the avoidance of doubt, the Liquidity Provider shall not be entitled to assert any claim under this Section 3.01 in respect of or attributable to Excluded Taxes. The Liquidity Provider will notify the Borrower and the Airlines as promptly as practicable of any event occurring after the date of this Agreement that will entitle the Liquidity Provider to compensation under this Section 3.01. The Liquidity Provider agrees to investigate all commercially reasonable alternatives for reducing any Increased Costs and to use all commercially reasonable efforts to avoid or minimize, to the greatest extent possible, any claim in respect of Increased Costs, including, without limitation, by designating a different Lending Office, if such designation or other action would avoid the need for, or reduce the amount of, any such claim; provided that the foregoing shall not obligate the Liquidity Provider to take any action that would, in its reasonable judgment, cause the Liquidity Provider to take any action that is not materially consistent with its internal policies or is otherwise materially disadvantageous to the Liquidity Provider or that would cause the Liquidity Provider to incur any material loss or cost, unless the Borrower or the Airlines agree to reimburse or indemnify the Liquidity Provider therefor. If no such designation or other action is effected, or, if effected, such notice fails to avoid the need for any claim in respect of Increased Costs, the Airlines may arrange for a Replacement Liquidity Facility in accordance with Section 3.05(e) of the Intercreditor Agreement. 
+
+Notwithstanding the foregoing provisions, in no event shall the Borrower be required to make payments under this Section 3.01: (a) in respect of any Regulatory Change proposed by any applicable governmental authority (including any branch of a legislature), central bank or comparable agency of the United States or the Liquidity Provider’s jurisdiction of organization or in which its Lending Office is located and pending as of the date of this Agreement (it being agreed that the Regulatory Changes contemplated by (i) the frameworks published by the Basel Committee on Banking Supervision entitled “Basel III: A global regulatory framework for more resilient banks and banking systems” dated December 2010 (revised June 2011) and “Basel III: 
+
+ 
+
+17 
+
+
+
+
+The Liquidity Coverage Ratio and liquidity risk monitoring tools,” dated January 2013 and (ii) the Dodd-Frank Wall Street Reform and Consumer Protection Act and all requests, rules, guidelines or directives thereunder or issued in connection therewith, shall not be considered to have been proposed or pending as of the date of this Agreement); (b) if a claim hereunder in respect of an Increased Cost arises through circumstances peculiar to the Liquidity Provider and that do not affect similarly organized commercial banking institutions in the same jurisdiction generally that are in compliance with the law, rule, regulation or interpretation giving rise to the Regulatory Change relating to such Increased Cost; (c) if the Liquidity Provider shall fail to comply with its obligations under this Section 3.01 or (d) if the Liquidity Provider is not also seeking payment for similar increased costs in other similarly situated transactions related to the airline industry. 
+
+Section 3.02    Reserved. 
+
+Section 3.03    Withholding Taxes. (a) All payments made by the Borrower under this Agreement shall be made without deduction or withholding for or on account of any Taxes, unless such deduction or withholding is required by law. If any Taxes are so required to be withheld or deducted from any amounts payable to the Liquidity Provider under this Agreement, then, subject to Sections 2.07 and 2.09, the Borrower shall pay to the relevant authorities the full amount so required to be deducted or withheld and, without duplication of any rights created by Section 3.01, if such Taxes are Covered Taxes, pay to the Liquidity Provider such additional amounts as shall be necessary to ensure that the net amount actually received by the Liquidity Provider (after deduction or withholding of all Covered Taxes) shall be equal to the full amount that would have been received by the Liquidity Provider had no withholding or deduction of Covered Taxes been required. If any Covered Taxes for which the Borrower is obligated to pay any additional amounts to the Liquidity Provider pursuant to the immediately preceding sentence were required by law to be withheld and were not withheld and deposited with the relevant authorities on a timely basis, the Borrower shall, after written demand from the Liquidity Provider therefor describing in reasonable detail the subject of such demand, promptly pay to the Liquidity Provider such additional amounts equal to the amount of any such Covered Taxes asserted directly against the Liquidity Provider as a result of such failure to withhold, together with any related penalties and interest. Within 30 days after the date of any such payment by the Borrower to the relevant authorities, the Borrower shall furnish to the Liquidity Provider the original or a certified copy of (or other documentary evidence of) the payment of the Taxes applicable to such payment. The Liquidity Provider agrees to use commercially reasonable efforts (consistent with applicable legal and regulatory restrictions) to change the jurisdiction of its Lending Office if making such change would avoid the need for, or reduce the amount of, any such additional amounts that may thereafter accrue and would not, in the reasonable judgment of the Liquidity Provider, be otherwise materially disadvantageous to the Liquidity Provider. 
+
+If the Liquidity Provider receives a refund of any Taxes for which additional amounts were paid by the Borrower pursuant to this Section 3.03, the Liquidity Provider shall pay to the Borrower (for deposit into the Collection Account) the amount of such refund (and any interest thereon), net of all related out-of-pocket expenses. The Borrower, upon the request of the Liquidity Provider, shall repay to the Liquidity Provider the amount paid over pursuant to this paragraph (plus any penalties, interest or other charges imposed by the relevant governmental or 
+
+ 
+
+18 
+
+
+
+
+taxing authority) in the event that the Liquidity Provider is required to repay such refund to such governmental or taxing authority. Notwithstanding anything to the contrary in this paragraph, in no event will the Liquidity Provider be required to pay any amount to the Borrower pursuant to this paragraph the payment of which would place the Liquidity Provider in a less favorable net after-Tax position than the Liquidity Provider would have been in if the Tax subject to payment of additional amounts and giving rise to such refund had not been deducted, withheld or otherwise imposed and the additional amounts with respect to such Tax had never been paid. This paragraph shall not be construed to require the Liquidity Provider to make available its Tax returns (or any other information relating to its Taxes that it deems confidential) to the Borrower or any other Person. 
+
+The Liquidity Provider will (i) provide (on its behalf and on behalf of any participant holding a Participation pursuant to Section 7.08) to the Borrower (x) on or prior to the Effective Date two valid completed and executed copies of Internal Revenue Service Form W-9, W-8BEN-E or W-8ECI (whichever is applicable), including thereon a valid U.S. taxpayer identification number (or, with respect to any such participant, such other form or documentation as may be applicable) covering all amounts receivable by it in connection with the transactions contemplated by the Operative Agreements and (y) thereafter from time to time such additional forms or documentation as may be necessary to establish an available exemption from withholding of United States Tax on payments hereunder so that such forms or documentation are effective for all periods during which it is the Liquidity Provider and (ii) provide timely notice to the Borrower if any such form or documentation is or becomes inaccurate. The Liquidity Provider shall deliver to the Borrower such other forms or documents as may be reasonably requested by the Borrower or required by applicable law to establish that payments hereunder are exempt from or entitled to a reduced rate of Covered Taxes. 
+
+(a)    All payments (including, without limitation, Advances) made by the Liquidity Provider under this Agreement shall be made free and clear of, and without reduction for or on account of, any Taxes. If any Taxes are required to be withheld or deducted from any amounts payable to the Borrower under this Agreement, the Liquidity Provider shall (i) within the time prescribed therefor by applicable law pay to the appropriate governmental or taxing authority the full amount of any such Taxes (and any additional Taxes in respect of the additional amounts payable under clause (ii) hereof) and make such reports or returns in connection therewith at the time or times and in the manner prescribed by applicable law, and (ii) pay to the Borrower an additional amount which (after deduction of all such Taxes) will be sufficient to yield to the Borrower the full amount which would have been received by it had no such withholding or deduction been made. Within 30 days after the date of each payment hereunder, the Liquidity Provider shall furnish to the Borrower the original or a certified copy of (or other documentary evidence of) the payment of the Taxes applicable to such payment. 
+
+On or before the Closing Date, the Borrower shall provide the Liquidity Provider with its fully executed Internal Revenue Service Form W-9, evidencing a complete exemption from U.S. federal withholding tax and backup withholding. If any exemption from, or reduction in the rate of, any Taxes required to be borne by the Liquidity Provider under this Section 3.03(b) is reasonably available to the Borrower without providing any information regarding the holders or beneficial owners of the Certificates, the Borrower shall deliver the Liquidity Provider such form 
+
+ 
+
+19 
+
+
+
+
+or forms and such other evidence of the eligibility of the Borrower for such exemption or reductions (but without any requirement to provide any information regarding the holders or beneficial owners of the Certificates) as the Liquidity Provider may reasonably identify to the Borrower as being required as a condition to exemption from, or reduction in the rate of, such Taxes. 
+
+(b)    If a payment made hereunder to the Liquidity Provider would be subject to U.S. federal withholding Tax imposed by FATCA if the Liquidity Provider were to fail to comply with the applicable reporting requirement of FATCA (including without limitation those contained in Section 1471(b) or 1472(b) of the Code, as applicable), the Liquidity Provider shall deliver to the Borrower at the time or times prescribed by law and at such time or times reasonably requested by the Borrower such documentation prescribed by applicable law (including as prescribed by Section 1471(b)(3)(C)(i) of the Code) and such additional documentation reasonably requested by the Borrower as may be necessary for the Borrower to comply with the Borrower’s obligations under FATCA and to determine whether the Liquidity Provider has complied with the Liquidity Provider’s obligations under FATCA or to determine the amount to deduct and withhold from such payment. Solely for purposes of this paragraph, “FATCA” shall include any amendments made to FATCA after the date of this Agreement. 
+
+Section 3.04    Payments. Subject to Sections 2.07 and 2.09, the Borrower shall make or cause to be made each payment to the Liquidity Provider under this Agreement so as to cause the same to be received by the Liquidity Provider not later than 1:00 p.m. (New York City time) on the day when due. The Borrower shall make all such payments in Dollars, to the Liquidity Provider in immediately available funds, by wire transfer to the account of Crédit Agricole Corporate and Investment Bank, acting through its New York Branch, at Crédit Agricole Corporate and Investment Bank, N.A., ABA [***], Account No.: [***], Account Name: [***], Attention: [***], Reference to: Alaska 2020-1B EETC; or to such other U.S. bank account as the Liquidity Provider may from time to time direct the Subordination Agent. 
+
+Section 3.05    Computations. All computations of interest based on the Base Rate shall be made on the basis of a year of 365 or 366 days, as the case may be, and all computations of interest based on the LIBOR Rate shall be made on the basis of a year of 360 days, in each case for the actual number of days (including the first day but excluding the last day) occurring in the period for which such interest is payable. 
+
+Section 3.06    Payment on Non-Business Days. Whenever any payment to be made hereunder shall be stated to be due on a day other than a Business Day, such payment shall be made on the next succeeding Business Day and no additional interest shall be due as a result (and if so made, shall be deemed to have been made when due). If any payment in respect of interest on an Advance is so deferred to the next succeeding Business Day, such deferral shall not delay the commencement of the next Interest Period for such Advance (if such Advance is a LIBOR Advance) or reduce the number of days for which interest will be payable on such Advance on the next Interest Payment Date for such Advance. 
+
+ 
+
+20 
+
+
+
+
+Section 3.07    Interest. (a) Subject to Sections 2.07 and 2.09, the Borrower shall pay, or shall cause to be paid, without duplication, interest on (i) the unpaid principal amount of each Advance from and including the date of such Advance (or, in the case of an Applied Provider Advance or Applied Special Termination Advance, from and including the date on which the amount thereof was withdrawn from the Class B Cash Collateral Account to pay interest on the Class B Certificates) to but excluding the date such principal amount shall be paid in full (or, in the case of an Applied Provider Advance or Applied Special Termination Advance, the date on which the Class B Cash Collateral Account is fully replenished in respect of such Advance) and (ii), to the extent permitted by law, any other amount due hereunder (whether fees, commissions, expenses or other amounts or installments of interest on Advances or any such other amount) that is not paid when due (whether at stated maturity, by acceleration or otherwise) from and including the due date thereof to but excluding the date such amount is paid in full, in each such case, at the interest rate per annum for each day that such amount remains overdue and unpaid equal to the Applicable Liquidity Rate for such Advance or such other amount, as the case may be, as in effect for such day, but in no event in any case referred to in clause (i) or (ii) above at a rate per annum greater than the maximum rate permitted by applicable law; provided, however, that, if at any time the otherwise applicable interest rate as set forth in this Section 3.07 shall exceed the maximum rate permitted by applicable law, then to the maximum extent permitted by applicable law any subsequent reduction in such interest rate will not reduce the rate of interest payable pursuant to this Section 3.07 below the maximum rate permitted by applicable law until the total amount of interest accrued equals the absolute amount of interest that would have accrued (without additional interest thereon) if such otherwise applicable interest rate as set forth in this Section 3.07 had at all relevant times been in effect. 
+
+(a)    Each Advance (other than a Provider Advance or a Special Termination Advance) will be a Base Rate Advance for the period from the date of its Borrowing to (but excluding) the third Business Day following the Liquidity Provider’s receipt of the Notice of Borrowing for such Advance. Thereafter, such Advance shall be a LIBOR Advance, and an Applied Provider Advance and an Applied Special Termination Advance shall be a LIBOR Advance from the date of its withdrawal from the Class B Cash Collateral Account unless the Borrower elects otherwise. 
+
+(b)    Each LIBOR Advance shall bear interest during each Interest Period at a rate per annum equal to the LIBOR Rate for such Interest Period plus the Applicable Margin for such LIBOR Advance, payable in arrears on the last day of such Interest Period and, in the event of the payment of principal of such LIBOR Advance on a day other than such last day, on the date of such payment (to the extent of interest accrued on the amount of principal repaid). 
+
+(c)    Each Base Rate Advance shall bear interest at a rate per annum equal to the Base Rate plus the Applicable Margin for such Base Rate Advance, payable in arrears on each Regular Distribution Date and, in the event of the payment of principal of such Base Rate Advance on a day other than a Regular Distribution Date, on the date of such payment (to the extent of interest accrued on the amount of principal repaid). 
+
+(d)    Each outstanding Unapplied Non-Extension Advance, Unapplied Downgrade Advance or Unapplied Special Termination Advance (each, an “Unapplied 
+
+ 
+
+21 
+
+
+
+
+Advance”), as the case may be, shall bear interest, payable in arrears on each Regular Distribution Date, in an amount equal to (i) the Investment Earnings on the amounts on deposit in the Class B Cash Collateral Account on account of such Unapplied Advance during the period beginning on the later of the date of deposit of such Unapplied Advance and the preceding Regular Distribution Date and ending on the last day prior to such Regular Distribution Date, plus (ii) an amount equal to interest at the Applicable Margin on the amount of such Unapplied Advance during such period. 
+
+(e)    Each amount not paid when due hereunder (whether fees, commissions, expenses or other amounts or installments of interest on Advances but excluding Advances) shall bear interest, to the extent permitted by applicable law, at a rate per annum equal to the Base Rate plus 2.0% per annum until paid. 
+
+(f)    If at any time, the Liquidity Provider shall have determined (which determination shall be conclusive and binding upon the Borrower, absent manifest error) that, by reason of circumstances affecting the relevant interbank lending market generally (other than a Benchmark Replacement Event), the LIBOR Rate determined or to be determined for the next succeeding Interest Period will not adequately and fairly reflect the cost to the Liquidity Provider (as conclusively certified by the Liquidity Provider, absent manifest error) of making or maintaining Advances, the Liquidity Provider shall give facsimile or telephonic notice thereof (a “Rate Determination Notice”) to the Borrower and the Airlines. If such notice is given, then the outstanding principal amount of the LIBOR Advances shall be converted to Base Rate Advances effective from the date of the Rate Determination Notice; provided that the Applicable Liquidity Rate in respect of such Base Rate Advances shall be increased by one percent (1.00%). The Liquidity Provider shall withdraw a Rate Determination Notice given hereunder when the Liquidity Provider determines that the circumstances giving rise to such Rate Determination Notice no longer apply to the Liquidity Provider, and the Base Rate Advances shall be converted to LIBOR Advances effective as of the first day of the next succeeding Interest Period after the date of such withdrawal. 
+
+(g)    Each change in the Base Rate shall become effective immediately. The rates of interest specified in this Section 3.07 with respect to any Advance or other amount shall be referred to as the “Applicable Liquidity Rate”. 
+
+Section 3.08    Replacement of Borrower. Subject to Section 5.02, from time to time and subject to the successor Borrower’s meeting the eligibility requirements set forth in Section 6.09 of the Intercreditor Agreement applicable to the Subordination Agent, upon the effective date and time specified in a written and completed Notice of Replacement Subordination Agent in substantially the form of Annex VIII (a “Notice of Replacement Subordination Agent”) delivered to the Liquidity Provider by the then Borrower, the successor Borrower designated therein shall become the Borrower for all purposes hereunder. 
+
+Section 3.09    Funding Loss Indemnification. The Borrower shall pay to the Liquidity Provider, upon the request of the Liquidity Provider, such amount or amounts as shall be sufficient (in the reasonable opinion of the Liquidity Provider) to compensate it for any loss, cost or expense incurred by reason of the liquidation or redeployment of deposits or other funds 
+
+ 
+
+22 
+
+
+
+
+acquired by the Liquidity Provider to fund or maintain any LIBOR Advance (but excluding loss of the Applicable Margin or anticipated profits) incurred as a result of: 
+
+(1)    Any repayment of a LIBOR Advance on a date other than the last day of the Interest Period for such Advance; or 
+
+(2)    Any failure by the Borrower to borrow a LIBOR Advance on the date for borrowing specified in the relevant notice under Section 2.02. 
+
+Section 3.10    Illegality. Notwithstanding any other provision in this Agreement, if any change in any law, rule or regulation applicable to or binding on the Liquidity Provider, or any change in the interpretation or administration thereof by any governmental authority, central bank or comparable agency charged with the interpretation or administration thereof, or compliance by the Liquidity Provider with any request or directive (whether or not having the force of law) of any such authority, central bank or comparable agency shall make it unlawful or impossible for the Liquidity Provider to maintain or fund its LIBOR Advances, then upon notice to the Borrower and the Airlines by the Liquidity Provider, the outstanding principal amount of the LIBOR Advances shall be converted to Base Rate Advances (a) immediately upon demand of the Liquidity Provider, if such change or compliance with such request, in the reasonable judgment of the Liquidity Provider, requires immediate conversion; or (b) at the expiration of the last Interest Period to expire before the effective date of any such change or request. The Liquidity Provider will notify the Borrower and the Airlines as promptly as practicable of any event that will or to its knowledge is reasonably likely to lead to the conversion of LIBOR Advances to Base Rate Advances under this Section 3.10; provided that a failure by the Liquidity Provider to notify the Borrower or the Airlines of an event that is reasonably likely to lead to such a conversion prior to the time that it is determined that such event will lead to such a conversion shall not prejudice the rights of the Liquidity Provider under this Section 3.10. The Liquidity Provider agrees to investigate all commercially reasonable alternatives for avoiding the need for such conversion, including, without limitation, designating a different Lending Office, if such designation or other action would avoid the need to convert such LIBOR Advances to Base Rate Advances; provided that the foregoing shall not obligate the Liquidity Provider to take any action that would, in its reasonable judgment, cause the Liquidity Provider to incur any material loss or cost, unless the Borrower or the Airlines agree to reimburse or indemnify the Liquidity Provider therefor. If no such designation or other action is effected, or, if effected, fails to avoid the need for conversion of the LIBOR Advances to Base Rate Advances, the Airlines may arrange for a Replacement Liquidity Facility in accordance with Section 3.05(e) of the Intercreditor Agreement. 
+
+ARTICLE IV 
+
+CONDITIONS PRECEDENT 
+
+Section 4.01    Conditions Precedent to Effectiveness of Section 2.01. Section 2.01 of this Agreement shall become effective on and as of the first date (the “Effective Date”) on which the following conditions precedent have been satisfied (or waived by the appropriate party or parties): 
+
+(a)    The Liquidity Provider shall have received on or before the Closing Date each of the following, and in the case of each document delivered pursuant to paragraphs (i), (ii) and (iii), each in form and substance satisfactory to the Liquidity Provider: 
+
+(i)    This Agreement and the Fee Letter duly executed on behalf of the Borrower and, in the case of the Fee Letter, the Airlines; 
+
+ 
+
+23 
+
+
+
+
+(ii)    The Intercreditor Agreement duly executed on behalf of each of the parties thereto (other than the Liquidity Provider); 
+
+(iii)    Fully executed copies of each of the Operative Agreements executed and delivered on or before the Closing Date (other than this Agreement, the Fee Letter and the Intercreditor Agreement); 
+
+(iv)    A copy of the Prospectus Supplement and specimen copies of the Class B Certificates; 
+
+(v)    An executed copy of each opinion (other than the negative assurance letters of O’Melveny & Myers LLP and Debevoise & Plimpton LLP, special counsel to the Airlines, and the opinion and the negative assurance letter of Milbank LLP, special counsel to the Initial Purchasers) delivered on the Closing Date pursuant to the Certificate Purchase Agreement (in the case of each such opinion, either addressed to the Liquidity Provider or accompanied by a letter from the counsel rendering such opinion to the effect that the Liquidity Provider is entitled to rely on such opinion as of its date as if it were addressed to the Liquidity Provider); 
+
+(vi)    An executed copy of each document, instrument, certificate and opinion delivered on or before the Closing Date pursuant to the Class B Trust Agreement, the Intercreditor Agreement and the other Operative Agreements (in the case of each such opinion, either addressed to the Liquidity Provider or accompanied by a letter from the counsel rendering such opinion to the effect that the Liquidity Provider is entitled to rely on such opinion as of its date as if it were addressed to the Liquidity Provider); 
+
+(vii)    An agreement from the Airlines, pursuant to which (x) each Airline agrees to provide copies of the Parent’s quarterly financial statements and audited annual financial statements to the Liquidity Provider (which such Airline may provide in an electronic format by electronic mail or making the same available over the internet) and (y) each Airline agrees to allow the Liquidity Provider to discuss the transactions contemplated by the Operative Agreements with officers and employees of such Airline; and 
+
+(viii)    Such documentation as the Liquidity Provider may reasonably request five (5) or more Business Days prior to the Closing Date in order to satisfy its “know your customer” policies. 
+
+ 
+
+24 
+
+
+
+
+(b)    On and as of the Effective Date no event shall have occurred and be continuing, or would result from the entering into of this Agreement or the making of any Advance, which constitutes a Liquidity Event of Default. 
+
+(c)    The Liquidity Provider shall have received payment in full of the fees and other sums required to be paid to or for the account of the Liquidity Provider on or prior to the Effective Date pursuant to the Fee Letter. 
+
+(d)    All conditions precedent to the issuance of the Certificates under the Trust Agreements shall have been satisfied or waived, all conditions precedent to the effectiveness of the other Liquidity Facilities shall have been satisfied or waived, and all conditions precedent to the purchase of the Class B Certificates by the Certificate Purchasers under the Certificate Purchase Agreement shall have been satisfied (unless any of such conditions precedent under the Certificate Purchase Agreement shall have been waived by the Initial Purchasers). 
+
+(e)    The Borrower and the Airlines shall have received a certificate, dated the Effective Date signed by a duly authorized representative of the Liquidity Provider, certifying that the Effective Date has occurred. 
+
+Section 4.02    Conditions Precedent to Borrowing. The obligation of the Liquidity Provider to make an Advance on the occasion of each Borrowing shall be subject to the conditions precedent that the Effective Date shall have occurred and, prior to the time of such Borrowing, the Borrower shall have delivered a Notice of Borrowing which conforms to the terms and conditions of this Agreement. 
+
+Section 4.03    Representations and Warranties. The representations and warranties of the Borrower as Subordination Agent in Sections 5.01(a), (b), (c), and (d) of the Participation Agreements shall be deemed to be incorporated into this Agreement as if set out in full herein and as if such representations and warranties were made by the Borrower to the Liquidity Provider. 
+
+ARTICLE V 
+
+COVENANTS 
+
+Section 5.01    Affirmative Covenants of the Borrower. So long as any Advance shall remain unpaid or the Liquidity Provider shall have any Maximum Available Commitment hereunder or the Borrower shall have any obligation to pay any amount to the Liquidity Provider hereunder, the Borrower will, unless the Liquidity Provider shall otherwise consent in writing: 
+
+(a)    Performance of Agreements. Subject to Sections 2.07 and 2.09, punctually pay or cause to be paid all amounts payable by it under this Agreement and the Intercreditor Agreement and observe and perform in all material respects the conditions, covenants and requirements applicable to it contained in this Agreement and the Intercreditor Agreement; 
+
+ 
+
+25 
+
+
+
+
+(b)    Reporting Requirements. Furnish to the Liquidity Provider with reasonable promptness, such other information and data with respect to the transactions contemplated by the Operative Agreements as from time to time may be reasonably requested by the Liquidity Provider; and permit the Liquidity Provider, upon reasonable notice, to inspect the Borrower’s books and records with respect to such transactions and to meet with officers and employees of the Borrower to discuss such transactions; and 
+
+(c)    Certain Operative Agreements. Furnish to the Liquidity Provider, with reasonable promptness, copies of such Operative Agreements entered into after the date hereof as from time to time may be reasonably requested by the Liquidity Provider. 
+
+Section 5.02    Negative Covenants of the Borrower. Subject to the first and fourth paragraphs of Section 7.01(a) of the Intercreditor Agreement and Section 7.01(b) of the Intercreditor Agreement, so long as any Advance shall remain unpaid or the Liquidity Provider shall have any Maximum Available Commitment hereunder or the Borrower shall have any obligation to pay any amount to the Liquidity Provider hereunder, the Borrower will not appoint or permit or suffer to be appointed any successor Borrower without the prior written consent of the Liquidity Provider, which consent shall not be unreasonably withheld or delayed. 
+
+ARTICLE VI 
+
+LIQUIDITY EVENTS OF DEFAULT AND SPECIAL TERMINATION 
+
+Section 6.01    Liquidity Events of Default. (a) If any Liquidity Event of Default has occurred and is continuing and there is a Performing Note Deficiency, the Liquidity Provider may, in its discretion, deliver to the Borrower and the Airlines a Termination Notice, the effect of which shall be to cause (i) the Termination Date to occur at the close of business on the fifth Business Day after the date on which such Termination Notice is received by the Borrower and the Airlines, (ii) the Borrower to promptly request, and the Liquidity Provider to promptly make, a Final Advance in accordance with Section 2.02(c) hereof and Section 3.05(i) of the Intercreditor Agreement, (iii) all other outstanding Advances to be automatically converted into Final Advances for purposes of determining the Applicable Liquidity Rate for interest payable thereon and (iv) subject to Sections 2.07 and 2.09, all Advances, any accrued interest thereon and any other amounts outstanding hereunder to become immediately due and payable to the Liquidity Provider. 
+
+(a)    If the aggregate Pool Balance of the Class B Certificates is greater than the aggregate outstanding principal amount of the Series B Equipment Notes (other than any Series B Equipment Notes previously sold by the Borrower or with respect to which the Aircraft related to such Series B Equipment Notes has been disposed of by the Loan Trustee) at any time during the 18-month period ending on August 15, 2025, the Liquidity Provider may, in its discretion, deliver to the Borrower and the Airlines a Special Termination Notice, the effect of which shall be to cause (i) the Termination Date to occur at the close of business on the fifth Business Day after the date on which such Special Termination Notice is received by the Borrower and the Airlines, (ii) the Borrower to promptly request, and the Liquidity Provider to promptly make, a Special Termination Advance in accordance with Section 2.02(d) hereof and Section 3.05(k) of 
+
+ 
+
+26 
+
+
+
+
+the Intercreditor Agreement, and (iii) subject to Sections 2.07 and 2.09, all Advances (including, without limitation, any Unapplied Provider Advance), to be automatically treated as Special Termination Advances, subject to Section 6.01(a). 
+
+ARTICLE VII 
+
+MISCELLANEOUS 
+
+Section 7.01    No Oral Modifications or Continuing Waivers. No terms or provisions of this Agreement may be changed, waived, discharged or terminated orally, but only by an instrument in writing signed by the Borrower and the Liquidity Provider and any other Person whose consent is required pursuant to this Agreement; provided that no such change or other action shall affect the payment obligations of any Airline or the rights of any Airline without such Airline’s prior written consent; and any waiver of the terms hereof shall be effective only in the specific instance and for the specific purpose given. 
+
+Section 7.02    Notices. Unless otherwise expressly specified or permitted by the terms hereof, all notices, requests, demands, authorizations, directions, consents, waivers or documents required or permitted under the terms and provisions of this Agreement shall be in English and in writing, and given by United States registered or certified mail, courier service or facsimile, and any such notice shall be effective when delivered (or, if delivered by facsimile, upon completion of transmission and confirmation by the sender (by a telephone call to a representative of the recipient or by machine confirmation) that such transmission was received) addressed as follows: 
+
+If to the Borrower or the Subordination Agent, to: 
+
+U.S. Bank Trust National Association 
+
+Seattle Tower 
+
+1420 Fifth Avenue 
+
+Seattle, WA 98101 
+
+PD-WA-T7CT 
+
+Attention: [***] 
+
+Ref.: Alaska Air 2020-1 EETC 
+
+Telephone: [***] 
+
+Telecopy: [***] 
+
+If to the Liquidity Provider, to: 
+
+Crédit Agricole Corporate and Investment Bank, acting 
+
+through its New York Branch 
+
+1301 Avenue of the Americas 
+
+New York, NY 10019 
+
+Attention: [***] 
+
+Telephone: [***] 
+
+Fax: [***] 
+
+Email: [***] 
+
+ 
+
+27 
+
+
+
+
+Any party, by notice to the other party hereto, may designate additional or different addresses for subsequent notices or communications. Whenever the words “notice” or “notify” or similar words are used herein, they mean the provision of formal notice as set forth in this Section 7.02. 
+
+Section 7.03    No Waiver; Remedies. No failure on the part of the Liquidity Provider to exercise, and no delay in exercising, any right under this Agreement shall operate as a waiver thereof; nor shall any single or partial exercise of any right under this Agreement preclude any other or further exercise thereof or the exercise of any other right. The remedies herein provided are cumulative and not exclusive of any remedies provided by law. 
+
+Section 7.04    Further Assurances. The Borrower agrees to do such further acts and things and to execute and deliver to the Liquidity Provider such additional assignments, agreements, powers and instruments as the Liquidity Provider may reasonably require or deem advisable to carry into effect the purposes of this Agreement and the other Operative Agreements or to better assure and confirm unto the Liquidity Provider its rights, powers and remedies hereunder and under the other Operative Agreements. 
+
+Section 7.05    Indemnification; Survival of Certain Provisions. The Liquidity Provider shall be indemnified hereunder to the extent and in the manner described in Section 4.02 of the Participation Agreements. In addition, the Borrower agrees to indemnify, protect, defend and hold harmless each Liquidity Indemnitee from and against all Expenses of any kind or nature whatsoever (other than any Expenses of the nature described in Sections 3.01, 3.03, 3.09 or 7.07 or in the Fee Letter (regardless of whether indemnified against pursuant to said Sections or in such Fee Letter)), that may be imposed on or incurred by such Liquidity Indemnitee, in any way relating to, resulting from, or arising out of or in connection with, any action, suit or proceeding by any third party against such Liquidity Indemnitee and relating to this Agreement, the Fee Letter, the Intercreditor Agreement or any Participation Agreement; provided, however, that the Borrower shall not be required to indemnify, protect, defend and hold harmless any Liquidity Indemnitee in respect of any Expense of such Liquidity Indemnitee to the extent such Expense is (i) attributable to the gross negligence or willful misconduct of such Liquidity Indemnitee or any other Liquidity Indemnitee, (ii) an ordinary and usual operating overhead expense, (iii) attributable to the failure by such Liquidity Indemnitee or any other Liquidity Indemnitee to perform or observe any agreement, covenant or condition on its part to be performed or observed in this Agreement, the Intercreditor Agreement, the Fee Letter or any other Operative Agreement to which it is a party or (iv) otherwise excluded from the indemnification provisions contained in Section 4.02 of the Participation Agreements. The provisions of Sections 3.01, 3.03, 3.09, 7.05 and 7.07 and the indemnities contained in Section 4.02 of the Participation Agreements shall survive the termination of this Agreement. 
+
+Section 7.06    Liability of the Liquidity Provider. (a) Neither the Liquidity Provider nor any of its officers, employees or directors shall be liable or responsible for: (i) the use which may be made of the Advances or any acts or omissions of the Borrower or any beneficiary or 
+
+ 
+
+28 
+
+
+
+
+transferee in connection therewith; (ii) the validity, sufficiency or genuineness of documents, or of any endorsement thereon, even if such documents should prove to be in any or all respects invalid, insufficient, fraudulent or forged; or (iii) the making of Advances by the Liquidity Provider against delivery of a Notice of Borrowing and other documents which do not comply with the terms hereof; provided, however, that the Borrower shall have a claim against the Liquidity Provider, and the Liquidity Provider shall be liable to the Borrower, to the extent of any damages suffered by the Borrower that were the result of (A) the Liquidity Provider’s willful misconduct or gross negligence in determining whether documents presented hereunder comply with the terms hereof or (B) any breach by the Liquidity Provider of any of the terms of this Agreement or the Intercreditor Agreement, including, but not limited to, the Liquidity Provider’s failure to make lawful payment hereunder after the delivery to it by the Borrower of a Notice of Borrowing complying with the terms and conditions hereof. In no event, however, shall the Liquidity Provider be liable on any theory of liability for any special, indirect, consequential or punitive damages (including, without limitation, loss of profits, business or anticipated savings). 
+
+(a)    Neither the Liquidity Provider nor any of its officers, employees or directors or affiliates shall be liable or responsible in any respect for (i) any error, omission, interruption or delay in transmission, dispatch or delivery of any message or advice, however transmitted, in connection with this Agreement or any Notice of Borrowing delivered hereunder or (ii) any action, inaction or omission which may be taken by it in good faith, absent willful misconduct or gross negligence (in which event the extent of the Liquidity Provider’s potential liability to the Borrower shall be limited as set forth in the immediately preceding paragraph), in connection with this Agreement or any Notice of Borrowing. 
+
+Section 7.07    Certain Costs and Expenses. The Borrower agrees promptly to pay, or cause to be paid, (a) the reasonable fees, expenses and disbursements of Milbank LLP, special counsel for the Liquidity Provider, in connection with the preparation, negotiation, execution, delivery, filing and recording of the Operative Agreements, any waiver or consent thereunder or any amendment thereof, (b) if a Liquidity Event of Default occurs, all out-of-pocket expenses incurred by the Liquidity Provider, including reasonable fees and disbursements of counsel, in connection with such Liquidity Event of Default and any collection, bankruptcy, insolvency and other enforcement proceedings in connection therewith and (c) on demand, all reasonable costs and expenses (including reasonable fees and disbursements of counsel) incurred by the Liquidity Provider in connection with any modification or amendment of, or supplement to, this Agreement or any other Operative Agreement (or such other documents which may be delivered in connection herewith or therewith) (whether or not any of the same shall become effective) requested by the Airlines, unless such costs or expenses arise as a result of the negligence of the Liquidity Provider or any breach by the Liquidity Provider of its obligations under this Agreement or any other Operative Agreement. In addition, the Borrower shall pay any and all recording, stamp and other similar Taxes and fees payable or determined to be payable in the United States in connection with the execution, delivery, filing and recording of this Agreement, any other Operative Agreement and such other documents, and agrees to save the Liquidity Provider harmless from and against any and all liabilities with respect to or resulting from any delay in paying or omission to pay such Taxes or fees. 
+
+ 
+
+29 
+
+
+
+
+Section 7.08    Binding Effect; Participations. (a) This Agreement shall be binding upon and inure to the benefit of the Borrower and the Liquidity Provider and their respective successors and permitted assigns, except that neither the Liquidity Provider (except as otherwise provided in this Section 7.08) nor (except as contemplated by Section 3.08) the Borrower shall have the right to assign, pledge or otherwise transfer its rights or obligations hereunder or any interest herein, subject to the Liquidity Provider’s right to grant Participations pursuant to Section 7.08(b). 
+
+(a)    The Liquidity Provider agrees that it will not grant any participation (including, without limitation, a “risk participation”) (any such participation, a “Participation”) in or to all or a portion of its rights and obligations hereunder or under the other Operative Agreements, unless all of the following conditions are satisfied: (i) such Participation is to a Permitted Transferee, (ii) such Participation is made in accordance with all applicable laws, including, without limitation, the Securities Act of 1933, as amended, the Trust Indenture Act of 1939, as amended, any laws or regulations imposing U.S. economic sanctions measures or any orders or licenses issued thereunder and any other applicable laws relating to the transfer of similar interests and (iii) such Participation shall not be made under circumstances that require registration under the Securities Act of 1933, as amended, or qualification of any indenture under the Trust Indenture Act of 1939, as amended. Notwithstanding any such Participation, the Liquidity Provider agrees that (1) the Liquidity Provider’s obligations under the Operative Agreements shall remain unchanged, and such participant shall have no rights or benefits as against the Parent, the Airlines or the Borrower or under any Operative Agreement, (2) the Liquidity Provider shall remain solely responsible to the other parties to the Operative Agreements for the performance of such obligations, (3) the Liquidity Provider shall remain the maker of any Advances, and the other parties to the Operative Agreements shall continue to deal solely and directly with the Liquidity Provider in connection with the Advances and the Liquidity Provider’s rights and obligations under the Operative Agreements, (4) the Liquidity Provider shall be solely responsible for any withholding Taxes or any filing or reporting requirements relating to such Participation and shall hold the Borrower, the Parent and the Airlines and their respective successors, permitted assigns, affiliates, agents and servants harmless against the same and (5) none of the Parent, the Airlines or the Borrower shall be required to pay to the Liquidity Provider any amount under Section 3.01 or Section 3.03 greater than it would have been required to pay had there not been any grant of a Participation by the Liquidity Provider. The Liquidity Provider may, in connection with any Participation or proposed Participation pursuant to this Section 7.08(b), disclose to the participant or proposed participant any information relating to the Operative Agreements or to the parties thereto furnished to the Liquidity Provider thereunder or in connection therewith and permitted to be disclosed by the Liquidity Provider; provided, however, that prior to any such disclosure, the participant or proposed participant shall agree in writing for the express benefit of the Borrower and the Airlines to preserve the confidentiality of any confidential information included therein (subject to customary exceptions). 
+
+The Borrower acknowledges and agrees that the Liquidity Provider’s source of funds may derive in part from its participants. Accordingly, in determining amounts due by the Borrower to the Liquidity Provider pursuant to Section 3.01 and Section 3.03 of this Agreement, references in this Agreement to determinations, reserve, liquidity and capital adequacy 
+
+ 
+
+30 
+
+
+
+
+requirements, increased costs, reduced receipts, additional amounts due pursuant to Section 3.03 as they pertain to the Liquidity Provider shall be deemed also to include those of each of its participants that are commercial banking institutions and of whose participation the Borrower has been notified, in each case up to the maximum amount that would have been incurred by or attributable to the Liquidity Provider directly had there not been any grant of a Participation by the Liquidity Provider, and references to the Liquidity Provider therein and in related definitions shall be treated as references to such participants where applicable; provided that in any event, none of the Parent, the Airlines or the Borrower shall be required to pay any amount under Section 3.01 or Section 3.03 greater than it would have been required to pay had there not been any grant of a Participation by the Liquidity Provider. 
+
+The Liquidity Provider shall, acting solely for this purpose as a non-fiduciary agent of the Borrower, maintain a register on which it enters the name and address of each participant and the principal amounts (and stated interest) of each participant’s interest under this Agreement (the “Participant Register”); provided that the Liquidity Provider shall not have any obligation to disclose all or any portion of the Participant Register (including the identity of any participant or any information relating to a participant’s interest in any commitments, loans or its other obligations) to any Person except to the extent that such disclosure is necessary to establish that such commitment, loan or other obligation is in registered form under Section 5f.103-1(c) of the United States Treasury Regulations. The entries in the Participant Register shall be conclusive absent manifest error, and the Liquidity Provider shall treat each Person whose name is recorded in the Participant Register as the owner of such Participation for all purposes of this Agreement notwithstanding any notice to the contrary. 
+
+(b)    Notwithstanding the other provisions of this Section 7.08, the Liquidity Provider may assign and pledge all or any portion of the Advances owing to it to any Federal Reserve Bank or the United States Treasury as collateral security pursuant to Regulation A of the Board of Governors of the Federal Reserve System and any Operating Circular issued by such Federal Reserve Bank; provided that any payment in respect of such assigned Advances made by the Borrower to the Liquidity Provider in accordance with the terms of this Agreement shall satisfy the Borrower’s obligations hereunder in respect of such assigned Advance to the extent of such payment. No such assignment shall release the Liquidity Provider from its obligations hereunder. 
+
+Section 7.09    Severability. To the extent permitted by applicable law, any provision of this Agreement which is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions hereof, and any such prohibition or unenforceability in any jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction. 
+
+Section 7.10    Governing Law. THIS AGREEMENT HAS BEEN DELIVERED IN THE STATE OF NEW YORK AND THIS AGREEMENT SHALL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAW OF THE STATE OF NEW YORK, INCLUDING ALL MATTERS OF CONSTRUCTION, VALIDITY AND PERFORMANCE. 
+
+ 
+
+31 
+
+
+
+
+Section 7.11    Submission to Jurisdiction; Waiver of Jury Trial; Waiver of Immunity. (a) Each of the parties hereto, to the extent it may do so under applicable law, for purposes hereof hereby (i) irrevocably submits itself to the non-exclusive jurisdiction of the courts of the State of New York sitting in the City of New York and to the non-exclusive jurisdiction of the United States District Court for the Southern District of New York for the purposes of any suit, action or other proceeding arising out of this Agreement, the subject matter hereof or any of the transactions contemplated hereby brought by any party or parties hereto or thereto, or their successors or permitted assigns, (ii) waives, and agrees not to assert, by way of motion, as a defense, or otherwise, in any such suit, action or proceeding, that the suit, action or proceeding is brought in an inconvenient forum, that the venue of the suit, action or proceeding is improper or that this Agreement or the subject matter hereof or any of the transactions contemplated hereby may not be enforced in or by such courts, (iii) agrees that service of process in any such suit, action or proceeding may be effected by mailing a copy thereof by registered or certified mail (or any substantially similar form of mail), postage prepaid, to each party hereto at its address set forth in Section 7.02 hereof, or at such other address of which each party shall have been notified pursuant thereto and (iv) agrees that nothing herein shall affect the right to effect service of process in any other manner permitted by law. 
+
+(a)    THE BORROWER AND THE LIQUIDITY PROVIDER EACH HEREBY AGREE TO WAIVE THEIR RESPECTIVE RIGHTS TO A JURY TRIAL OF ANY CLAIM OR CAUSE OF ACTION BASED UPON OR ARISING OUT OF THIS AGREEMENT OR ANY DEALINGS BETWEEN THEM RELATING TO THE SUBJECT MATTER OF THIS AGREEMENT AND THE RELATIONSHIP THAT IS BEING ESTABLISHED, including, without limitation, contract claims, tort claims, breach of duty claims and all other common law and statutory claims. The Borrower and the Liquidity Provider each warrant and represent that it has reviewed this waiver with its legal counsel, and that it knowingly and voluntarily waives its jury trial rights following consultation with such legal counsel. TO THE EXTENT PERMITTED BY APPLICABLE LAW, THIS WAIVER IS IRREVOCABLE, AND CANNOT BE MODIFIED EITHER ORALLY OR IN WRITING, AND THIS WAIVER SHALL APPLY TO ANY SUBSEQUENT AMENDMENTS, RENEWALS, SUPPLEMENTS OR MODIFICATIONS TO THIS AGREEMENT. 
+
+(b)    To the extent that the Liquidity Provider or any of its properties has or may hereafter acquire any right of immunity, whether characterized as sovereign immunity or otherwise, and whether under the United States Foreign Sovereign Immunities Act of 1976 (or any successor legislation) or otherwise, from any legal proceedings, whether in the United States or elsewhere, to enforce or collect upon this Agreement, including, without limitation, immunity from suit or service of process, immunity from jurisdiction or judgment of any court or tribunal or execution of a judgment, or immunity of any of its property from attachment prior to any entry of judgment, or from attachment in aid of execution upon a judgment, the Liquidity Provider hereby irrevocably and expressly waives any such immunity, and agrees not to assert any such right or claim in any such proceeding, whether in the United States or elsewhere. 
+
+Section 7.12    Counterparts. This Agreement may be executed in any number of counterparts (and each party shall not be required to execute the same counterpart). Each counterpart of this Agreement including a signature page or pages executed by each of the parties hereto shall be an original counterpart of this Agreement, but all of such counterparts together shall constitute one instrument. 
+
+ 
+
+32 
+
+
+
+
+Section 7.13    Entirety. This Agreement and the Intercreditor Agreement constitute the entire agreement of the parties hereto with respect to the subject matter hereof and supersede all prior understandings and agreements of such parties. 
+
+Section 7.14    Headings. The headings of the various Articles and Sections herein and in the Table of Contents hereto are for convenience of reference only and shall not define or limit any of the terms or provisions hereof. 
+
+Section 7.15    Liquidity Provider’s Obligation to Make Advances. EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, THE OBLIGATIONS OF THE LIQUIDITY PROVIDER TO MAKE ADVANCES HEREUNDER, AND THE BORROWER’S RIGHTS TO DELIVER NOTICES OF BORROWING REQUESTING THE MAKING OF ADVANCES HEREUNDER, SHALL BE ABSOLUTE, UNCONDITIONAL AND IRREVOCABLE, AND SHALL BE PAID OR PERFORMED, IN EACH CASE STRICTLY IN ACCORDANCE WITH THE TERMS OF THIS AGREEMENT. 
+
+Section 7.16    Patriot Act. The Liquidity Provider hereby notifies the Borrower that pursuant to the requirements of the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 (“USA PATRIOT Act”) it is required to obtain, verify and record information that identifies the Borrower, which information includes the name and address of the Borrower and other information that will allow the Liquidity Provider to identify the Borrower in accordance with such Act. 
+
+Section 7.17    Acknowledgment and Consent to Bail-In of EEA Financial Institutions. Notwithstanding anything to the contrary in this Agreement or in any other agreement, arrangement or understanding among any such parties, each party hereto acknowledges that any liability of any EEA Financial Institution arising under this Agreement, to the extent such liability is unsecured, may be subject to Write-Down and Conversion Powers and agrees and consents to, and acknowledges and agrees to be bound by: 
+
+(a)    the application of any Write-Down and Conversion Powers by an EEA Resolution Authority to any such liabilities arising hereunder which may be payable to it by any party hereto that is an EEA Financial Institution; and 
+
+(b)    the effects of any Bail-In Action on any such liability, including, if applicable: 
+
+(i)    a reduction in full or in part or cancellation of any such liability; 
+
+(ii)    a conversion of all, or a portion of, such liability into shares or other instruments of ownership in such EEA Financial Institution, its parent undertaking, or a bridge institution that may be issued to it or otherwise conferred on it, and that such shares or other instruments of ownership will be accepted by it in lieu of any rights with respect to any such liability under this Agreement; or 
+
+ 
+
+33 
+
+
+
+
+(iii)    the variation of the terms of such liability in connection with the exercise of Write-Down and Conversion Powers. 
+
+Section 7.18    Head Office Obligations. The Liquidity Provider is Crédit Agricole Corporate and Investment Bank, acting through its New York Branch. The Liquidity Provider hereby agrees that, notwithstanding the place of booking or its jurisdiction of incorporation or organization, the obligations of the Liquidity Provider hereunder are also the obligations of the head office of Crédit Agricole Corporate and Investment Bank in Paris, France (the “Head Office”). Accordingly, any beneficiary of this Agreement will be able to proceed directly against the Head Office, if the Liquidity Provider defaults in its obligations to such beneficiary under this Agreement. 
+
+ 
+
+34 
+
+
+
+
+IN WITNESS WHEREOF, the parties have caused this Agreement to be duly executed and delivered by their respective officers thereunto duly authorized as of the date first set forth above. 
+
+ 
+
+
+
+
+
+
+
+U.S. BANK TRUST NATIONAL ASSOCIATION, not in its individual capacity but solely as Subordination Agent, agent and trustee for the Class B Trust, as Borrower
+
+
+
+
+
+By:
+
+ 
+
+/s/ Richard Krupske
+
+
+
+ 
+
+Name: Richard Krupske
+
+
+
+ 
+
+Title:   Assistant Vice President
+
+
+
+CRÉDIT AGRICOLE CORPORATE AND INVESTMENT BANK, ACTING THROUGH ITS NEW YORK BRANCH, as Liquidity Provider
+
+
+
+
+
+By:
+
+ 
+
+/s/ Brian Bolotin
+
+
+
+ 
+
+Name: Brian Bolotin
+
+
+
+ 
+
+Title:   Managing Director
+
+
+
+
+
+By:
+
+ 
+
+/s/ Elisa Lajonchere
+
+
+
+ 
+
+Name: Elisa Lajonchere
+
+
+
+ 
+
+Title:   Managing Director
+
+Signature Page 
+
+
+
+
+ANNEX I to 
+
+REVOLVING CREDIT AGREEMENT 
+
+FORM OF INTEREST ADVANCE NOTICE OF BORROWING 
+
+INTEREST ADVANCE NOTICE OF BORROWING 
+
+The undersigned, a duly authorized signatory of the undersigned borrower (the “Borrower”), hereby certifies to Crédit Agricole Corporate and Investment Bank, acting through its New York Branch (the “Liquidity Provider”), with reference to the Revolving Credit Agreement (2020-1B), dated as of July 2, 2020, between the Borrower and the Liquidity Provider (the “Liquidity Agreement”; the terms defined therein and not otherwise defined herein being used herein as therein defined or referenced), that: 
+
+(1)    The Borrower is the Subordination Agent under the Intercreditor Agreement. 
+
+(2)    The Borrower is delivering this Notice of Borrowing for the making of an Interest Advance by the Liquidity Provider to be used for the payment of the interest on the Class B Certificates which is payable on             ,          (the “Distribution Date”) in accordance with the terms and provisions of the Class B Trust Agreement and the Class B Certificates, which Advance is requested to be made on             ,         . The Interest Advance should be remitted to [insert wire and account details]. 
+
+(3)    The amount of the Interest Advance requested hereby (i) is $            , to be applied in respect of the payment of the interest which is due and payable on the Class B Certificates on the Distribution Date, (ii) does not include any amount with respect to the payment of principal of, or premium on, the Class B Certificates or principal of, interest or premium on the Class A Certificates or any Additional Certificates, if issued, (iii) was computed in accordance with the provisions of the Class B Certificates, the Class B Trust Agreement and the Intercreditor Agreement (a copy of which computation is attached hereto as Schedule I), (iv) does not exceed the Maximum Available Commitment on the date hereof and (v) has not been and is not the subject of a prior or contemporaneous Notice of Borrowing. 
+
+(4)    Upon receipt by or on behalf of the Borrower of the amount requested hereby, (a) the Borrower will apply the same in accordance with the terms of Section 3.05(b) of the Intercreditor Agreement, (b) no portion of such amount shall be applied by the Borrower for any other purpose and (c) no portion of such amount until so applied shall be commingled with other funds held by the Borrower. 
+
+The Borrower hereby acknowledges that, pursuant to the Liquidity Agreement, the making of the Interest Advance as requested by this Notice of Borrowing shall automatically reduce, subject to reinstatement in accordance with the terms of the Liquidity Agreement, the Maximum Available Commitment by an amount equal to the amount of the Interest Advance requested to be made hereby as set forth in clause (i) of paragraph (3) of this Notice of Borrowing and such reduction shall automatically result in corresponding reductions in the amounts available to be borrowed pursuant to a subsequent Advance. 
+
+
+
+
+IN WITNESS WHEREOF, the Borrower has executed and delivered this Notice of Borrowing as of the          day of             ,         . 
+
+ 
+
+
+
+
+
+
+
+U.S. BANK TRUST NATIONAL ASSOCIATION, as Subordination Agent and as Borrower
+
+
+
+
+
+By:
+
+ 
+
+ 
+
+
+
+ 
+
+Name:
+
+
+
+ 
+
+Title:
+
+ 
+
+I-2 
+
+
+
+
+SCHEDULE I TO INTEREST ADVANCE NOTICE OF BORROWING 
+
+[Insert Copy of Computations in accordance with Interest Advance Notice of Borrowing] 
+
+ 
+
+I-3 
+
+
+
+
+ANNEX II to 
+
+REVOLVING CREDIT AGREEMENT 
+
+FORM OF NON-EXTENSION ADVANCE NOTICE OF BORROWING 
+
+NON-EXTENSION ADVANCE NOTICE OF BORROWING 
+
+The undersigned, a duly authorized signatory of the undersigned subordination agent (the “Borrower”), hereby certifies to Crédit Agricole Corporate and Investment Bank, acting through its New York Branch (the “Liquidity Provider”), with reference to the Revolving Credit Agreement (2020-1B), dated as of July 2, 2020, between the Borrower and the Liquidity Provider (the “Liquidity Agreement”; the terms defined therein and not otherwise defined herein being used herein as therein defined or referenced), that: 
+
+(1)    The Borrower is the Subordination Agent under the Intercreditor Agreement. 
+
+(2)    The Borrower is delivering this Notice of Borrowing for the making of the Non-Extension Advance by the Liquidity Provider to be used for the funding of the Class B Cash Collateral Account in accordance with Section 3.05(d) of the Intercreditor Agreement, which Advance is requested to be made on             ,         . The Non-Extension Advance should be remitted to [insert wire and account details]. 
+
+(3)    The amount of the Non-Extension Advance requested hereby (i) is $            , which equals the Maximum Available Commitment on the date hereof and is to be applied in respect of the funding of the Class B Cash Collateral Account in accordance with Sections 3.05(d) and 3.05(f) of the Intercreditor Agreement, (ii) does not include any amount with respect to the payment of the principal of, or premium on, the Class B Certificates, or principal of, or interest or premium on, the Class A Certificates or any Additional Certificates, if issued, (iii) was computed in accordance with the provisions of the Class B Certificates, the Liquidity Agreement, the Class B Trust Agreement and the Intercreditor Agreement (a copy of which computation is attached hereto as Schedule I) and (iv) has not been and is not the subject of a prior or contemporaneous Notice of Borrowing under the Liquidity Agreement. 
+
+(4)    Upon receipt by or on behalf of the Borrower of the amount requested hereby, (a) the Borrower will deposit such amount in the Class B Cash Collateral Account and apply the same in accordance with the terms of Sections 3.05(d) and 3.05(f) of the Intercreditor Agreement, (b) no portion of such amount shall be applied by the Borrower for any other purpose and (c) no portion of such amount until so applied shall be commingled with other funds held by the Borrower. 
+
+The Borrower hereby acknowledges that, pursuant to the Liquidity Agreement, (A) the making of the Non-Extension Advance as requested by this Notice of Borrowing shall automatically and irrevocably terminate the obligation of the Liquidity Provider to make further Advances under the Liquidity Agreement and (B) following the making by the Liquidity Provider of the Non-Extension Advance requested by this Notice of Borrowing, the Borrower shall not be entitled to request any further Advances under the Liquidity Agreement. 
+
+
+
+
+IN WITNESS WHEREOF, the Borrower has executed and delivered this Notice of Borrowing as of the          day of             ,        . 
+
+ 
+
+
+
+
+
+
+
+U.S. BANK TRUST NATIONAL ASSOCIATION, as Subordination Agent and as Borrower
+
+
+
+
+
+By:
+
+ 
+
+ 
+
+
+
+ 
+
+Name:
+
+
+
+ 
+
+Title:
+
+ 
+
+II-2 
+
+
+
+
+SCHEDULE I TO NON-EXTENSION ADVANCE NOTICE OF BORROWING 
+
+[Insert Copy of computations in accordance with Non-Extension Advance Notice of Borrowing] 
+
+ 
+
+II-3 
+
+
+
+
+ANNEX III to 
+
+REVOLVING CREDIT AGREEMENT 
+
+FORM OF DOWNGRADE ADVANCE NOTICE OF BORROWING 
+
+DOWNGRADE ADVANCE NOTICE OF BORROWING 
+
+The undersigned, a duly authorized signatory of the undersigned subordination agent (the “Borrower”), hereby certifies to Crédit Agricole Corporate and Investment Bank, acting through its New York Branch (the “Liquidity Provider”), with reference to the Revolving Credit Agreement (2020-1B), dated as of July 2, 2020, between the Borrower and the Liquidity Provider (the “Liquidity Agreement”; the terms defined therein and not otherwise defined herein being used herein as therein defined or referenced), that: 
+
+(1)    The Borrower is the Subordination Agent under the Intercreditor Agreement. 
+
+(2)    The Borrower is delivering this Notice of Borrowing for the making of the Downgrade Advance by the Liquidity Provider to be used for the funding of the Class B Cash Collateral Account in accordance with Section 3.05(c)(iii) of the Intercreditor Agreement by reason of the Liquidity Facility provided under the Liquidity Agreement becoming a Downgraded Facility which has not been replaced by a Replacement Liquidity Facility, which Advance is requested to be made on             ,         . The Downgrade Advance should be remitted to [insert wire and account details]. 
+
+(3)    The amount of the Downgrade Advance requested hereby (i) is $            , which equals the Maximum Available Commitment on the date hereof and is to be applied in respect of the funding of the Class B Cash Collateral Account in accordance with Sections 3.05(c) and 3.05(f) of the Intercreditor Agreement, (ii) does not include any amount with respect to the payment of the principal of, or premium on, the Class B Certificates, or principal of, or interest or premium on, the Class A Certificates or any Additional Certificates, if issued, (iii) was computed in accordance with the provisions of the Class B Certificates, the Class B Trust Agreement and the Intercreditor Agreement (a copy of which computation is attached hereto as Schedule I) and (iv) has not been and is not the subject of a prior or contemporaneous Notice of Borrowing under the Liquidity Agreement. 
+
+(4)    Upon receipt by or on behalf of the Borrower of the amount requested hereby, (a) the Borrower will deposit such amount in the Class B Cash Collateral Account and apply the same in accordance with the terms of Sections 3.05(c) and 3.05(f) of the Intercreditor Agreement, (b) no portion of such amount shall be applied by the Borrower for any other purpose and (c) no portion of such amount until so applied shall be commingled with other funds held by the Borrower. 
+
+The Borrower hereby acknowledges that, pursuant to the Liquidity Agreement, (A) the making of the Downgrade Advance as requested by this Notice of Borrowing shall automatically reduce, subject to reinstatement in accordance with the terms of the Liquidity Agreement, the 
+
+
+
+
+Maximum Available Commitment to zero and (B) following the making by the Liquidity Provider of the Downgrade Advance requested by this Notice of Borrowing, subject to reinstatement in accordance with the terms of the Liquidity Agreement, the Borrower shall not be entitled to request any further Advances under the Liquidity Agreement. 
+
+IN WITNESS WHEREOF, the Borrower has executed and delivered this Notice of Borrowing as of the          day of             ,         . 
+
+ 
+
+
+
+
+
+
+
+U.S. BANK TRUST NATIONAL ASSOCIATION, as Subordination Agent and as Borrower
+
+
+
+
+
+By:
+
+ 
+
+ 
+
+
+
+ 
+
+Name:
+
+
+
+ 
+
+Title:
+
+ 
+
+III-2 
+
+
+
+
+SCHEDULE I TO DOWNGRADE ADVANCE NOTICE OF BORROWING 
+
+[Insert Copy of computations in accordance with Downgrade Advance Notice of Borrowing] 
+
+ 
+
+III-3 
+
+
+
+
+ANNEX IV to 
+
+REVOLVING CREDIT AGREEMENT 
+
+FORM OF FINAL ADVANCE NOTICE OF BORROWING 
+
+FINAL ADVANCE NOTICE OF BORROWING 
+
+The undersigned, a duly authorized signatory of the undersigned borrower (the “Borrower”), hereby certifies to Crédit Agricole Corporate and Investment Bank, acting through its New York Branch (the “Liquidity Provider”), with reference to the Revolving Credit Agreement (2020-1B), dated as of July 2, 2020, between the Borrower and the Liquidity Provider (the “Liquidity Agreement”; the terms defined therein and not otherwise defined herein being used herein as therein defined or referenced), that: 
+
+(1)    The Borrower is the Subordination Agent under the Intercreditor Agreement. 
+
+(2)    The Borrower is delivering this Notice of Borrowing for the making of the Final Advance by the Liquidity Provider to be used for the funding of the Class B Cash Collateral Account in accordance with Section 3.05(i) of the Intercreditor Agreement by reason of the receipt by the Borrower of a Termination Notice from the Liquidity Provider with respect to the Liquidity Agreement, which Advance is requested to be made on             ,         . The Final Advance should be remitted to [insert wire and account details]. 
+
+(3)    The amount of the Final Advance requested hereby (i) is $            , which equals the Maximum Available Commitment on the date hereof and is to be applied in respect of the funding of the Class B Cash Collateral Account in accordance with Sections 3.05(f) and 3.05(i) of the Intercreditor Agreement, (ii) does not include any amount with respect to the payment of principal of, or premium on, the Class B Certificates, or principal of, or interest or premium on, the Class A Certificates or any Additional Certificates, if issued, (iii) was computed in accordance with the provisions of the Class B Certificates, the Class B Trust Agreement and the Intercreditor Agreement (a copy of which computation is attached hereto as Schedule I) and (iv) has not been and is not the subject of a prior or contemporaneous Notice of Borrowing. 
+
+(4)    Upon receipt by or on behalf of the Borrower of the amount requested hereby, (a) the Borrower will deposit such amount in the Class B Cash Collateral Account and apply the same in accordance with the terms of Sections 3.05(f) and 3.05(i) of the Intercreditor Agreement, (b) no portion of such amount shall be applied by the Borrower for any other purpose and (c) no portion of such amount until so applied shall be commingled with other funds held by the Borrower. 
+
+The Borrower hereby acknowledges that, pursuant to the Liquidity Agreement, (A) the making of the Final Advance as requested by this Notice of Borrowing shall automatically and irrevocably terminate the obligation of the Liquidity Provider to make further Advances under 
+
+
+
+
+the Liquidity Agreement and (B) following the making by the Liquidity Provider of the Final Advance requested by this Notice of Borrowing, the Borrower shall not be entitled to request any further Advances under the Liquidity Agreement. 
+
+IN WITNESS WHEREOF, the Borrower has executed and delivered this Notice of Borrowing as of the      day of             ,         . 
+
+ 
+
+
+
+
+
+
+
+U.S. BANK TRUST NATIONAL ASSOCIATION, as Subordination Agent and as Borrower
+
+
+
+
+
+By:
+
+ 
+
+ 
+
+
+
+ 
+
+Name:
+
+
+
+ 
+
+Title:
+
+[* Bracketed language may be included at Borrower’s option.] 
+
+ 
+
+IV-2 
+
+
+
+
+SCHEDULE 1 TO FINAL ADVANCE NOTICE OF BORROWING 
+
+[Insert Copy of Computations in accordance with Final Advance Notice of Borrowing] 
+
+ 
+
+IV-3 
+
+
+
+
+ANNEX V to 
+
+REVOLVING CREDIT AGREEMENT 
+
+FORM OF SPECIAL TERMINATION 
+
+ADVANCE NOTICE OF BORROWING 
+
+SPECIAL TERMINATION ADVANCE NOTICE OF BORROWING 
+
+The undersigned, a duly authorized signatory of the undersigned borrower (the “Borrower”), hereby certifies to Crédit Agricole Corporate and Investment Bank, acting through its New York Branch (the “Liquidity Provider”), with reference to the Revolving Credit Agreement (2020-1B), dated as of July 2, 2020, between the Borrower and the Liquidity Provider (the “Liquidity Agreement”; the terms defined therein and not otherwise defined herein being used herein as therein defined or referenced), that: 
+
+(1)    The Borrower is the Subordination Agent under the Intercreditor Agreement. 
+
+(2)    The Borrower is delivering this Notice of Borrowing for the making of the Special Termination Advance by the Liquidity Provider to be used for the funding of the Class B Cash Collateral Account in accordance with Section 3.05(k) of the Intercreditor Agreement by reason of the receipt by the Borrower of a Special Termination Notice from the Liquidity Provider with respect to the Liquidity Agreement, which Advance is requested to be made on                 . 
+
+(3)    The amount of the Special Termination Advance requested hereby (i) is $            , which equals the Maximum Available Commitment on the date hereof and is to be applied in respect of the funding of the Class B Cash Collateral Account in accordance with Sections 3.05(f) and 3.05(k) of the Intercreditor Agreement, (ii) does not include any amount with respect to the payment of principal of, or premium on, the Class B Certificates, or principal of, or interest or premium on, the Class A Certificates or any Additional Certificates, if issued, (iii) was computed in accordance with the provisions of the Class B Certificates, the Class B Trust Agreement and the Intercreditor Agreement (a copy of which computation is attached hereto as Schedule I) and (iv) has not been and is not the subject of a prior or contemporaneous Notice of Borrowing. 
+
+(4)    Upon receipt by or on behalf of the Borrower of the amount requested hereby, (a) the Borrower shall deposit such amount in the Class B Cash Collateral Account and apply the same in accordance with the terms of Sections 3.05(f) and 3.05(k) of the Intercreditor Agreement, (b) no portion of such amount shall be applied by the Borrower for any other purpose and (c) no portion of such amount until so applied shall be commingled with other funds held by the Borrower. 
+
+The Borrower hereby acknowledges that, pursuant to the Liquidity Agreement, (A) the making of the Special Termination Advance as requested by this Notice of Borrowing shall automatically and irrevocably terminate the obligation of the Liquidity Provider to make further 
+
+
+
+
+Advances under the Liquidity Agreement; and (B) following the making by the Liquidity Provider of the Special Termination Advance requested by this Notice of Borrowing, the Borrower shall not be entitled to request any further Advances under the Liquidity Agreement. 
+
+IN WITNESS WHEREOF, the Borrower has executed and delivered this Notice of Borrowing as of the      day of             ,         . 
+
+ 
+
+
+
+
+
+
+
+U.S. BANK TRUST NATIONAL ASSOCIATION, as Subordination Agent and as Borrower
+
+
+
+
+
+By:
+
+ 
+
+ 
+
+
+
+ 
+
+Name:
+
+
+
+ 
+
+Title:
+
+ 
+
+V-2 
+
+
+
+
+SCHEDULE 1 TO SPECIAL TERMINATION ADVANCE NOTICE OF BORROWING 
+
+[Insert Copy of Computations in accordance with Special Termination Advance Notice of Borrowing] 
+
+ 
+
+V-3 
+
+
+
+
+ANNEX VI to 
+
+REVOLVING CREDIT AGREEMENT 
+
+FORM OF NOTICE OF TERMINATION 
+
+NOTICE OF TERMINATION 
+
+[Date] 
+
+U.S. Bank Trust National Association, 
+
+as Subordination Agent 
+
+as Borrower 
+
+Seattle Tower 
+
+1420 Fifth Avenue 
+
+Seattle, WA 98101 
+
+PD-WA-T7CT 
+
+Attention: Richard Krupske 
+
+Ref: Alaska Air 2020-1 EETC 
+
+ 
+
+Re:
+
+Revolving Credit Agreement (2020-1B), dated as of July 2, 2020, between U.S. Bank Trust National Association, as Subordination Agent and as agent and trustee for the Alaska Air Airways Pass Through Trust 2020-1B, as Borrower, and Crédit Agricole Corporate and Investment Bank, acting through its New York Branch (the “Liquidity Agreement”) 
+
+Ladies and Gentlemen: 
+
+You are hereby notified that pursuant to Section 6.01(a) of the Liquidity Agreement, by reason of the occurrence and continuance of a Liquidity Event of Default and the existence of a Performing Note Deficiency (each as defined in the Liquidity Agreement), we are giving this notice to you in order to cause (i) our obligations to make Advances (as defined in the Liquidity Agreement) under such Liquidity Agreement to terminate at the close of business on the fifth Business Day after the date on which you receive this notice and (ii) you to request a Final Advance under the Liquidity Agreement pursuant to Section 2.02(c) of the Liquidity Agreement and Section 3.05(i) of the Intercreditor Agreement (as defined in the Liquidity Agreement) as a consequence of your receipt of this notice. 
+
+
+
+
+THIS NOTICE IS THE “NOTICE OF TERMINATION” PROVIDED FOR UNDER THE LIQUIDITY AGREEMENT. OUR OBLIGATIONS TO MAKE ADVANCES UNDER THE LIQUIDITY AGREEMENT WILL TERMINATE AT THE CLOSE OF BUSINESS ON THE FIFTH BUSINESS DAY AFTER THE DATE ON WHICH YOU RECEIVE THIS NOTICE. 
+
+ 
+
+
+
+
+
+
+
+Very truly yours,
+
+
+
+CRÉDIT AGRICOLE CORPORATE AND INVESTMENT BANK, ACTING THROUGH ITS NEW YORK BRANCH, as Liquidity Provider
+
+
+
+
+
+By:
+
+ 
+
+ 
+
+
+
+ 
+
+Name:
+
+
+
+ 
+
+Title:
+
+ 
+
+cc:
+
+U.S. Bank Trust National Association, as Class B Trustee 
+
+  
+
+Alaska Airlines, Inc. 
+
+  
+
+Horizon Air Industries, Inc. 
+
+ 
+
+VI-2 
+
+
+
+
+ANNEX VII to 
+
+REVOLVING CREDIT AGREEMENT 
+
+FORM OF NOTICE OF SPECIAL TERMINATION 
+
+NOTICE OF SPECIAL TERMINATION 
+
+[Date] 
+
+U.S. Bank Trust National Association, 
+
+as Subordination Agent 
+
+as Borrower 
+
+Seattle Tower 
+
+1420 Fifth Avenue 
+
+Seattle, WA 98101 
+
+PD-WA-T7CT 
+
+Attention: Richard Krupske 
+
+Ref: Alaska Air 2020-1 EETC 
+
+ 
+
+Re:
+
+Revolving Credit Agreement (2020-1B), dated as of July 2, 2020, between U.S. Bank Trust National Association, as Subordination Agent and as agent and trustee for the Alaska Air Pass Through Trust 2020-1B, as Borrower, and Crédit Agricole Corporate and Investment Bank, acting through its New York Branch (the “Liquidity Agreement”) 
+
+Ladies and Gentlemen: 
+
+You are hereby notified that pursuant to Section 6.01(b) of the Liquidity Agreement, by reason of the aggregate Pool Balance of the Class B Certificates exceeding the aggregate outstanding principal amount of the Series B Equipment Notes (other than any Series B Equipment Notes previously sold or with respect to which the Aircraft related to such Series B Equipment Notes has been disposed of) during the 18-month period prior to August 15, 2025, we are giving this notice to you in order to cause (i) our obligations to make Advances (as defined in the Liquidity Agreement) under such Liquidity Agreement to terminate at the close of business on the fifth Business Day after the date on which you receive this notice and (ii) you to request a Special Termination Advance under the Liquidity Agreement pursuant to Section 2.02(d) of the Liquidity Agreement and Section 3.05(k) of the Intercreditor Agreement (as defined in the Liquidity Agreement) as a consequence of your receipt of this notice. 
+
+
+
+
+THIS NOTICE IS THE “NOTICE OF SPECIAL TERMINATION” PROVIDED FOR UNDER THE LIQUIDITY AGREEMENT. OUR OBLIGATIONS TO MAKE ADVANCES UNDER THE LIQUIDITY AGREEMENT WILL TERMINATE AT THE CLOSE OF BUSINESS ON THE FIFTH BUSINESS DAY AFTER THE DATE ON WHICH YOU RECEIVE THIS NOTICE. 
+
+ 
+
+
+
+
+
+
+
+Very truly yours,
+
+
+
+CRÉDIT AGRICOLE CORPORATE AND INVESTMENT BANK, ACTING THROUGH ITS NEW YORK BRANCH, as Liquidity Provider
+
+
+
+
+
+By:
+
+ 
+
+ 
+
+
+
+ 
+
+Name:
+
+
+
+ 
+
+Title:
+
+ 
+
+cc:
+
+U.S. Bank Trust National Association, as Class B Trustee 
+
+  
+
+Alaska Airlines, Inc. 
+
+  
+
+Horizon Air Industries, Inc. 
+
+ 
+
+VII-2 
+
+
+
+
+ANNEX VIII to 
+
+REVOLVING CREDIT AGREEMENT 
+
+FORM OF NOTICE OF REPLACEMENT SUBORDINATION AGENT 
+
+NOTICE OF REPLACEMENT SUBORDINATION AGENT 
+
+[Date] 
+
+Attention: 
+
+ 
+
+Re:
+
+Revolving Credit Agreement (2020-1B), dated as of July 2, 2020, between U.S. Bank Trust National Association, as Subordination Agent and as agent and trustee for the Alaska Air Pass Through Trust 2020-1B, as Borrower, and Crédit Agricole Corporate and Investment Bank, acting through its New York Branch (the “Liquidity Agreement”) 
+
+Ladies and Gentlemen: 
+
+For value received, the undersigned beneficiary hereby irrevocably transfers to: 
+
+[Name of Transferee] 
+
+[Address of Transferee] 
+
+all rights and obligations of the undersigned as Borrower under the Liquidity Agreement referred to above. The transferee has succeeded the undersigned as Subordination Agent under the Intercreditor Agreement referred to in the first paragraph of the Liquidity Agreement, pursuant to the terms of Section 7.01 of the Intercreditor Agreement. 
+
+By this transfer, all rights of the undersigned as Borrower under the Liquidity Agreement are transferred to the transferee and the transferee shall hereafter have the sole rights and obligations as Borrower thereunder. The undersigned shall pay any costs and expenses of such transfer, including, but not limited to, transfer taxes or governmental charges. 
+
+This transfer shall be effective as of [specify time and date]. 
+
+ 
+
+
+
+
+
+
+
+U.S. BANK TRUST NATIONAL ASSOCIATION, as Subordination Agent and as Borrower
+
+
+
+
+
+By:
+
+ 
+
+ 
+
+
+
+ 
+
+Name:
+
+
+
+ 
+
+Title:
+
+ 
+
+VIII-1

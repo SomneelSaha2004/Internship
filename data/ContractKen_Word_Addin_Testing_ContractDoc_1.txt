@@ -1,76 +1,1319 @@
-﻿
-Evaluation Only. Created with Aspose.Words. Copyright 2003-2022 Aspose Pty Ltd.
-
-
-Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/
-
-
 Exhibit 10.2
+
+
+
+
+
 
 
 
 
 THIRD AMENDED AND RESTATED 
 
+
+
 SHAREHOLDERS’ AGREEMENT
+
+
 
 between
 
-**************************NORTHSHORE HOLDINGS LIMITED
+
+
+**************************
+
+
 
 and
 
+
+
 THE SHAREHOLDERS NAMED HEREIN
+
+
 
 dated as of
 
+
+
 January 1, 2021
 
-Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/
 
 
 
-Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/
+
+
+
+
+
+
+
 
 
 
 
 TABLE OF CONTENTS
 
-Article 1 Definitions1Article 2 Management and Operation of the Company5Section 2.01Board of Directors5Section 2.02Voting Arrangements7Article 3 Transfer of Interests7Section 3.01General Restrictions on Transfer7Section 3.02Right of First Offer9Section 3.03Drag-along Rights10Section 3.04Tag-along Rights11Article 4 Pre-Emptive Rights and Other Agreements13Section 4.01Pre-emptive Rights13Section 4.02Corporate Opportunities15Section 4.03Confidentiality15Section 4.04Registration Rights16Section 4.05Indemnification; Insurance16Section 4.06Distribution of Proceeds Upon Sale of All or Substantially All Assets16Section 4.07“Market Stand-off” Agreement16Article 5 Information Rights17Section 5.01Financial Statements and Reports17Section 5.02Inspection Rights17Article 6 Cessation of Employment18Section 6.01Leavers18Article 7 Representations and Warranties18Section 7.01Representations and Warranties18Article 8 Term and Termination19Section 8.01Termination19Section 8.02Effect of Termination19Article 9 Miscellaneous19Section 9.01Expenses19Section 9.02Release of Liability19Section 9.03Notices19Section 9.04Interpretation20Section 9.05Headings20Section 9.06Severability20Section 9.07Entire Agreement20Section 9.08Successors and Assigns20Section 9.09No Third-Party Beneficiaries20Section 9.10Amendment and Modification; Waiver21Section 9.11Governing Law21Section 9.12Submission to Jurisdiction; Waiver of Jury Trial21Section 9.13Equitable Remedies21Section 9.14Counterparts21
-
-Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/
 
 
 
-Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Article 1 Definitions
+
+1
+
+Article 2 Management and Operation of the Company
+
+5
+
+Section 2.01
+
+Board of Directors
+
+5
+
+Section 2.02
+
+Voting Arrangements
+
+7
+
+Article 3 Transfer of Interests
+
+7
+
+Section 3.01
+
+General Restrictions on Transfer
+
+7
+
+Section 3.02
+
+Right of First Offer
+
+9
+
+Section 3.03
+
+Drag-along Rights
+
+10
+
+Section 3.04
+
+Tag-along Rights
+
+11
+
+Article 4 Pre-Emptive Rights and Other Agreements
+
+13
+
+Section 4.01
+
+Pre-emptive Rights
+
+13
+
+Section 4.02
+
+Corporate Opportunities
+
+15
+
+Section 4.03
+
+Confidentiality
+
+15
+
+Section 4.04
+
+Registration Rights
+
+16
+
+Section 4.05
+
+Indemnification; Insurance
+
+16
+
+Section 4.06
+
+Distribution of Proceeds Upon Sale of All or Substantially All Assets
+
+16
+
+Section 4.07
+
+“Market Stand-off” Agreement
+
+16
+
+Article 5 Information Rights
+
+17
+
+Section 5.01
+
+Financial Statements and Reports
+
+17
+
+Section 5.02
+
+Inspection Rights
+
+17
+
+Article 6 Cessation of Employment
+
+18
+
+Section 6.01
+
+Leavers
+
+18
+
+Article 7 Representations and Warranties
+
+18
+
+Section 7.01
+
+Representations and Warranties
+
+18
+
+Article 8 Term and Termination
+
+19
+
+Section 8.01
+
+Termination
+
+19
+
+Section 8.02
+
+Effect of Termination
+
+19
+
+Article 9 Miscellaneous
+
+19
+
+Section 9.01
+
+Expenses
+
+19
+
+Section 9.02
+
+Release of Liability
+
+19
+
+Section 9.03
+
+Notices
+
+19
+
+Section 9.04
+
+Interpretation
+
+20
+
+Section 9.05
+
+Headings
+
+20
+
+Section 9.06
+
+Severability
+
+20
+
+Section 9.07
+
+Entire Agreement
+
+20
+
+Section 9.08
+
+Successors and Assigns
+
+20
+
+Section 9.09
+
+No Third-Party Beneficiaries
+
+20
+
+Section 9.10
+
+Amendment and Modification; Waiver
+
+21
+
+Section 9.11
+
+Governing Law
+
+21
+
+Section 9.12
+
+Submission to Jurisdiction; Waiver of Jury Trial
+
+21
+
+Section 9.13
+
+Equitable Remedies
+
+21
+
+Section 9.14
+
+Counterparts
+
+21
+
+
+
+
+
+
+
+
+
+
+
+i
 
 i
 
 
+
 THIRD AMENDED AND RESTATED SHAREHOLDERS’ AGREEMENT
+
 This Third Amended and Restated Shareholders’ Agreement (this “Agreement”), dated as of January 1, 2021 (“Effective Date”), is entered into among Northshore Holdings Limited, a Bermuda exempted company (the “Company”), Trident V, L.P., Trident V Parallel Fund, L.P. and Trident V Professionals Fund, L.P. (collectively, the “Trident Shareholders” and each, a “Trident Shareholder”), Kenmare Holdings Ltd. (the “Enstar Shareholder” and together with the Trident Shareholders, the “Initial Shareholders”), Dowling Capital Partners I, L.P. and Capital City Partners LLC (collectively, the “Dowling Shareholders” and each, a “Dowling Shareholder”), Atrium Nominees Limited (the “Atrium Nominee”), and each other Person who after the date hereof acquires Common Shares of the Company and becomes a party to this Agreement by executing a Joinder Agreement (such Persons, collectively with the Initial Shareholders, the Dowling Shareholders and the Atrium Nominee, the “Shareholders”).
+
 RECITALS
+
 WHEREAS, pursuant to the transactions contemplated by the Recapitalization Agreement, dated as of August 13, 2020 (the “Recapitalization Agreement”), by and among the Trident Shareholders, the Enstar Shareholder, the Dowling Shareholders and North Bay Holdings Limited, a Bermuda exempted company (“North Bay”), among other things, North Bay dissolved and distributed all of the shares of the Company held by North Bay to its shareholders, such that immediately following such distribution, each of the Trident Shareholders, the Enstar Shareholder and the Dowling Shareholders became direct shareholders of the Company owning the number of Common Shares set forth opposite such Person’s name on Schedule I attached hereto;
+
 WHEREAS, the Shareholders deem it in their best interests and in the best interests of the Company to amend and restate that certain Second Amended and Restated Shareholders’ Agreement of the Company, dated as of December 23, 2015, in its entirety and to set forth in this Agreement their respective rights and obligations in connection with their shareholdings in the Company.
+
 NOW, THEREFORE, in consideration of the mutual covenants and agreements hereinafter set forth and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
 
+
+
 Article 1 
+
 Definitions
+
 Capitalized terms used herein and not otherwise defined shall have the meanings set forth in this Article 1:
+
 “Affiliate” means with respect to any Person, any other Person who, directly or indirectly (including through one or more intermediaries), controls, is controlled by, or is under common control with, such Person. For purposes of this definition, “control,” when used with respect to any specified Person, shall mean the power, direct or indirect, to direct or cause the direction of the management and policies of such Person, whether through ownership of voting securities or partnership or other ownership interests, by contract or otherwise; and the terms “controlling” and “controlled” shall have correlative meanings.
+
 “Agreement” has the meaning set forth in the preamble.
+
 “Applicable Law” means all applicable provisions of (a) constitutions, treaties, statutes, laws (including the common law), rules, regulations, decrees, ordinances, codes, proclamations, declarations or orders of any Governmental Authority, (b) any consents or approvals of any Governmental Authority and (c) any orders, decisions, advisory or interpretative opinions, injunctions, judgments, awards, decrees of, or agreements with, any Governmental Authority.
+
 “Arden Re” means Arden Reinsurance Company Ltd.
+
+
+
+1
+
 1
 
 
+
 “Atrium” means Atrium Underwriting Group Limited (a company incorporated in England and Wales under registered number 02860390 and whose registered office is at Room 790, Lime Street, London EC3M 7DQ).
+
 “Atrium Group” means Atrium and any Subsidiary of Atrium from time to time and references to “member of the Atrium Group” shall be construed accordingly.
+
 “Atrium Nominee” has the meaning set forth in the preamble.
+
 “Atrium Nominee Tag Notice” has the meaning set forth in Section 3.04(c). 
+
 “Beneficial Owner” means any current or former employee or officer of a member of the Atrium Group (or their successor) who acquires any beneficial interest in Common Shares (or other shares of the Company which are issued pursuant to a scheme approved by the Board for the return of income or capital to shareholders) or who may become entitled to acquire a beneficial interest in Common Shares (or other shares of the Company which are issued pursuant to a scheme approved by the Board for the return of income or capital to shareholders) as a result of the operation of a Plan.
+
 “Board” has the meaning set forth in Section 2.0l(a).
+
 “Business Day” means a day other than a Saturday, Sunday or other day on which commercial banks in Bermuda are authorized or required to close.
-This document was truncated here because it was created in the Evaluation Mode.
-Created with an evaluation copy of Aspose.Words. To discover the full versions of our APIs please visit: https://products.aspose.com/words/
+
+“Bye-laws” means the bye-laws of the Company, as amended, modified, supplemented or restated from time to time in accordance with the terms of this Agreement.
+
+“Change of Control” means any transaction or series of related transactions (as a result of a tender offer, merger, consolidation or otherwise) that results in, or that is in connection with, (a) any Third Party Purchaser or “group” (within the meaning of Section 13(d)(3) of the Exchange Act) of Third Party Purchasers acquiring beneficial ownership, directly or indirectly, of all or substantially all of the then issued and outstanding Common Shares or all of the Common Shares then held by the Trident Shareholders (so long as such Common Shares represent at least a majority of the Common Shares then issued and outstanding) or (b) the sale, lease, exchange, conveyance, transfer or other disposition (for cash, shares of stock, securities or other consideration) of all or substantially all of the property and assets of the Company and its Subsidiaries, on a consolidated basis, to any Third Party Purchaser or “group” (within the meaning of Section 13(d)(3) of the Exchange Act) of Third Party Purchasers (including any liquidation, dissolution or winding up of the affairs of the Company, or any other distribution made, in connection therewith).
+
+“Committee” means the Atrium Remuneration and Nomination Committee from time to time.
+
+“Common Shares” means the common shares, par value $1.00 per share, of the Company and any securities issued in respect thereof, or in substitution therefor, in connection with any stock split, dividend or combination, or any reclassification, recapitalization, merger, consolidation, exchange or similar reorganization.
+
+“Company” has the meaning set forth in the preamble.
+
+“Director” has the meaning set forth in Section 2.0l(a).
+
+“Dowling Shareholders” has the meaning set forth in the preamble and shall also include any Permitted Transferees of the Dowling Shareholders that become Shareholders pursuant to the terms of this Agreement. 
+
+“Drag-along Notice” has the meaning set forth in Section 3.03(b). 
+
+“Drag-along Sale” has the meaning set forth in Section 3.03(a).
+
+“Drag-along Shareholder” has the meaning set forth in Section 3.03(a). 
+
+“Effective Date” has the meaning set forth in the preamble.
+
+“Enstar Director” has the meaning set forth in Section 2.01(a)(i).
+
+
+
+2
+
+2
+
+
+
+“Enstar Shareholder” has the meaning set forth in the preamble and shall also include any Permitted Transferees of the Enstar Shareholder that become Shareholders pursuant to the terms of this Agreement.
+
+“Exchange Act” means the United States Securities Exchange Act of 1934, as amended, or any successor federal statute, and the rules and regulations thereunder, which shall be in effect at the time.
+
+“Excluded Securities” means any Common Shares or other equity securities issued in connection with (a) a grant to any existing or prospective consultants, employees, officers or directors pursuant to any stock option, employee stock purchase or similar equity-based plans or other compensation agreement, including, but not limited to, the Plans; (b) the exercise or conversion of options to purchase Common Shares, or Common Shares issued to any existing or prospective consultants, employees, officers or directors pursuant to any stock option, employee stock purchase or similar equity-based plans or any other compensation agreement, including, but not limited to, the Plans; (c) a scheme approved by the Board for the return of income or capital to Shareholders; (d) any acquisition by the Company of the stock, assets, properties or business of any Person; (e) any merger, consolidation or other business combination involving the Company; (f) the commencement of any Initial Public Offering or any transaction or series of related transactions involving a Change of Control; or (g) a stock split, stock dividend or any similar recapitalization.
+
+“Exercise Period” has the meaning set forth in Section 4.0l(c).
+
+“Exercising Shareholder” has the meaning set forth in Section 4.0l(d).
+
+“Government Approval” means any authorization, consent, approval, waiver, exception, variance, order, exemption, publication, filing, declaration, concession, grant, franchise, agreement, permission, permit, or license of, from or with any Governmental Authority, the giving notice to, or registration with, any Governmental Authority or any other action in respect of any Governmental Authority.
+
+“Governmental Authority” means any federal, state, local or foreign government or political subdivision thereof, or any agency or instrumentality of such government or political subdivision, or any self-regulated organization or other non-governmental regulatory authority or quasi-governmental authority (to the extent that the rules, regulations or orders of such organization or authority have the force of law), or any arbitrator, court or tribunal of competent jurisdiction.
+
+“Information” has the meaning set forth in Section 4.03(a).
+
+“Initial Public Offering” means any offering of Common Shares, or shares or other equity interests of any Material Subsidiary, pursuant to a registration statement filed in accordance with the Securities Act.
+
+“Initial Shareholders” has the meaning set forth in the preamble and shall also include any Permitted Transferees of the Enstar Shareholder and the Trident Shareholders that become Shareholders, but shall not include any Dowling Shareholder or the Atrium Nominee.
+
+“Issuance Notice” has the meaning set forth in Section 4.0l(b).
+
+“Joinder Agreement” means the joinder agreement in form and substance of Exhibit A attached hereto.
+
+“Leaver” has the meaning set forth in Section 6.01.
+
+“Leaver Sale” has the meaning set forth in Section 6.01.
+
+“Leaver Sale Provisions” means the mechanism for the sale of any Common Shares (or other shares of the Company which are issued pursuant to a scheme approved by the Board for the return of income or capital to shareholders) held by the Atrium Nominee (as Nominee) on behalf of a relevant Beneficial Owner who becomes a Leaver as set out in the Nominee Agreement applicable to such Beneficial Owner.
+
+“Lien” means any lien, claim, charge, mortgage, pledge, security interest, option, preferential arrangement, right of first offer, encumbrance or other restriction or limitation of any nature whatsoever.
+
+
+
+3
+
+3
+
+
+
+“Material Subsidiary” means Arden Re, Atrium and any other material direct or indirect Subsidiary of the Company.
+
+“Memorandum of Association” means the memorandum of association of the Company, as filed on August 14, 2009 with the Registrar of Companies of Bermuda and as amended, modified, supplemented or restated from time to time in accordance with the terms of this Agreement.
+
+“New Securities” has the meaning set forth in Section 4.0l(a).
+
+“Nominee” means the Atrium Nominee acting in its capacity as nominee on behalf of a Beneficial Owner (or such other nominee jointly selected by the Committee and the Board).
+
+“Nominee Agreements” means the individual nominee agreements between the Atrium Nominee (as Nominee), the Company, Atrium and each Beneficial Owner in relation to the Plans and any Common Shares (or other shares of the Company which are issued pursuant to a scheme approved by the Board for the return of income or capital to shareholders) held by the Atrium Nominee (as Nominee) on behalf of such Beneficial Owner and “Nominee Agreement” means any one of them with respect to an applicable Beneficial Owner.
+
+“Non-Exercising Shareholder” has the meaning set forth in Section 4.0l(d).
+
+“North Bay” has the meaning set forth in the recitals.
+
+“Offered Shares” has the meaning set forth in Section 3.02(a). 
+
+“Offering Shareholder” has the meaning set forth in Section 3.02(a).
+
+“Offering Shareholder Notice” has the meaning set forth in Section 3.02(b).
+
+“Organizational Documents” means the Bye-laws and the Memorandum of Association.
+
+“Over-allotment Exercise Period” has the meaning set forth in Section 4.01(d). 
+
+“Over-allotment New Securities” has the meaning set forth in Section 4.01(d). 
+
+“Over-allotment Notice” has the meaning set forth in Section 4.01(d). 
+
+“Permitted Transferee” means (i) with respect to any Shareholder (other than the Atrium Nominee), any Affiliate of such Shareholder, and (ii) with respect to the Atrium Nominee (in its capacity as Nominee), any replacement or successor nominee of the Beneficial Owners from time to time approved in writing by the Board and the Committee.
+
+“Person” means an individual, corporation, company, partnership, joint venture, limited liability company, Governmental Authority, unincorporated organization, trust, association or other entity.
+
+“Plans” means the Rollover Long Term Incentive Plan, the Annual Long Term Incentive Plan and the Rollover Matching Share Plan adopted by the Committee and the Company with effect from April 17, 2014 and the Annual Matching Share Plan adopted by the Committee and the Company with effect from May 1, 2015.
+
+“Pre-emptive Pro Rata Portion” has the meaning set forth in Section 4.01(c). 
+
+“Pre-emptive Securities” has the meaning set forth in Section 4.01(a). 
+
+“Proposed Transferee” has the meaning set forth in Section 3.04(a).
+
+“Recapitalization Agreement” has the meaning set forth in the recitals. 
+
+“Related Party Agreement” means any agreement, arrangement or understanding (a) between (i) the Company and (ii) any Shareholder or any Affiliate of a Shareholder or any director, officer or employee of the Company, as such agreement may be amended, modified, supplemented or restated in accordance with the terms of this Agreement, and (b) between (i) Arden Re, Atrium or any other direct or indirect Subsidiary of the Company and (ii) the Company, any Shareholder or any Affiliate of Arden Re, Atrium, the Company, or a Shareholder or any director, officer or employee of Arden Re, Atrium or any direct or 
+
+
+
+4
+
+4
+
+
+
+indirect Subsidiary of the Company, as such agreement may be amended, modified, supplemented or restated in accordance with the terms of this Agreement.
+
+“Representative” means, with respect to any Person, any and all directors, officers, employees, consultants, financial advisors, counsel, accountants and other agents of such Person and its Affiliates.
+
+“ROFO Notice” has the meaning set forth in Section 3.02(d).
+
+“ROFO Notice Period” has the meaning set forth in Section 3.02(b).
+
+“Sale Notice” has the meaning set forth in Section 3.04(b).
+
+“Securities Act” means the United States Securities Act of 1933, as amended, or any successor federal statute, and the rules and regulations thereunder, which shall be in effect at the time.
+
+“Selling Shareholder” has the meaning set forth in Section 3.04(a).
+
+“Shareholders” has the meaning set forth in the preamble.
+
+“Subsidiary” means with respect to any Person, any other Person of which a majority of the outstanding shares or other equity interests having the power to vote for directors or comparable managers are owned, directly or indirectly, by the first Person.
+
+“Tag-along Notice” has the meaning set forth in Section 3.04(c).
+
+“Tag-along Period” has the meaning set forth in Section 3.04(c).
+
+“Tag-along Sale” has the meaning set forth in Section 3.04(a).
+
+“Tag-along Shareholder” has the meaning set forth in Section 3.04(a).
+
+“Third Party Purchaser” means any Person who, immediately prior to the contemplated transaction, (a) does not directly or indirectly own or have the right to acquire any outstanding Common Shares or (b) is not a Permitted Transferee of any Person who directly or indirectly owns or has the right to acquire any Common Shares.
+
+“Transfer” means to, directly or indirectly, sell, transfer, assign, pledge, encumber, hypothecate or similarly dispose of, either voluntarily or involuntarily, or to enter into any contract, option or other arrangement or understanding with respect to the sale, transfer, assignment, pledge, encumbrance, hypothecation or similar disposition of, any Common Shares owned by a Person or any interest (including a beneficial interest) in any Common Shares owned by a Person.
+
+“Trident Designee” has the meaning set forth in Section 2.01(a)(ii). 
+
+“Trident Director” has the meaning set forth in Section 2.01(a)(ii). 
+
+“Trident Shareholders” has the meaning set forth in the preamble and shall also include any Permitted Transferees of the Trident Shareholders that become Shareholders pursuant to the terms of this Agreement.
+
+“Waived ROFO Transfer Period” has the meaning set forth in Section 3.02(f).
+
+Article 2 Management and Operation of the Company
+
+Section 2.01 Board of Directors.
+
+(a) The Shareholders agree that the business and affairs of the Company shall be managed through a board of directors (the “Board”) consisting of such number of members (each, a “Director”) as is determined by the Trident Shareholders in their sole discretion, which Board shall initially consist of five members. The Directors shall be elected to the Board in accordance with the following procedures: 
+
+(i) For so long as the Enstar Shareholder owns 50% or more of the Common Shares held by it as of the Effective Date, the Enstar Shareholder shall have the right to designate one Director, who shall initially be Paul O’Shea (the “Enstar Director”); and
+
+
+
+5
+
+5
+
+
+
+(ii) The Trident Shareholders shall have the right to designate four Directors (collectively, the “Trident Directors”), consisting of (i) three directors as the Trident Shareholders shall determine (collectively, the “Trident Designees”), who shall initially be Darran Baird and Adam Hamberg, with one seat remaining vacant as of date hereof, and (ii) one Director who shall be the chief executive officer of Atrium or such other representative of Atrium’s senior management as the Trident Shareholders shall determine.
+
+Notwithstanding the foregoing, on any matter to be considered by the Board or any committee thereof, (i) the Trident Designees present at the meeting of the Board or committee thereof shall collectively exercise such number of votes equal to the number of Trident Designees the Trident Shareholders are entitled to designate, (ii) the Enstar Director present at any meeting of the Board or committee thereof shall exercise one vote, and (iii) any other Director present at any meeting of the Board or committee thereof shall exercise one vote. The Enstar Shareholder and the Trident Shareholders shall cooperate with each other and use their commercially reasonable efforts to ensure that the composition of the Board complies with all Applicable Laws. In the event the Enstar Shareholder ceases to have the right to designate a Director pursuant to this Section 2.01(a), the Director so designated by the Enstar Shareholder shall be removed from the Board and the Trident Shareholders shall have the right to designate such Director, with such designated Director being deemed a “Trident Director” hereunder. 
+
+(b) Each Shareholder shall vote all Common Shares over which such Shareholder has voting control and shall take all other necessary or desirable actions within such Shareholder’s control (including in its capacity as shareholder, director, member of a board committee or officer of the Company or otherwise, and whether at a regular or special meeting of the Shareholders or by written consent in lieu of a meeting) to elect to the Board any individual designated by an Initial Shareholder pursuant to Section 2.0l(a).
+
+(c) Each Initial Shareholder shall have the right at any time to remove (with or without cause) any Director designated by such Initial Shareholder for election to the Board and each other Shareholder shall vote all Common Shares over which such Shareholder has voting control and shall take all other necessary or desirable actions within such Shareholder’s control (including in its capacity as shareholder, director, member of a board committee or officer of the Company or otherwise, and whether at a regular or special meeting of the Shareholders or by written consent in lieu of a meeting) to remove from the Board any individual designated by such Initial Shareholder that such Initial Shareholder desires to remove pursuant to this Section 2.01(c). Except as provided in the preceding sentence, unless an Initial Shareholder shall otherwise consent in writing, no other Shareholder shall take any action to cause the removal of any Director(s) designated by an Initial Shareholder for as long as such Initial Shareholder has the ability to designate such Director. 
+
+(d) In the event a vacancy is created on the Board at any time and for any reason (whether as a result of death, disability, retirement, resignation or removal pursuant to Section 2.01(c)), the Initial Shareholder who designated such individual shall have the right to designate a different individual to replace such Director and each other Shareholder shall vote all Common Shares over which such Shareholder has voting control and shall take all other necessary or desirable actions within such Shareholder’s control (including in its capacity as shareholder, director, member of a board committee or officer of the Company or otherwise, and whether at a regular or special meeting of the Shareholders or by written consent in lieu of a meeting) to elect to the Board any individual designated by such Initial Shareholder. 
+
+(e) The Board shall have the right to establish any committee of Directors as the Board shall deem appropriate from time to time. Subject to this Agreement, the Organizational Documents and Applicable Law, committees of the Board shall have the rights, powers and privileges granted to such committee by the Board from time to time. Any delegation of authority to a committee of Directors to take any action must be approved in the same manner as would be required for the Board to approve such action directly. Any committee of Directors shall include the Enstar Director at the Enstar Shareholder’s election for so long as the Enstar Shareholder has the right to designate a Director pursuant to Section 2.01(a). 
+
+
+
+6
+
+6
+
+
+
+(f) The presence of a majority of Directors then in office shall constitute a quorum. If a quorum is not achieved at any duly called meeting, such meeting may be postponed to a time no earlier than 48 hours after written notice of such postponement has been given to the Directors.
+
+(g) Subject to Applicable Law and the provisions of this Section 2.01(g), to the extent any Material Subsidiary of the Company has a board of directors (or similar governing body), the composition of such board (or similar governing body) shall, where the appropriate Persons are willing to serve, be consistent with the composition of the Board; provided, that no member of the Board shall be required to serve as a director of any such Material Subsidiary. In the event that, in accordance with Applicable Law, the composition of the board of directors (or similar governing body) of any Material Subsidiary cannot be consistent with the composition of the Board, the composition of the board of directors of such Material Subsidiary shall be determined by the Board. Notwithstanding anything to the contrary stated herein, the Trident Shareholders do not hold the right to appoint in excess of one (1) director to the board of directors (or similar governing body) of each of (i) Atrium Underwriters Limited, (ii) Atrium 5 Limited, (iii) Atrium Insurance Agency Limited and (iv) Arden Re.
+
+Section 2.02 Voting Arrangements. Exclusivity. The services of the Adviser to the Trust under this Agreement are not to be deemed exclusive, and the Adviser, or any affiliate thereof, shall be free to render similar services to other investment companies and other clients (whether or not their investment objectives and policies are similar to those of any of the Series) and to engage in other activities, so long as its services hereunder are not impaired thereby. 
+
+(a) amend, modify or waive the Organizational Documents or the charter, bye-laws or other organizational documents of any Material Subsidiary in a way that materially and adversely affects the rights of the Enstar Shareholder disproportionately as compared to the Trident Shareholders; 
+
+(b) make any material changes in the tax or accounting methods or policies or the tax elections of the Company or any Material Subsidiary (other than as required by Applicable Law or GAAP) that would have a materially adverse impact on the Enstar Shareholder; or
+
+(c) enter into, amend in any material respect, waive or terminate any Related Party Agreement other than (i) the entry into a Related Party Agreement that is on an arm’s length basis and on terms no less favorable to the Company or the applicable Material Subsidiary than those that could be obtained from an unaffiliated third party, and (ii) any of the transactions, arrangements or agreements set forth in this Agreement.
+
+Article 3 
+
+Transfer of Interests
+
+Section 3.01 General Restrictions on Transfer.
+
+(a) Except as permitted pursuant to Section 3.01(c), each Shareholder (other than the Atrium Nominee) agrees that such Shareholder will not, directly or indirectly, voluntarily or involuntarily Transfer any of its Common Shares.
+
+(b) Except as otherwise permitted or required pursuant to the terms of this Agreement or the Leaver Sale Provisions, the Atrium Nominee agrees that it will not, directly or indirectly, voluntary or involuntarily Transfer any Common Shares prior to a Change of Control occurring after the date hereof or an Initial Public Offering (including, any Common Shares held by the Atrium Nominee on behalf of a Beneficial Owner).
+
+(c) The provisions of Section 3.0l(a) and Section 3.01(b) shall not apply to any of the following Transfers by any Shareholder of any of its Common Shares: (i) to a Permitted Transferee, (ii) pursuant to a merger, consolidation or other business combination of the Company with a Third Party Purchaser that has been approved by the Board, (iii) a Transfer of Common Shares which is made in accordance with and subject to Section 3.02 (Right of First Offer), Section 3.03 (Drag-along Right) and/or Section 3.04 (Tag-along Right), as applicable, provided that, unless otherwise approved by the Board, no such Transfer shall be permissible prior to the eighteen (18) month anniversary of the Effective Date, (iv) pursuant to a scheme approved by the Board for the return of income or capital to Shareholders or (v) 
+
+
+
+7
+
+7
+
+
+
+which is otherwise approved in writing by the Board. The provisions of Section 3.02 (Right of First Offer), Section 3.03 (Drag-along Right) and/or Section 3.04 (Tag-along Right) shall not apply to any of the Transfers contemplated by clauses (i), (ii), (iv) or (v) above.
+
+(d) In addition to any legends required by Applicable Law:
+
+(i) each certificate (if any) representing the Common Shares of the Company shall bear a legend substantially in the following form (and if the Common Shares are not certificated, the Company’s ledger shall include a notation substantially in the following form omitting the reference to a certificate):
+
+“THE SECURITIES REPRESENTED BY THIS CERTIFICATE ARE SUBJECT TO A SHAREHOLDERS’ AGREEMENT (A COPY OF WHICH IS ON FILE WITH THE SECRETARY OF THE COMPANY). NO TRANSFER, SALE, ASSIGNMENT, PLEDGE, HYPOTHECATION OR OTHER DISPOSITION OF THE SECURITIES REPRESENTED BY THIS CERTIFICATE MAY BE MADE EXCEPT IN ACCORDANCE WITH THE PROVISIONS OF SUCH SHAREHOLDERS’ AGREEMENT AND (A) PURSUANT TO A REGISTRATION STATEMENT EFFECTIVE UNDER THE UNITED STATES SECURITIES ACT OF 1933, AS AMENDED, OR (B) PURSUANT TO AN EXEMPTION FROM REGISTRATION THEREUNDER. THE HOLDER OF THIS CERTIFICATE, BY ACCEPTANCE OF THIS CERTIFICATE, AGREES TO BE BOUND BY ALL OF THE PROVISIONS OF SUCH SHAREHOLDERS’ AGREEMENT.”
+
+(ii) each certificate (if any) representing the Common Shares of the Company issued under or in connection with a Plan shall bear an additional legend substantially in the following form (and if such Common Shares are not certificated, the Company’s ledger shall include a notation substantially in the following form omitting the reference to a certificate):
+
+“THE SECURITIES REPRESENTED BY THIS CERTIFICATE ARE HELD BY THE LEGAL OWNER SUBJECT TO A NOMINEE AGREEMENT (A COPY OF WHICH IS ON FILE WITH THE SECRETARY OF THE COMPANY). THE BENEFICIAL OWNER OF THE SECURITIES REPRESENTED BY THIS CERTIFICATE IS NOT THE SAME ENTITY AS THE LEGAL OWNER. NO TRANSFER, SALE, ASSIGNMENT, PLEDGE, HYPOTHECATION OR OTHER DISPOSITION OF THE SECURITIES REPRESENTED BY THIS CERTIFICATE MAY BE MADE EXCEPT IN ACCORDANCE WITH THE PROVISIONS OF SUCH NOMINEE AGREEMENT.”
+
+(e) Prior notice shall be given to the Company by the transferor of any Transfer (whether or not to a Permitted Transferee) of any Common Shares. Prior to consummation of any Transfer by any Shareholder of any of its Common Shares, such party shall cause the transferee thereof to execute and deliver to the Company a Joinder Agreement and agree to be bound by the terms and conditions of this Agreement. Upon any Transfer by any Shareholder of any of its Common Shares in accordance with the terms of this Agreement, the transferee thereof shall be substituted for, and shall assume all the rights and obligations under this Agreement of, the transferor thereof.
+
+(f) Notwithstanding any other provision of this Agreement, each Shareholder agrees that it will not, directly or indirectly, Transfer any of its Common Shares (i) except as permitted under the Securities Act and other applicable federal, state or foreign securities laws, and then, if requested by the Company, only upon delivery to the Company of an opinion of counsel in form and substance satisfactory to the Company to the effect that such Transfer may be effected without registration under the Securities Act or any applicable foreign securities laws, (ii) if it would cause the Company or any of its Subsidiaries to be required to register as an investment company under the United States Investment Company Act of 1940, as amended, or any comparable foreign law, or (iii) if it would cause the assets of the Company or any of its Subsidiaries to be deemed plan assets as defined under the United States Employee Retirement Income Security Act of 1974 or its accompanying regulations or any comparable foreign law or result in any “prohibited transaction” thereunder involving the Company. In any event, the Board may refuse the Transfer to any Person if (i) such Transfer would have a material adverse effect on the Company as a result of any regulatory or other restrictions imposed by any Governmental Authority or (ii) 
+
+
+
+8
+
+8
+
+
+
+any non-de minimis adverse tax consequence to the Company, any Subsidiary of the Company, or any Shareholder or any of their Affiliates would result from such Transfer.
+
+(g) Any Transfer or attempted Transfer of any Common Shares in violation of this Agreement shall be null and void, no such Transfer shall be recorded on the Company’s books and the purported transferee in any such Transfer shall not be treated (and the purported transferor shall continue be treated) as the owner of such Common Shares for all purposes of this Agreement.
+
+Section 3.02 Right of First Offer.
+
+(a) At any time that a Shareholder other than a Trident Shareholder is permitted to Transfer Common Shares hereunder, and subject to the terms and conditions specified in this Section 3.02, the Trident Shareholders shall have a right of first offer if any such other Shareholder (an “Offering Shareholder”) proposes to Transfer any Common Shares (the “Offered Shares”) owned by it to any Third Party Purchaser. Each time the Offering Shareholder proposes to Transfer any Offered Shares (other than Transfers permitted pursuant to Sections 3.01(c)(i), (ii), (iv) or (v) and Transfers made pursuant to Section 3.03), the Offering Shareholder shall first make an offering of the Offered Shares to the Trident Shareholders in accordance with the following provisions of this Section 3.02.
+
+(b) The Offering Shareholder shall give written notice (the “Offering Shareholder Notice”) to the Company and the Trident Shareholders stating its bona fide intention to Transfer the Offered Shares and specifying the number of Offered Shares and the material terms and conditions, including the price, pursuant to which the Offering Shareholder proposes to Transfer the Offered Shares. The Offering Shareholder Notice shall constitute the Offering Shareholder’s offer to Transfer the Offered Shares to the Trident Shareholders, which offer shall be irrevocable for a period of 20 Business Days (the “ROFO Notice Period”).
+
+(c) By delivering the Offering Shareholder Notice, the Offering Shareholder represents and warrants to the Company and the Trident Shareholders that: (i) the Offering Shareholder has full right, title and interest in and to the Offered Shares; (ii) the Offering Shareholder has all the necessary power and authority and has taken all necessary action to Transfer such Offered Shares as contemplated by this Section 3.02; and (iii) the Offered Shares are free and clear of any and all Liens other than those arising as a result of or under the terms of this Agreement.
+
+(d) Upon receipt of the Offering Shareholder Notice, the Trident Shareholders shall have until the end of the ROFO Notice Period to elect to purchase any amount of the Offered Shares by delivering a written notice (a “ROFO Notice”) to the Offering Shareholder and the Company stating that it agrees to purchase such specified amount of Offered Shares on the terms specified in the Offering Shareholder Notice. Any ROFO Notice shall be binding upon delivery and irrevocable by the Trident Shareholders. 
+
+(e) If the Trident Shareholders do not deliver a ROFO Notice during the ROFO Notice Period, then the Trident Shareholders shall be deemed to have waived all of their rights to purchase the Offered Shares under this Section 3.02. 
+
+(f) If the Trident Shareholders do not deliver a ROFO Notice, the Offering Shareholder may, during the 180-day period immediately following the expiration of the ROFO Notice Period, which period may be extended for a reasonable time not to exceed 270 days to the extent reasonably necessary to obtain any Government Approvals (the “Waived ROFO Transfer Period”), and subject to the provisions of Section 3.04, Transfer all of the Offered Shares to a Third Party Purchaser on terms and conditions no more favorable to the Third Party Purchaser than those set forth in the Offering Shareholder Notice. If the Offering Shareholder does not consummate the Transfer of the Offered Shares within the Waived ROFO Transfer Period, the rights provided hereunder shall be deemed to be revived and the Offered Shares shall not be offered or sold to any Person unless first re-offered to the Trident Shareholders in accordance with this Section 3.02.
+
+(g) Each Shareholder shall take all actions as may be reasonably necessary to consummate any Transfer contemplated by this Section 3.02, including entering into agreements and delivering certificates and instruments and consents as may be deemed necessary or appropriate. 
+
+
+
+9
+
+9
+
+
+
+(h) At the closing of any Transfer pursuant to this Section 3.02, the Offering Shareholder shall deliver to the Trident Shareholders the certificate or certificates representing the Offered Shares to be sold (if any), accompanied by stock powers and all necessary stock transfer taxes paid and stamps affixed, if necessary, against receipt of the purchase price therefor from the Trident Shareholders by certified or official bank check or by wire transfer of immediately available funds. 
+
+(i) Notwithstanding the foregoing provisions of this Section 3.02, the Atrium Nominee shall be permitted to Transfer Common Shares to the Company or the Company’s designee in connection with any Leaver Sale without complying with the terms of this Section 3.02.
+
+(j) The provisions of this Section 3.02 shall not apply to a Transfer to the Company (or as the Company may direct) pursuant to a scheme approved by the Board for the return of income or capital to Shareholders.
+
+Section 3.03 Drag-along Rights.
+
+(a) If at any time the Trident Shareholders (together with their Permitted Transferees) hold no less than 55% of the aggregate number of outstanding Common Shares of the Company held by the Initial Shareholders at such time and the Trident Shareholders are proposing (A) a sale to one or more Third Party Purchasers of a majority of the outstanding Common Shares of the Company, (B) to approve any merger, amalgamation, or consolidation of the Company with or into one or more Third Party Purchasers, or (C) to approve any sale of all or substantially all of the Company’s assets to one or more Third Party Purchasers, including in each case any transaction that would constitute a Change of Control (each, a “Drag-along Sale”), the Trident Shareholders shall have the right to require that each other Shareholder (each, a “Drag-along Shareholder”) participate in such Transfer in the manner set forth in this Section 3.03; provided, however, that no Drag-along Shareholder (other than Atrium Nominee) shall be required to participate in the Drag-along Sale if the consideration for the Drag-along Sale is other than cash or registered securities listed on an established U.S. or foreign securities exchange; provided, further that, notwithstanding the preceding proviso, if such consideration is not cash or registered securities listed on an established U.S. or foreign securities exchange, the Trident Shareholders shall be entitled to effect a Drag-Along Sale as long as the Dowling Shareholders and the Enstar Shareholder are given the option, in lieu of the same form and amount of consideration per Common Share to be received by the Trident Shareholders in such Drag-Along Sale, to elect to receive the same amount of consideration per Common Share as the Trident Shareholders but solely in the form of cash consideration equal to the fair market value of the consideration that would otherwise have been received absent such election, as mutually agreed by the Trident Shareholders and any Drag-along Shareholder making such election or, if no such agreement is reached, as determined by a mutually acceptable independent appraiser that shall determine the fair market value following its review of such information, analyses and calculations as the Trident Shareholders and any such Drag-along Shareholder deems relevant, without any discount for illiquidity or minority interest. Notwithstanding anything to the contrary in this Agreement, each Drag-along Shareholder shall vote in favor of the transaction and take all actions to waive any dissenters, appraisal or other similar rights.
+
+(b) The Trident Shareholders shall exercise their rights pursuant to this Section 3.03 by delivering a written notice (the “Drag-along Notice”) to the Company and each Dragalong Shareholder no later than 20 days prior to the closing date of such Drag-along Sale. The Drag-along Notice shall make reference to the Trident Shareholders’ rights and obligations hereunder and shall describe in reasonable detail:
+
+(i) the number of Common Shares to be sold by the Trident Shareholders, if the Drag-along Sale is structured as a Transfer of Common Shares;
+
+(ii) the identity of the Third Party Purchaser;
+
+(iii) the proposed date, time and location of the closing of the Drag-along Sale;
+
+
+
+10
+
+10
+
+
+
+(iv) the per share purchase price and the other material terms and conditions of the Transfer, including a description of any non-cash consideration in sufficient detail to permit the valuation thereof; and
+
+(v) a copy of any form of agreement proposed to be executed in connection therewith.
+
+(c) If the Drag-along Sale is structured as a Transfer of Common Shares, then, subject to Section 3.03(d), each Drag-along Shareholder shall Transfer the number of shares equal to the product of (x) the number of Common Shares held by such Dragalong Shareholder and (y) a fraction (A) the numerator of which is equal to the number of Common Shares the Trident Shareholders propose to sell or transfer in the aggregate in the Drag-along Sale and (B) the denominator of which is equal to the number of Common Shares then held by the Trident Shareholders.
+
+(d) The consideration to be received by a Drag-along Shareholder shall be the same form and amount of consideration per share of Common Shares to be received by the Trident Shareholders (or, if the Trident Shareholders are given an option as to the form and amount of consideration to be received, the same option shall be given) and the terms and conditions of such Transfer shall, except as otherwise provided in the immediately succeeding sentence, be the same as those upon which the Trident Shareholders Transfers their Common Shares. Each Drag-along Shareholder shall make or provide the same representations, warranties, covenants, indemnities and agreements as the Trident Shareholders make or provide in connection with the Dragalong Sale (except that in the case of representations, warranties, covenants, indemnities and agreements pertaining specifically to the Trident Shareholders, the Drag-along Shareholder shall make the comparable representations, warranties, covenants, indemnities and agreements pertaining specifically to itself); provided that all representations, warranties, covenants and indemnities shall be made by the Trident Shareholders and each Drag-along Shareholder severally and not jointly and any indemnification obligation shall be pro rata based on the consideration received by the Trident Shareholders and each Drag-along Shareholder, in each case in an amount not to exceed the aggregate proceeds received by the Trident Shareholders and each such Dragalong Shareholder in connection with the Drag-along Sale.
+
+(e) The fees and expenses of the Trident Shareholders incurred in connection with a Drag-along Sale and for the benefit of all Shareholders (it being understood that costs incurred by or on behalf of the Trident Shareholders for their sole benefit will not be considered to be for the benefit of all Shareholders), to the extent not paid or reimbursed by the Company or the Third Party Purchaser, shall be shared by all the Shareholders on a pro rata basis, based on the aggregate consideration received by each Shareholder; provided that no Shareholder shall be obligated to make or reimburse any out-of-pocket expenditure prior to the consummation of the Drag-along Sale.
+
+(f) Each Shareholder shall take all actions as may be reasonably necessary to consummate the Drag-along Sale, including entering into agreements and delivering certificates and instruments, in each case consistent with the agreements being entered into and the certificates being delivered by the Trident Shareholders.
+
+(g) The Trident Shareholders shall have 180 days following the date of the Drag-along Notice in which to consummate the Drag-along Sale, on the terms set forth in the Drag-along Notice (which such 180-day period may be extended for a reasonable time not to exceed 270 days to the extent reasonably necessary to obtain any Government Approvals). If at the end of such period, the Trident Shareholders have not completed the Drag-along Sale, the Trident Shareholders may not then effect a transaction subject to this Section 3.03 without again fully complying with the provisions of this Section 3.03.
+
+Section 3.04 Tag-along Rights.
+
+(a) If at any time a Shareholder (the “Selling Shareholder”) proposes to Transfer any of its Common Shares to a Third Party Purchaser (the “Proposed Transferee”), such Selling Shareholder (and if the Selling Shareholder is a Trident Shareholder and the Trident Shareholders cannot or have not elected to exercise their rights to effect a Drag-along Sale in accordance with Section 3.03), each other 
+
+
+
+11
+
+11
+
+
+
+Shareholder (other than the Atrium Nominee) (each, a “Tag-along Shareholder”) shall be permitted to participate in such Transfer (a “Tag-along Sale”) on the terms and conditions set forth in this Section 3.04.
+
+(b) Prior to the consummation of any such Transfer of Common Shares described in Section 3.04(a), and after satisfying its obligations (if any) pursuant to Section 3.02, the Selling Shareholder shall deliver to the Company and each other Shareholder a written notice (a “Sale Notice”) of the proposed Tag-along Sale subject to this Section 3.04 no later than 20 Business Days prior to the closing date of the Tag-along Sale. The Sale Notice shall make reference to the Tag-along Shareholders’ rights hereunder and shall describe in reasonable detail:
+
+(i) the aggregate number of Common Shares the Proposed Transferee has offered to purchase;
+
+(ii) the identity of the Proposed Transferee;
+
+(iii) the proposed date, time and location of the closing of the Tag-along Sale;
+
+(iv) the per share purchase price and the other material terms and conditions of the Transfer, including a description of any non-cash consideration in sufficient detail to permit the valuation thereof; and
+
+(v) a copy of any form of agreement proposed to be executed in connection therewith.
+
+(c) Each Tag-along Shareholder shall exercise its right to participate in a Transfer of Common Shares by the Selling Shareholder subject to this Section 3.04 by delivering to the Selling Shareholder and the Company a written notice (a “Tag-along Notice”) stating its election to do so and specifying the number of Common Shares to be Transferred by it no later than five Business Days after receipt of the Sale Notice (the “Tag-along Period”). If there are no Tag-along Shareholders or if all of the Tag-along Shareholders deliver to the Selling Shareholder and the Company Tag-along Notices with respect to all of the Common Shares held by such Tag-along Shareholders, then the Company shall deliver a notice to the Atrium Nominee within three Business Days of the end of the Tag-along Period notifying the Atrium Nominee of that fact whereupon the Atrium Nominee shall be entitled to elect to participate in such Tag-along Sale under this Section 3.04 alongside the other Shareholders in respect of all of the Common Shares held by it (but not part only thereof) by delivering to the Selling Shareholder and the Company a written notice (a “Atrium Nominee Tag Notice”) within five Business Days after the end of the Tag-along Period stating its election to do so (and in which case references hereafter to “Tag-along Shareholder(s)” shall be construed to include the Atrium Nominee accordingly). The offer of each Tag-along Shareholder set forth in a Tag-along Notice (or an Atrium Nominee Tag Notice, as applicable) shall be irrevocable, and, to the extent such offer is accepted, such Tag-along Shareholder shall be bound and obligated to Transfer in the proposed Transfer on the terms and conditions set forth in this Section 3.04. The Selling Shareholder and each Tag-along Shareholder shall have the right to Transfer in a Transfer subject to this Section 3.04 the number of Common Shares equal to the product of (x) the aggregate number of Common Shares the Proposed Transferee proposes to buy as stated in the Sale Notice and (y) a fraction (A) the numerator of which is equal to the number of Common Shares then held by the Selling Shareholder or such Tag-along Shareholder, as the case may be, and (B) the denominator of which is equal to the number of shares then held by the Selling Shareholder and each Tag-along Shareholder.
+
+(d) Each Tag-along Shareholder that does not deliver a Tag-along Notice (or an Atrium Nominee Tag Notice, as applicable) in compliance with Section 3.04(c) above shall be deemed to have waived all of such Tag-along Shareholder’s rights to participate in such Transfer, and the Selling Shareholder shall (subject to the rights of any participating Tag-along Shareholder) thereafter be free to Transfer to the Proposed Transferee its Common Shares at a per share price that is no greater than the per share price set forth Manual edit in the Sale Notice and on other terms and conditions which are not materially more favorable to the Selling Shareholder than those set forth in the Sale Notice without any further obligation to the non-accepting Tag-along Shareholders.
+
+
+
+12
+
+12
+
+
+
+(e) Each Tag-along Shareholder participating in a Transfer pursuant to this Section 3.04 shall receive the same consideration per share as the Selling Shareholder after deduction of such Tag-along Shareholder’s proportionate share of the related expenses in accordance with Section 3.04(g) below.
+
+(f) Each Tag-along Shareholder shall make or provide the same representations, warranties, covenants, indemnities and agreements as the Selling Shareholder makes or provides in connection with the Tag-along Sale (except that in the case of representations, warranties, covenants, indemnities and agreements pertaining specifically to the Selling Shareholder, the Tag-along Shareholder shall make the comparable representations, warranties, covenants, indemnities and agreements pertaining specifically to itself); provided that all representations, warranties, covenants and indemnities shall be made by the Selling Shareholder and each Tag-along Shareholder severally and not jointly and any indemnification obligation in respect of breaches of representations and warranties shall be pro rata based on the consideration received by the Selling Shareholder and each Tag-along Shareholder, in each case in an amount not to exceed the aggregate proceeds received by the Selling Shareholder and each such Tag-along Shareholder in connection with any Tag-along Sale.
+
+(g) The fees and expenses of the Selling Shareholder incurred in connection with a Tag-along Sale and for the benefit of all Shareholders (it being understood that costs incurred by or on behalf of the Selling Shareholder for its sole benefit will not be considered to be for the benefit of all Shareholders), to the extent not paid or reimbursed by the Company or the Proposed Transferee, shall be shared by all the Shareholders participating in the Tag-along Sale on a pro rata basis, based on the aggregate consideration received by each such Shareholder; provided that no Shareholder shall be obligated to make or reimburse any out-of-pocket expenditure prior to the consummation of the Tag-along Sale.
+
+(h) Each Tag-along Shareholder shall take all actions as may be reasonably necessary to consummate the Tag-along Sale, including entering into agreements and delivering certificates and instruments, in each case consistent with the agreements being entered into and the certificates being delivered by the Selling Shareholder.
+
+(i) The Selling Shareholder shall have 180 days following the expiration of the Tag-along Period in which to Transfer the Common Shares described in the Sale Notice, on the terms set forth in the Sale Notice (which such 180-day period may be extended for a reasonable time not to exceed 270 days to the extent reasonably necessary to obtain any Government Approvals). If at the end of such period, the Selling Shareholder has not completed such Transfer, the Selling Shareholder may not then effect a Transfer of Common Shares subject to this Section 3.04 without again fully complying with the provisions of this Section 3.04.
+
+(j) If the Selling Shareholder Transfers to the Proposed Transferee any of its Common Shares in breach of this Section 3.04, then each Tag-along Shareholder shall have the right to Transfer to the Selling Shareholder, and the Selling Shareholder undertakes to purchase from each Tag-along Shareholder, the number of Common Shares that such Tag-along Shareholder would have had the right to Transfer to the Proposed Transferee pursuant to this Section 3.04, for a per share amount and form of consideration and upon the terms and conditions on which the Proposed Transferee bought such Common Shares from the Selling Shareholder, but without indemnity being granted by any Tag-along Shareholder to the Selling Shareholder; provided that nothing contained in this Section 3.04 shall preclude any Shareholder from seeking alternative remedies against such Selling Shareholder as a result of its breach of this Section 3.04.
+
+(k) Notwithstanding the foregoing provisions of this Section 3.04, the Atrium Nominee shall be permitted to Transfer Common Shares to the Company or the Company’s designee in connection with any Leaver Sale without complying with the terms of this Section 3.04.
+
+Article 4 
+
+Pre-Emptive Rights and Other Agreements
+
+Section 4.01 Pre-emptive Rights.
+
+
+
+13
+
+13
+
+
+
+(a) The Company hereby grants to each Shareholder (other than the Atrium Nominee and the Dowling Shareholders) (each, a “Pre-emptive Shareholder”) the right to purchase its pro rata portion of any new Common Shares (other than any Excluded Securities) (the “New Securities”) that the Company may from time to time propose to issue or sell to any Person.
+
+(b) The Company shall give written notice (an “Issuance Notice”) of any proposed issuance or sale described in subsection (a) above to the Pre-emptive Shareholders within five Business Days following any meeting of the Board at which any such issuance or sale is approved. The Issuance Notice shall set forth the material terms and conditions of the proposed issuance or sale, including:
+
+(i) the number of New Securities proposed to be issued or sold and the percentage of the Company’s outstanding Common Shares, on a fully diluted basis, that such issuance or sale would represent;
+
+(ii) the proposed issuance or sale date, which shall be at least 15 Business Days from the date of the Issuance Notice; and
+
+(iii) the proposed purchase price per share.
+
+(c) Each Pre-emptive Shareholder shall for a period of 10 Business Days following the receipt of an Issuance Notice (the “Exercise Period”) have the right to elect irrevocably to purchase, at the purchase price set forth in the Issuance Notice, up to the amount of New Securities equal to the product of (x) the total number of New Securities to be issued or sold by the Company on the issuance or sale date (as the case may be) and (y) a fraction determined by dividing (A) the number of Common Shares owned by such Pre-emptive Shareholder immediately prior to such issuance or sale by (B) the total number of Common Shares owned by all Pre-emptive Shareholders on such date immediately prior to such issuance or sale (the “Pre-emptive Pro Rata Portion”) by delivering a written notice to the Company. Such Pre-emptive Shareholder’s election to purchase New Securities shall be binding and irrevocable.
+
+(d) No later than five Business Days following the expiration of the Exercise Period, the Company shall notify each Pre-emptive Shareholder in writing of the number of New Securities that each Pre-emptive Shareholder has agreed to purchase (including, for the avoidance of doubt, where such number is zero) (the “Over-allotment Notice”). Each Pre-emptive Shareholder exercising its right to purchase its Pre-emptive Pro Rata Portion of the New Securities in full (an “Exercising Shareholder”) shall have a right of over-allotment such that if any other Pre-emptive Shareholder fails to exercise its right under this Section 4.01 to purchase its Pre-emptive Pro Rata Portion of the New Securities (each, a “Non-Exercising Shareholder”), such Exercising Shareholder may purchase all or any portion of such Non-Exercising Shareholder’s allotment (the “Overallotment New Securities”) by giving written notice to the Company (within five Business Days of receipt of the Over-allotment Notice (the “Over-allotment Exercise Period”)) setting forth the number of Overallotment New Securities that such Exercising Shareholder is willing to purchase. Such Exercising Shareholder’s election to purchase Over-allotment New Securities shall be binding and irrevocable. If more than one Exercising Shareholder elects to exercise its right of over-allotment, each Exercising Shareholder shall have the right to purchase the number of Over-allotment New Securities it elected to purchase in its written notice; provided that if the over-allotment New Securities are over-subscribed, each Exercising Shareholder shall purchase its pro rata portion of the available Over-allotment New Securities based upon the relative Preemptive Pro Rata Portions of the Exercising Shareholders.
+
+(e) The Company shall be free to complete the proposed issuance or sale of New Securities described in the Issuance Notice with respect to any New Securities not elected to be purchased pursuant to Section 4.01(c) and Section 4.01(d) above in accordance with the terms and conditions set forth in the Issuance Notice (except that the amount of New Securities to be issued or sold by the Company may be reduced) so long as such issuance or sale is closed within 180 days after the expiration of the Overallotment Exercise Period (subject to the extension of such 180-day period for a reasonable time not to exceed 270 days to the extent reasonably necessary to obtain any Government Approvals). In the event the Company has not issued or sold such New Securities within such time period, the Company shall not 
+
+
+
+14
+
+14
+
+
+
+thereafter issue or sell any New Securities without first again offering such securities to the Pre-emptive Shareholders in accordance with the procedures set forth in this Section 4.01.
+
+(f) Upon the consummation of the issuance or sale of any New Securities in accordance with this Section 4.01, the Company shall deliver to each Exercising Shareholder certificates (if any) evidencing the New Securities, which New Securities shall be issued free and clear of any Liens (other than those arising hereunder or under Applicable Law and those attributable to the actions of the purchasers thereof), and the Company shall so represent and warrant to the purchasers thereof, and further represent and warrant to such purchasers that such New Securities shall be, upon issuance thereof to the Exercising Shareholders and after payment therefor, duly authorized and validly issued. Each Exercising Shareholder shall deliver to the Company the purchase price for the New Securities purchased by it by wire transfer of immediately available funds. Each party to the purchase and sale of New Securities shall take all such other actions as may be reasonably necessary to consummate the purchase and sale including entering into such additional agreements as may be necessary or appropriate. 
+
+(g) If the Board determines in good faith that circumstances require the Company to issue or sell the New Securities to the Trident Shareholders or their respective Affiliates, the Company shall be permitted to issue or sell such New Securities to such Trident Shareholders and/or their respective Affiliates without complying with the Issuance Notice and related provisions set forth above, provided that as promptly as reasonably practicable following such issuance or sale, the Company permits each Pre-Emptive Shareholder having rights under this Section 4.01 to purchase such Pre-Emptive Right Shareholder’s proportionate amount of such New Securities in the manner contemplated by this Section 4.01. 
+
+Section 4.02 Corporate Opportunities. Notwithstanding anything contained in this Agreement or under Applicable Law to the contrary (to the full extent permitted by Applicable Law), (i) each of the Trident Shareholders, the Enstar Shareholder and the Dowling Shareholders and their respective Affiliates (A) may engage in or possess an interest in other business ventures of any nature and description (whether similar or dissimilar to the business of the Company or any of its Subsidiaries), independently or with others, and none of the Company, any Subsidiary, any other Shareholder, and each of their respective Affiliates, shall have any right by virtue of this Agreement in or to any such investment or interest of the Trident Shareholders, the Enstar Shareholder, the Dowling Shareholders, any Director and any of its or their respective Affiliates to any income or profits derived therefrom, and the pursuit of any such venture shall not be deemed wrongful or improper, and (B) shall not be obligated to present any investment opportunity to the Company or any Subsidiary even if such opportunity is of a character that, if presented to the Company or any Subsidiary, could be taken by the Company or such Subsidiary, and (ii) the parties hereby waive (and the Company shall cause the Subsidiaries to waive) to the fullest extent permitted by law any fiduciary or other duty of the Trident Shareholders, the Enstar Shareholder, the Dowling Shareholders and the Directors not expressly set forth in this Agreement, including fiduciary or other duties that may be related to or associated with self-dealing, corporate opportunities or otherwise, in each case so long as such Person acts in a manner consistent with this Agreement.
+
+Section 4.03 Confidentiality.
+
+(a) Each party shall, and shall cause its Representatives to, keep confidential and not divulge any information (including all budgets, business plans and analyses) concerning the Company and its Subsidiaries, including their assets, business, operations, financial condition or prospects (“Information”), and to use, and cause its Representatives to use, such Information only in connection with the operation of the Company and its Subsidiaries; provided that nothing herein shall prevent any party from disclosing such Information (i) upon the order of any court or administrative agency, (ii) upon the request or demand of any regulatory agency or authority having jurisdiction over such party, (iii) to the extent compelled by legal process or required or requested pursuant to subpoena, interrogatories or other discovery requests, to the extent necessary in connection with the exercise of any remedy hereunder, (v) to the other parties, (vi) to such party’s Representatives that in the reasonable judgment of such party need to know such Information or (vii) to any potential Permitted Transferee in connection with a proposed Transfer of 
+
+
+
+15
+
+15
+
+
+
+Common Shares from such party as long as such transferee agrees to be bound by the provisions of this Section 4.03 as if a party; provided, further, that in the case of clause (i), (ii) or (iii), such party shall notify the other parties of the proposed disclosure as far in advance of such disclosure as practicable and use reasonable efforts to ensure that any Information so disclosed is accorded confidential treatment, when and if available.
+
+(b) The restrictions of Section 4.03(a) shall not apply to information that (i) is or becomes generally available to the public other than as a result of a disclosure by a party or any of its Representatives in violation of this Agreement; (ii) is or becomes available to a party or any of its Representatives on a non-confidential basis prior to its disclosure to the receiving party and any of its Representatives, is or has been independently developed or conceived by such party without use of the Company’s or any of its Subsidiaries’ Information or (iii) becomes available to the receiving party or any of its Representatives on a non-confidential basis from a source other than the Company or any of its Subsidiaries, any other party or any of their respective Representatives; provided that such source is not known by the recipient of the information to be bound by a confidentiality agreement with the disclosing party or any of its Representatives. Furthermore, Section 4.03(a) shall not restrict (a) the Enstar Shareholder and its Affiliates from disclosing any Information required to be disclosed under applicable securities laws or the rules of any stock exchange upon which their securities are traded, and (b) the Trident Shareholders and their Affiliates from disclosing any Information to its and their respective partners (general or limited), members, stockholders, prospective investors, lenders or financing sources, in each case, in the ordinary course of business, or any prospective purchaser of its Common Shares.
+
+Section 4.04 Registration Rights. Upon the request of any Initial Shareholder in connection with a contemplated public offering of the equity of the Company or any of its Subsidiaries, the Company shall enter into (or shall cause the applicable Subsidiary to enter into) a registration rights agreement with the Initial Shareholders containing customary provisions for a transaction of that type, provided, however, (a) in the case of the Trident Shareholders, such registration rights agreement shall include demand registration rights and piggyback registration rights customary for a transaction of this type, and (b) in the case of the Enstar Shareholder, such registration rights agreement shall include piggyback registration rights but exclude demand registration rights, and, in each case, any piggyback rights shall include ratable cutbacks, if necessary, regardless of the piggyback party.
+
+Section 4.05 Indemnification; Insurance. In addition to any other indemnification rights any Directors have pursuant to the memorandum of association or bye-laws of the Company and any agreement with the Company, each Director shall have the right to enter into, and the Company agrees to enter into, an indemnification agreement with each such Director, which indemnification agreement shall be reasonably acceptable to the Company. The Company shall maintain director and officer insurance covering the Directors containing terms and conditions reasonably acceptable to the Company. 
+
+Section 4.06 Distribution of Proceeds Upon Sale of All or Substantially All Assets. To the extent the Company sells all or substantially all of its assets in a transaction to a Third Party Purchaser and does not dissolve within 90 days thereafter, subject to Applicable Law, the Company shall thereafter promptly dividend the aggregate proceeds from such transaction (net of any expenses incurred by the Company in connection with such transaction and net of any liabilities retained by the Company after giving effect to such transaction as determined in good faith by the Board) to each Shareholder, subject to the terms of any Plans, in accordance with Section 15 of the Bye-laws. 
+
+Section 4.07 “Market Stand-off” Agreement. Notwithstanding anything herein to the contrary, each Shareholder that owns beneficially at least five percent (5%) of the outstanding Common Shares at the time of any public offering by the Company of its Common Shares shall agree that during the period beginning seven (7) days before and ending (x) one hundred eighty (180) days (subject to any customary “booster shot” extensions) in the event of an Initial Public Offering or such shorter period if permitted by the managing underwriter or underwriters or (y) ninety (90) days (subject to any customary “booster shot” extensions) in the event of any other underwritten offering other than an Initial Public Offering after the date of the underwriting agreement entered into in connection with such underwritten offering, such Shareholder or its Permitted Transferees shall not, to the extent requested by the Company or the Trident 
+
+
+
+16
+
+16
+
+
+
+Shareholders and/or any underwriter, if applicable, (i) offer for sale, sell, pledge, or otherwise dispose of (or enter into any transaction or device that is designed to, or could be expected to, result in the disposition by any person at any time in the future of) any Common Shares (including Common Shares that may be deemed to be beneficially owned by such Shareholder in accordance with the rules and regulations of the Securities Exchange Commission and Common Shares that may be issued upon exercise of any convertible into or exchangeable securities) or securities convertible into or exchangeable for Common Shares, (ii) enter into any swap or other derivatives transaction that transfers to another, in whole or in part, any of the economic benefits or risks of ownership of Common Shares, whether any such transaction described in clause (i) or (ii) above is to be settled by delivery of Common Shares, in cash or otherwise, (iii) make any demand for or exercise any right or cause to be filed a registration statement, including any amendments thereto, with respect to the registration of any Common Shares or securities convertible into or exchangeable for Common Shares or (iv) publicly disclose the intention to do any of the foregoing; provided, that the Trident Shareholders are bound by and have entered into similar agreements; and provided further, that if the Trident Shareholders agree to such restrictions for any shorter period than prescribed above, then each other Shareholder shall only be obligated as provided in this Section 4.07 for such shorter period. If requested by the managing underwriter or underwriters of any such underwritten offering, each Shareholder, as applicable, shall execute a customary agreement on the same terms and conditions as the Trident Shareholders reflecting its agreement set forth in this Section 4.07. The Company may impose stop-transfer instructions with respect to the shares (or securities) subject to the foregoing restriction until the end of the period referenced above. 
+
+Article 5 
+
+Information Rights
+
+Section 5.01 Financial Statements and Reports. In addition to, and without limiting any rights that a Shareholder may have with respect to inspection of the books and records of the Company under Applicable Laws, the Company shall furnish to each Shareholder (other than the Atrium Nominee):
+
+(a) Within 45 days after the end of each quarterly accounting period, an unaudited consolidated balance sheet of the Company as of the end of such quarterly accounting period and an unaudited related consolidated income statement, consolidated statement of shareholders’ equity and consolidated statement of cash flows for such quarterly accounting period including any footnotes thereto (if any) prepared in accordance with GAAP, consistently applied, together with comparable year-to-date figures; 
+
+(b) Within 90 days after the end of each Fiscal Year (or such longer period of time as is approved by the Board), an audited consolidated balance sheet of the Company as of the end of such Fiscal Year and the related consolidated income statement, consolidated statement of shareholders’ equity, and consolidated statement of cash flows including all footnotes thereto for such Fiscal Year prepared in accordance with GAAP, consistently applied; and 
+
+(c) Such other financial, accounting or other information relating to the Company and its Subsidiaries or their respective operations as any Initial Shareholder or the Dowling Shareholders may reasonably request from time to time in form and substance reasonably acceptable to such requesting Shareholder. 
+
+Section 5.02 Inspection Rights. 
+
+(a) The Company shall, and shall cause its officers, Directors and employees to, afford each Shareholder (other than the Atrium Nominee) that, together with any Affiliates and/or Permitted Transferees, owns at least 5% of the Company’s outstanding Common Shares and the Representatives of each such Shareholder, during normal business hours and upon reasonable notice, (i) reasonable access at all reasonable times to its and its Subsidiaries’ officers, employees, auditors, properties, offices, plants and other facilities and to all books and records, and (ii) the opportunity to consult with its and its Subsidiaries’ officers from time to time regarding the Company’s and its Subsidiaries’ affairs, finances and accounts as each such Shareholder may reasonably request upon reasonable notice. 
+
+
+
+17
+
+17
+
+
+
+(b) The right set forth in Section 5.02(a) shall not and is not intended to limit any rights which the Shareholders may have with respect to the books and records of the Company, or to inspect its properties or discuss its affairs, finances and accounts under the laws of the jurisdiction in which the Company is incorporated. 
+
+Article 6 
+
+Cessation of Employment
+
+Section 6.01 Leavers. If a Beneficial Owner leaves employment with the Atrium Group and/or otherwise ceases to be an employee or officer of or consultant to a member of the Atrium Group for whatever reason, such Beneficial Owner will become a “Leaver” in relation to any Common Shares (or other shares of the Company which are issued pursuant to a scheme approved by the Board for the return of income or capital to shareholders) held by the Atrium Nominee (as Nominee) on behalf of such Beneficial Owner. If the Company elects to exercise its rights under the Leaver Sale Provisions (a “Leaver Sale”), then the Atrium Nominee shall be permitted hereunder to Transfer any Common Shares held by the Atrium Nominee on behalf of such Leaver in accordance with the terms of the Leaver Sale Provisions.
+
+Article 7 
+
+Representations and Warranties
+
+Section 7.01 Representations and Warranties. Each Shareholder, severally and not jointly, represents and warrants to the Company and each other Shareholder that:
+
+(a) Such Shareholder (if an entity) is a corporation, company, partnership or limited liability company duly organized or formed, validly existing and in good standing under the laws of its jurisdiction of organization.
+
+(b) Such Shareholder (if an entity) has full corporate, company or partnership power and authority to execute and deliver this Agreement, to perform its obligations hereunder and to consummate the transactions contemplated hereby. The execution and delivery of this Agreement, the performance of its obligations hereunder and the consummation of the transactions contemplated hereby have been duly authorized (if such Shareholder is an entity) by all requisite corporate or company action of such Shareholder. Such Shareholder has duly executed and delivered this Agreement.
+
+(c) This Agreement constitutes the legal, valid and binding obligation of such Shareholder, enforceable against such Shareholder in accordance with its terms except as enforceability may be limited by applicable bankruptcy, insolvency, reorganization, moratorium or similar laws affecting the enforcement of creditors’ rights generally and by general equitable principles (whether enforcement is sought by proceedings in equity or at law). The execution, delivery and performance of this Agreement and the consummation of the transactions contemplated hereby require no action by or in respect of, or filing with, any Governmental Authority.
+
+(d) The execution, delivery and performance by such Shareholder of this Agreement and the consummation of the transactions contemplated hereby do not (i) conflict with or result in any violation or breach of any provision of any of the organizational documents of such Shareholder (if an entity), (ii) conflict with or result in any violation or breach of any provision of any Applicable Law or (iii) require any consent or other action by any Person under any provision of any material agreement or other instrument to which such Shareholder is a party.
+
+(e) Except for this Agreement, the Recapitalization Agreement, the Plans (including the ancillary documentation relating to the acquisition of Common Shares pursuant to the Plans) and the Nominee Agreements, such Shareholder has not entered into or agreed to be bound by any other agreements or arrangements of any kind with any other Person with respect to the Common Shares, including agreements or arrangements with respect to the acquisition or disposition of the Common Shares or any interest therein or the voting of the Common Shares (whether or not such agreements and arrangements are with the Company or any other Person).
+
+Article 8 
+
+
+
+18
+
+18
+
+
+
+Term and Termination
+
+Section 8.01 Termination. This Agreement shall terminate upon the earliest of:
+
+(a) the consummation of an Initial Public Offering;
+
+(b) the consummation of a merger or other business combination involving the Company whereby the Common Shares become a security that is listed or admitted to trading on the NASDAQ Stock Market, the New York Stock Exchange or another national securities exchange;
+
+(c) the date on which no more than one Shareholder holds any Common Shares; 
+
+(d) the dissolution, liquidation or winding up of the Company; or
+
+(e) upon the unanimous agreement of the Shareholders.
+
+Section 8.02 Effect of Termination.
+
+(a) The termination of this Agreement shall terminate all further rights and obligations of the Shareholders under this Agreement except that such termination shall not effect:
+
+(i) the existence of the Company;
+
+(ii) the obligation of any party to pay any amounts arising on or prior to the date of termination, or as a result of or in connection with such termination;
+
+(iii) the rights which any Shareholder may have by operation of law as a shareholder of the Company; or
+
+(iv) the rights contained herein which by their terms are intended to survive termination of this Agreement.
+
+(b) The following provisions shall survive the termination of this Agreement: Section 4.03, Section 4.07, this Section 8.02, Section 9.03, Section 9.11, Section 9.12 and Section 9.13.
+
+Article 9 
+
+Miscellaneous
+
+Section 9.01 Expenses. Except as otherwise expressly provided herein, all costs and expenses, including fees and disbursements of counsel, financial advisors and accountants, incurred in connection with this Agreement and the transactions contemplated hereby shall be paid by the party incurring such costs and expenses.
+
+Section 9.02 Release of Liability. In the event any Shareholder shall Transfer all of the Common Shares held by such Shareholder in compliance with the provisions of this Agreement without retaining any interest therein, then such Shareholder shall cease to be a party to this Agreement and shall be relieved and have no further liability arising hereunder for events occurring from and after the date of such Transfer.
+
+Section 9.03 Notices. All notices, requests, consents, claims, demands, waivers and other communications hereunder shall be in writing and shall be deemed to have been given (a) when delivered by hand (with written confirmation of receipt), (b) when received by the addressee if sent by an internationally recognized overnight courier (receipt requested), (c) on the date sent by email of a PDF document (with confirmation of transmission) if sent during normal business hours of the recipient, and on the next Business Day if sent after normal business hours of the recipient or (d) on the third day after the date mailed, by certified or registered mail, return receipt requested, postage prepaid. Such communications must be sent to the respective parties at the following addresses (or at such other address for a party as shall be specified in a notice given in accordance with this Section 9.03):
+
+
+
+19
+
+19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If to the Company:
+
+c/o Atrium Underwriting Group Limited Lloyd’s Building, Room 790 1 Lime Street London, England EC3M 7DQ Email: Attention: Chief Legal Officer
+
+with a copy in each case to (which shall not constitute notice):
+
+c/o Stone Point Capital LLC 20 Horseneck Lane Greenwich, CT 06830 Email: slevey@stonepoint.com mailto: Attention: Stephen Leve
+
+If to the Trident Shareholders:
+
+c/o Stone Point Capital LLC 20 Horseneck Lane Greenwich, CT 06830 Email: slevey@stonepoint.com Attention: Stephen Levey
+
+with a copies to (which shall not constitute notice):
+
+c/o Stone Point Capital LLC 20 Horseneck Lane Greenwich, CT 06830 Email: contracts@stonepoint.com Attention: General Counsel
+
+
+
+Willkie Farr & Gallagher LLP
+787 Seventh Avenue
+New York, New York 10019
+Email: sseidman@willkie.com; sewen@willkie.com
+Attention: Steven A. Seidman; Sean M. Ewen
+
+If to the Enstar Shareholder:
+
+c/o Enstar Group Limited
+Windsor Place, 3rd Floor
+22 Queen Street
+Hamilton HM 11
+Bermuda
+Email: paul.o’shea@enstargroup.com
+Attention: Paul O’Shea, President
+
+with a copy in each case to (which shall not constitute notice):
+
+Hogan Lovells US LLP
+1735 Market Street, Suite 2300
+Philadelphia, Pennsylvania 19103
+Email: bob.juelke@hoganlovells.com; dave.marley@hoganlovells.com
+Attention: Robert C. Juelke; Dave C. Marley
+
+If to the Dowling Shareholders:
+
+c/o Dowling Capital Partners
+190 Farmington Avenue
+Farmington, CT 06032
+Email: justin@dowlingcapitalpartners.com
+Attention: Justin Faust
+
+If to the Atrium Nominee:
+
+c/o Atrium Underwriting Group Limited Lloyd’s Building, Room 790 1 Lime Street London, England EC3M 7DQ Email: peter.hargrave@atrium-uw.com Attention: Peter Hargrave, Human Resources Director
+
+
+
+Section 9.04 Interpretation. For purposes of this Agreement, (a) the words “include,” “includes” and “including” shall be deemed to be followed by the words “without limitation;” (b) the word “or” is not exclusive; and (c) the words “herein,” “hereof,” “hereby,” “hereto” and “hereunder” refer to this Agreement as a whole. The definitions given for any defined terms in this Agreement shall apply equally to both the singular and plural forms of the terms defined. Whenever the context may require, any pronoun shall include the corresponding masculine, feminine and neuter forms. Unless the context otherwise requires, references herein: (x) to Articles, Sections, and Exhibits mean the Articles and Sections of, and Exhibits attached to, this Agreement; (y) to an agreement, instrument or other document means such agreement, instrument or other document as amended, supplemented and modified from time to time to the extent permitted by the provisions thereof and (z) to a statute means such statute as amended from time to time and includes any successor legislation thereto and any regulations promulgated thereunder. This Agreement shall be construed without regard to any presumption or rule requiring construction or interpretation against the party drafting an instrument or causing any instrument to be drafted. The Exhibits referred to herein shall be construed with, and as an integral part of, this Agreement to the same extent as if they were set forth verbatim herein.
+
+Section 9.05 Headings. The headings in this Agreement are for reference only and shall not affect the interpretation of this Agreement.
+
+Section 9.06 Severability. If any term or provision of this Agreement is invalid, illegal or unenforceable in any jurisdiction, such invalidity, illegality or unenforceability shall not affect any other term or provision of this Agreement or invalidate or render unenforceable such term or provision in any other jurisdiction. Upon such determination that any term or other provision is invalid, illegal or unenforceable, the parties hereto shall negotiate in good faith to modify this Agreement so as to effect the original intent of the parties as closely as possible in a mutually acceptable manner in order that the transactions contemplated hereby be consummated as originally contemplated to the greatest extent possible.
+
+Section 9.07 Entire Agreement. This Agreement, the Organizational Documents, the Plans, the Recapitalization Agreement and the Nominee Agreements constitute the sole and entire agreement of the parties with respect to the subject matter contained herein and therein, and supersede all prior and contemporaneous understandings and agreements, both written and oral, with respect to such subject matter. In the event of any inconsistency or conflict between this Agreement and any Organizational Document, the Shareholders and the Company shall, to the extent permitted by Applicable Law, amend such Organizational Document to comply with the terms of this Agreement. 
+
+Section 9.08 Successors and Assigns. This Agreement shall be binding upon and shall inure to the benefit of the parties hereto and their respective successors and permitted assigns.
+
+Section 9.09 No Third-Party Beneficiaries. This Agreement is for the sole benefit of the parties hereto and their permitted assigns and nothing herein, express or implied, is intended to or shall confer upon any other Person or entity any legal or equitable right, benefit or remedy of any nature whatsoever under or by reason of this Agreement.
+
+
+
+20
+
+20
+
+
+
+Section 9.10 Amendment and Modification; Waiver. Subject to Section 2.02(a), this Agreement may only be amended, modified or supplemented by an agreement in writing signed by the Company and the Trident Shareholders; provided that any amendment that would materially and adversely affect the rights or duties of a Shareholder shall require the consent of such Shareholder. No waiver by any party of any of the provisions hereof shall be effective unless explicitly set forth in writing and signed by the party so waiving. No waiver by any party shall operate or be construed as a waiver in respect of any failure, breach or default not expressly identified by such written waiver, whether of a similar or different character, and whether occurring before or after that waiver. No failure to exercise, or delay in exercising, any right, remedy, power or privilege arising from this Agreement shall operate or be construed as a waiver thereof; nor shall any single or partial exercise of any right, remedy, power or privilege hereunder preclude any other or further exercise thereof or the exercise of any other right, remedy, power or privilege.
+
+Section 9.11 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of New York without giving effect to any choice or conflict of law provision or rule (whether of New York or any other jurisdiction) that would cause the application of the laws of any jurisdiction other than those of New York.
+
+Section 9.12 Submission to Jurisdiction; Waiver of Jury Trial.
+
+(a) ANY LEGAL SUIT, ACTION OR PROCEEDING ARISING OUT OF OR BASED UPON THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY MAY BE INSTITUTED IN THE FEDERAL COURTS OF THE UNITED STATES OF AMERICA OR THE COURTS OF THE STATE OF NEW YORK IN EACH CASE LOCATED IN THE CITY OF NEW YORK AND COUNTY OF NEW YORK, AND EACH PARTY IRREVOCABLY SUBMITS TO THE EXCLUSIVE JURISDICTION OF SUCH COURTS IN ANY SUCH SUIT, ACTION OR PROCEEDING. SERVICE OF PROCESS, SUMMONS, NOTICE OR OTHER DOCUMENT BY MAIL TO SUCH PARTY’S ADDRESS SET FORTH HEREIN SHALL BE EFFECTIVE SERVICE OF PROCESS FOR ANY SUIT, ACTION OR OTHER PROCEEDING BROUGHT IN ANY SUCH COURT. THE PARTIES IRREVOCABLY AND UNCONDITIONALLY WAIVE ANY OBJECTION TO THE LAYING OF VENUE OF ANY SUIT, ACTION OR ANY PROCEEDING IN SUCH COURTS AND IRREVOCABLY WAIVE AND AGREE NOT TO PLEAD OR CLAIM IN ANY SUCH COURT THAT ANY SUCH SUIT, ACTION OR PROCEEDING BROUGHT IN ANY SUCH COURT HAS BEEN BROUGHT IN AN INCONVENIENT FORUM.
+
+(b) EACH PARTY ACKNOWLEDGES AND AGREES THAT ANY CONTROVERSY WHICH MAY ARISE UNDER THIS AGREEMENT IS LIKELY TO INVOLVE COMPLICATED AND DIFFICULT ISSUES AND, THEREFORE, EACH SUCH PARTY IRREVOCABLY AND UNCONDITIONALLY WAIVES ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN RESPECT OF ANY LEGAL ACTION ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY. EACH PARTY TO THIS AGREEMENT CERTIFIES AND ACKNOWLEDGES THAT (I) NO REPRESENTATIVE OF ANY OTHER PARTY HAS REPRESENTED, EXPRESSLY OR OTHERWISE, THAT SUCH OTHER PARTY WOULD NOT SEEK TO ENFORCE THE FOREGOING WAIVER IN THE EVENT OF A LEGAL ACTION, (II) SUCH PARTY HAS CONSIDERED THE IMPLICATIONS OF THIS WAIVER, (III) SUCH PARTY MAKES THIS WAIVER VOLUNTARILY, AND (IV) SUCH PARTY HAS BEEN INDUCED TO ENTER INTO THIS AGREEMENT BY, AMONG OTHER THINGS, THE MUTUAL WAIVERS AND CERTIFICATIONS IN THIS SECTION 9.12(b).
+
+Section 9.13 Equitable Remedies. Each party hereto acknowledges that the other parties hereto would be irreparably damaged in the event of a breach or threatened breach by such party of any of its obligations under this Agreement and hereby agrees that in the event of a breach or a threatened breach by such party of any such obligations, each of the other parties hereto shall, in addition to any and all other rights and remedies that may be available to them in respect of such breach, be entitled to an injunction from a court of competent jurisdiction (without any requirement to post bond) granting such parties specific performance by such party of its obligations under this Agreement.
+
+Section 9.14 Counterparts. This Agreement may be executed in counterparts, each of which shall be deemed an original, but all of which together shall be deemed to be one and the same 
+
+
+
+21
+
+21
+
+
+
+agreement. A signed copy of this Agreement delivered by email or other means of electronic transmission shall be deemed to have the same legal effect as delivery of an original signed copy of this Agreement.
+
+
+
+
+
+
+
+
+
+[SIGNATURE PAGE FOLLOWS]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22
+
+22
+
+
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed as of the date first written above by their respective representatives thereunto duly authorized.
+
+
+
+Northshore Holdings Limited
+
+
+
+By: /s/ Orla Gregory
+
+Name: Orla Gregory
+
+Title: Director
+
+
+
+Trident V, L.P.
+
+
+
+By: Stone Point Capital LLC, its manager
+
+
+
+By: /s/ Stephen Levey
+
+Name: Stephen Levey 
+
+Title: Principal and Counsel
+
+
+
+Trident V Parallel Fund, L.P.
+
+
+
+By: Stone Point Capital LLC, its manager
+
+
+
+By: /s/ Stephen Levey
+
+Name: Stephen Levey 
+
+Title: Principal and Counsel
+
+
+
+Trident V Professionals Fund, L.P.
+
+
+
+By: Stone Point Capital LLC, its manager
+
+
+
+By: /s/ Stephen Levey
+
+Name: Stephen Levey 
+
+Title: Principal and Counsel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kenmare Holdings Ltd.
+
+
+
+By: /s/ Duncan Scott
+
+Name: Duncan Scott
+
+Title: Director
+
+
+
+Dowling Capital Partners I, L.P.
+
+
+
+By: Dowling Capital I, LLC, its general partner
+
+
+
+By: Dowling Capital SLP I, LLC, its sole member
+
+
+
+By: /s/ Vincent J. Dowling, Jr.
+
+Name: Vincent J. Dowling, Jr.
+
+Title: Managing Director
+
+
+
+Capital City Partners LLC
+
+
+
+By: /s/ Vincent J. Dowling, Jr.
+
+Name: Vincent J. Dowling, Jr.
+
+Title: Managing Member
+
+
+
+
+
+
+
+
+
+
+
+
+
+Atrium Nominees Limited
+
+
+
+By: /s/ Richard Harries
+
+Name: Richard Harries
+
+Title: Chief Executive Officer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EXHIBIT A
+
+
+
+Joinder Agreement
+
+Reference is hereby made to the Third Amended and Restated Shareholders’ Agreement, dated as of January 1, 2021 (as amended from time to time, the “Shareholders’ Agreement”), by and among Northshore Holdings Limited, a Bermuda exempted company (the “Company”), Trident V, L.P., Trident V Parallel Fund, L.P., Trident V Professionals Fund, L.P., Kenmare Holdings Ltd., Dowling Capital Partners I, L.P., Capital City Partners LLC, Atrium Nominees Limited and the other parties thereto from time to time. Pursuant to and in accordance with Section 3.01(e) of the Shareholders’ Agreement, the undersigned hereby agrees that upon the execution of this Joinder Agreement, it shall become a party to the Shareholders’ Agreement and shall be fully bound by, and subject to, all of the covenants, terms and conditions of the Shareholders’ Agreement as though an original party thereto and shall be deemed to be a Shareholder of the Company for all purposes thereof.
+
+Capitalized terms used herein without definition shall have the meanings ascribed thereto in the Shareholders’ Agreement.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of [DATE].
+
+Northshore Holdings Limited
+
+By: 
+
+Name: 
+
+Title:
+
+[New Shareholder]
+
+By: 
+
+Name: 
+
+Title:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Schedule I
+
+Ownership 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Shareholder
+
+Common Shares held
+
+Trident V, L.P.
+
+37,937.12
+
+Trident V Parallel Fund, L.P.
+
+119,968.71
+
+Trident V Professionals Fund, L.P.
+
+84,135.65
+
+Kenmare Holdings Ltd.
+
+5,263.74
+
+Dowling Capital Partners I, L.P.
+
+3,759.22
+
+Capital City Partners LLC
+
+535.57
+
+Atrium Nominees Limited
+
+22,848
